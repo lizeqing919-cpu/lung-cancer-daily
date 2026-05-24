@@ -336,6 +336,9 @@ def main():
     pmids_a, articles_a = fetch_part(config.QUERY_PART_A_TEMPLATE, config.DATE_RANGE_DAYS, "PartA")
     log.info("Part A: %d articles", len(articles_a))
 
+    # Rate-limit pause between parts (PubMed: 3 req/sec without API key)
+    time.sleep(1.5)
+
     # Part B: Lymph node
     pmids_b, articles_b = fetch_part(config.QUERY_PART_B_TEMPLATE, config.DATE_RANGE_DAYS, "PartB")
     log.info("Part B (lymph node): %d articles", len(articles_b))
@@ -354,6 +357,7 @@ def main():
         shortage = config.MIN_DAILY_ARTICLES - len(all_articles)
         log.info("Below minimum (%d < %d). Running fallback...",
                  len(all_articles), config.MIN_DAILY_ARTICLES)
+        time.sleep(1.5)  # rate-limit before Part C
         pmids_c, articles_c = fetch_part_c_fallback(all_pmids_seen, journal_if_db)
 
         # Take only what's needed

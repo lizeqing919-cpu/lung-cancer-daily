@@ -93,7 +93,7 @@ PUBTYPE_SCORE_BONUS = {
 
 # ---- DeepSeek API ----
 
-DEEPSEEK_MODEL = "deepseek-v4-pro"
+DEEPSEEK_MODEL = "deepseek-chat"  # DeepSeek V3, their most capable chat model
 DEEPSEEK_BATCH_SIZE = 10
 DEEPSEEK_MAX_TOKENS_PER_ARTICLE = 300
 
@@ -102,7 +102,7 @@ DEEPSEEK_MAX_TOKENS_PER_ARTICLE = 300
 PUBMED_ESEARCH_URL = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi"
 PUBMED_EFETCH_URL = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi"
 PUBMED_RETMAX = 200
-PUBMED_SLEEP_SEC = 0.4  # without API key; 0.15 with key
+PUBMED_SLEEP_SEC = 0.5  # without API key (3 req/sec limit); 0.15 with key
 
 # ---- Paths ----
 
