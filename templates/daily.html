@@ -18,6 +18,13 @@
   </div>
 </header>
 
+<section class="countdown-section">
+  <h2 class="countdown-title">大会倒计时</h2>
+  <div id="countdown-grid" class="countdown-grid">
+    <span class="countdown-loading">加载中...</span>
+  </div>
+</section>
+
 <main>
   <div class="summary-bar">
     <span>共 <strong>{{article_count}}</strong> 篇</span>
@@ -33,6 +40,7 @@
 </footer>
 
 </div>
+{{countdown_script}}
 <script src="assets/js/main.js"></script>
 </body>
 </html>

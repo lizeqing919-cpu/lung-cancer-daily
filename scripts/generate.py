@@ -172,9 +172,15 @@ def _render_daily(articles, date_str):
 
     generated_at = datetime.now(timezone(timedelta(hours=8))).strftime("%Y-%m-%d %H:%M CST")
 
+    # Countdown data as JS variable
+    import json as _json
+    countdown_json = _json.dumps(config.UPCOMING_CONFERENCES, ensure_ascii=False)
+    countdown_script = f"<script>window.__COUNTDOWN_DATA__ = {countdown_json};</script>"
+
     html = template.replace("{{date}}", date_str)
     html = html.replace("{{generated_at}}", generated_at)
     html = html.replace("{{article_count}}", str(total))
+    html = html.replace("{{countdown_script}}", countdown_script)
     html = html.replace("{{content_html}}", content_html)
 
     return html

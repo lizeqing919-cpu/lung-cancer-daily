@@ -3,6 +3,56 @@
 import os
 from datetime import datetime, timedelta, timezone
 
+# ---- Conference Countdown ----
+
+UPCOMING_CONFERENCES = [
+    {
+        "name": "ASCO 2026", "cn": "美国临床肿瘤学会年会",
+        "start": "2026-06-05", "end": "2026-06-09", "loc": "Chicago, USA",
+        "url": "https://conferences.asco.org/",
+    },
+    {
+        "name": "WCLC 2026", "cn": "世界肺癌大会",
+        "start": "2026-09-12", "end": "2026-09-16", "loc": "即将公布",
+        "url": "https://www.iaslc.org/",
+    },
+    {
+        "name": "CSCO 2026", "cn": "中国临床肿瘤学会年会",
+        "start": "2026-09-24", "end": "2026-09-27", "loc": "中国",
+        "url": "https://www.csco.org.cn/",
+    },
+    {
+        "name": "ESMO 2026", "cn": "欧洲肿瘤内科学会年会",
+        "start": "2026-10-16", "end": "2026-10-20", "loc": "即将公布",
+        "url": "https://www.esmo.org/",
+    },
+    {
+        "name": "CHEST 2026", "cn": "美国胸科医师学会年会",
+        "start": "2026-10-17", "end": "2026-10-21", "loc": "即将公布",
+        "url": "https://www.chestnet.org/",
+    },
+    {
+        "name": "STS 2027", "cn": "美国胸外科学会年会",
+        "start": "2027-01-23", "end": "2027-01-26", "loc": "即将公布",
+        "url": "https://www.sts.org/",
+    },
+    {
+        "name": "ELCC 2027", "cn": "欧洲肺癌大会",
+        "start": "2027-03-25", "end": "2027-03-28", "loc": "即将公布",
+        "url": "https://www.esmo.org/meeting-calendar/european-lung-cancer-congress-elcc-2027",
+    },
+    {
+        "name": "AACR 2027", "cn": "美国癌症研究协会年会",
+        "start": "2027-04-10", "end": "2027-04-14", "loc": "即将公布",
+        "url": "https://www.aacr.org/",
+    },
+    {
+        "name": "AATS 2027", "cn": "美国胸外科协会年会",
+        "start": "2027-05-01", "end": "2027-05-04", "loc": "即将公布",
+        "url": "https://www.aats.org/",
+    },
+]
+
 # ---- PubMed Query ----
 
 # Part A: Core clinical lung cancer query
