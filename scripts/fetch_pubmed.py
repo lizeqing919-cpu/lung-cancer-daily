@@ -375,6 +375,11 @@ def main():
         art["journal_quartile"] = quartile
         art["highlight_score"] = score_article(art)
 
+    # Filter: keep only Q1 and Q2 journals
+    before_filter = len(article_list)
+    article_list = [a for a in article_list if a.get("journal_quartile", "Q4") in ("Q1", "Q2")]
+    log.info("Quartile filter (Q1-Q2 only): %d -> %d articles", before_filter, len(article_list))
+
     # Sort by highlight score descending
     article_list.sort(key=lambda a: a["highlight_score"], reverse=True)
 
