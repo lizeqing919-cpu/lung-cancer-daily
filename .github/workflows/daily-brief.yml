@@ -1,0 +1,56 @@
+name: Lung Cancer Daily Brief
+
+on:
+  schedule:
+    # 23:00 UTC = 07:00 China Standard Time (UTC+8)
+    - cron: '0 23 * * *'
+  workflow_dispatch:  # manual trigger for testing
+
+permissions:
+  contents: write
+
+jobs:
+  generate-brief:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch PubMed articles
+        run: python -m scripts.fetch_pubmed
+        env:
+          NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
+          PYTHONPATH: ${{ github.workspace }}
+
+      - name: Summarize with DeepSeek
+        run: python -m scripts.summarize
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          PYTHONPATH: ${{ github.workspace }}
+
+      - name: Generate HTML
+        run: python -m scripts.generate
+        env:
+          PYTHONPATH: ${{ github.workspace }}
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add index.html archive/ data/
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Daily brief for $(date +%Y-%m-%d)"
+            git push
+          fi
