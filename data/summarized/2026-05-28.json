@@ -1,0 +1,52 @@
+[
+  {
+    "pmid": "42201929",
+    "title": "Sequential chemo-immunotherapy followed by standard versus reduced thoracic radiotherapy for older and/or frail stage III non-small-cell lung cancer: A randomized open-label cohort trial.",
+    "abstract": "BACKGROUND: The appropriateness of concurrent chemoradiotherapy (cCRT) for older or clinically vulnerable stage III unresectable non-small-cell lung cancer (NSCLC) patients remains contentious. Furthermore, the survival implications of de-escalating thoracic radiotherapy (RT) intensity in this population have not been conclusively elucidated. METHODS AND FINDINGS: We conducted a phase II randomized, open-label, two-cohort (non-comparative) trial at a tertiary hospital in China (NCT05557552). Between September 30, 2022 and April 30, 2024, we enrolled 56 older and/or frail patients with stage III NSCLC who were ineligible for cCRT. The primary endpoint was the 1-year progression-free survival (PFS) rate estimated using the Kaplan-Meier method. Secondary endpoints included objective response rate (ORR), overall survival (OS), and safety. In the intention-to-treat (ITT) set, which included all 56 randomized patients who received at least one dose of study treatment, the 1-year PFS was 84.3% (95% confidence interval [CI] [70.3%, 98.3%]) in the standard RT group and 70.7% (95% CI [54.3%, 87.1%]) in the reduced RT group. In the per-protocol set (53 patients), the 1-year PFS was 82.9% (95% CI [68.9%, 98.8%]) in the standard RT group and 73.4% (95% CI [58.3%, 92.4%]), with a median follow-up of 24 months. Among 56 patients in the safety analysis set, 71.4% of patients experienced grade 3/4 adverse events (AEs) in the standard RT group and 53.6% in the reduced RT group. One patient (3.6%) in the reduced RT and three patients (10.7%) in the standardized RT experienced grade 5 AEs. The main limitations are the non-comparative design, small sample size, and lack of power to establish non-inferiority or superiority. CONCLUSION: The current study suggested that reduced RT combined with sequential chemo-immunotherapy might be feasible for older/frail patients intolerant to cCRT, showing numerically similar survival outcomes. These exploratory findings warrant confirmation in larger, adequately powered randomized trials. TRIAL REGISTRATION: The trial had been registered on ClinicalTrials.gov on Sep 30, 2022. ClinicalTrials.gov NCT05557552.",
+    "journal": "PLoS Med",
+    "pubdate": "2026-05-01",
+    "pubtypes": [
+      "Journal Article",
+      "Randomized Controlled Trial",
+      "Clinical Trial, Phase II",
+      "Comparative Study"
+    ],
+    "authors": "Wei-Xiang Qi, Shuyan Li, Mengdi Wang, et al.",
+    "keywords": [
+      "Humans",
+      "Carcinoma, Non-Small-Cell Lung",
+      "Female",
+      "Lung Neoplasms",
+      "Aged",
+      "Male",
+      "Neoplasm Staging",
+      "Chemoradiotherapy",
+      "Middle Aged",
+      "Aged, 80 and over",
+      "Antineoplastic Combined Chemotherapy Protocols",
+      "Frail Elderly",
+      "Immunotherapy",
+      "China",
+      "Progression-Free Survival"
+    ],
+    "doi": "10.1371/journal.pmed.1005111",
+    "source": "core",
+    "journal_if": 11.1,
+    "journal_quartile": "Q1",
+    "highlight_score": 50,
+    "chinese_conclusion": "对于不耐受同步放化疗的老年/虚弱III期非小细胞肺癌患者，序贯化免疫治疗后减量胸部放疗可能可行，生存结局与标准放疗相似。",
+    "pathology": "NSCLC",
+    "treatment_tags": [
+      "chemotherapy",
+      "immunotherapy",
+      "radiotherapy"
+    ],
+    "chinese_keywords": [
+      "非小细胞肺癌",
+      "序贯化免疫治疗",
+      "胸部放疗",
+      "老年患者",
+      "减量治疗"
+    ]
+  }
+]
