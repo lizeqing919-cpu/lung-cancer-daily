@@ -1,0 +1,19 @@
+[
+  {
+    "pmid": "42224490",
+    "title": "Adjuvant Nivolumab vs Observation in Resected Non-Small Cell Lung Cancer: A Randomized Clinical Trial.",
+    "abstract": "IMPORTANCE: Preoperative and perioperative nivolumab improve event-free survival in resectable non-small cell lung cancer. The role of adjuvant nivolumab after upfront surgery is unknown. OBJECTIVE: To determine whether adjuvant nivolumab improves disease-free survival and overall survival in patients with resected non-small cell lung cancer with any tumor programmed death-ligand 1 (PD-L1) expression and in those with at least 50% PD-L1 expression. DESIGN, SETTING, AND PARTICIPANTS: This open-label, randomized phase 3 study enrolled participants from May 2016 through September 2019, with median follow-up of 72.6 months at the data cutoff in December 2025. The study was conducted at 378 centers in the US National Clinical Trials Network. Patients were identified through a screening trial. Those with resected tumors at least 4 cm and/or who were lymph node positive (N1/N2) were eligible for inclusion after completion of planned standard adjuvant therapy if the tumor was adenocarcinoma without sensitizing sequence variants in EGFR and ALK or squamous cell carcinoma. INTERVENTION: Patients were randomized in a 1:1 ratio to receive nivolumab 480 mg intravenously every 4 weeks for up to 1 year or standard care observation. MAIN OUTCOMES AND MEASURES: Co-primary end points were disease-free survival in the intention-to-treat population and in those with tumoral PD-L1 expression at least 50%. Overall survival was examined if the corresponding test of disease-free survival was statistically significant. RESULTS: A total of 466 patients (median age, 66 years; 241 [52%] male) were assigned to receive nivolumab and 469 (median age, 67 years; 245 [52%] male) to undergo standard care observation. The median duration of follow-up was 72.6 months. The trial was stopped for futility at 75% information. In the intention-to-treat population, median disease-free survival was 71.3 months with nivolumab and 68.8 months with observation (hazard ratio for progression or death, 0.97 [97% CI, 0.79-1.20]; [95% CI, 0.81-1.17]; 1-sided P = .39). In the subset of participants with PD-L1 of at least 50%, median disease-free survival was 89.8 months with nivolumab and 78.5 months with observation (hazard ratio for progression or death, 0.86 [98% CI, 0.55-1.34]; [95% CI, 0.59-1.25]; 1-sided P = .22). CONCLUSIONS AND RELEVANCE: Adjuvant nivolumab was not associated with improved disease-free survival in patients with resected non-small cell lung cancer without sensitizing EGFR and ALK alterations when given after planned adjuvant chemotherapy and/or radiotherapy. TRIAL REGISTRATION: Clinicaltrials.gov Identifier: NCT02595944.",
+    "journal": "JAMA",
+    "pubdate": "2026-06-01",
+    "pubtypes": [
+      "Journal Article"
+    ],
+    "authors": "Jamie E Chaft, Zhuoxin Sun, Charles M Rudin, et al.",
+    "keywords": [],
+    "doi": "10.1001/jama.2026.8992",
+    "source": "core",
+    "journal_if": 63.1,
+    "journal_quartile": "Q1",
+    "highlight_score": 100
+  }
+]
