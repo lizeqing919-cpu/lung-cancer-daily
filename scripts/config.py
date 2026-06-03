@@ -96,8 +96,8 @@ QUERY_PART_C_TEMPLATE = (
     'AND ("{date_from}"[Date - Publication] : "{date_to}"[Date - Publication])'
 )
 
-DATE_RANGE_DAYS = 2  # window for Part A & B
-FALLBACK_DATE_RANGE_DAYS = 7  # window for Part C fallback
+DATE_RANGE_DAYS = 7  # window for Part A & B (1 week)
+FALLBACK_DATE_RANGE_DAYS = 14  # window for Part C fallback (2 weeks)
 
 # ---- Article Thresholds ----
 

@@ -213,7 +213,7 @@ def _rebuild_archive_index():
             current_ym = ym
             rows_html += f'<h3 class="archive-month">{ym}</h3>\n<ul class="archive-list">\n'
         rows_html += (
-            f'  <li><a href="archive/{d}/">{d}</a></li>\n'
+            f'  <li><a href="{d}/">{d}</a></li>\n'
         )
 
     if current_ym is not None:
