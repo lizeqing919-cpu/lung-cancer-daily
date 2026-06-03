@@ -386,25 +386,23 @@ def main():
     # Mark all PMIDs as seen
     mark_pmids_seen([a["pmid"] for a in article_list], date_str)
 
-    # Write fetched data
+    # Write fetched data — but don't overwrite if today already has articles and
+    # this run found nothing (e.g. re-run on same day after all PMIDs seen).
     os.makedirs(config.FETCHED_DIR, exist_ok=True)
     out_path = os.path.join(config.FETCHED_DIR, f"{date_str}.json")
+    if len(article_list) == 0 and os.path.exists(out_path):
+        with open(out_path, "r", encoding="utf-8") as fh:
+            existing = json.load(fh)
+        if len(existing) > 0:
+            log.info("Keeping existing %d articles for %s (today's re-run found 0 new)",
+                     len(existing), date_str)
+            log.info("=== Fetch complete: %d existing articles (no new) ===", len(existing))
+            return existing
+
     with open(out_path, "w", encoding="utf-8") as fh:
         json.dump(article_list, fh, indent=2, ensure_ascii=False)
 
     log.info("Saved %d articles to %s", len(article_list), out_path)
-
-    # Write empty signal if zero articles
-    if len(article_list) == 0:
-        log.info("No new articles today. Generating empty page signal.")
-        empty_signal = os.path.join(config.DATA_DIR, "empty_today")
-        with open(empty_signal, "w") as fh:
-            fh.write(date_str)
-
-    # Remove empty signal if articles found
-    empty_signal = os.path.join(config.DATA_DIR, "empty_today")
-    if os.path.exists(empty_signal) and len(article_list) > 0:
-        os.remove(empty_signal)
 
     log.info("=== Fetch complete: %d new articles ===", len(article_list))
     return article_list
