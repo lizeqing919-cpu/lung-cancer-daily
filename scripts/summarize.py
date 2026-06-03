@@ -70,7 +70,13 @@ def summarize_batch(client, articles_batch):
         response_format={"type": "json_object"},
     )
 
-    raw = response.choices[0].message.content.strip()
+    raw = response.choices[0].message.content
+    finish = response.choices[0].finish_reason
+    if raw is None:
+        log.error("DeepSeek returned None content. finish_reason=%s", finish)
+        raise ValueError(f"Empty response from DeepSeek (finish_reason={finish})")
+    raw = raw.strip()
+    log.info("DeepSeek response finish_reason=%s, content_len=%d", finish, len(raw))
 
     # DeepSeek json_object mode wraps the array in a {"articles": [...]} or similar;
     # handle both direct-array and wrapped-array responses.
