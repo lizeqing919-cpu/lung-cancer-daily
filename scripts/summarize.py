@@ -59,16 +59,22 @@ def summarize_batch(client, articles_batch):
     """Send one batch to DeepSeek, return parsed list of annotation dicts."""
     user_content = build_user_message(articles_batch)
 
-    response = client.chat.completions.create(
-        model=config.DEEPSEEK_MODEL,
-        messages=[
+    kwargs = {
+        "model": config.DEEPSEEK_MODEL,
+        "messages": [
             {"role": "system", "content": SYSTEM_PROMPT},
             {"role": "user", "content": user_content},
         ],
-        max_tokens=config.DEEPSEEK_MAX_TOKENS_PER_ARTICLE * len(articles_batch),
-        temperature=0.3,
-        response_format={"type": "json_object"},
-    )
+        "max_tokens": config.DEEPSEEK_MAX_TOKENS_PER_ARTICLE * len(articles_batch),
+        "temperature": 0.3,
+        "response_format": {"type": "json_object"},
+    }
+    # v4-pro thinking mode consumes tokens before output; disable for summarization
+    if "v4-pro" in config.DEEPSEEK_MODEL or "reasoner" in config.DEEPSEEK_MODEL:
+        kwargs["extra_body"] = {"thinking": {"type": "disabled"}}
+        del kwargs["temperature"]  # not supported with thinking param
+
+    response = client.chat.completions.create(**kwargs)
 
     raw = response.choices[0].message.content
     finish = response.choices[0].finish_reason

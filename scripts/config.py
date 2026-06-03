@@ -143,9 +143,9 @@ PUBTYPE_SCORE_BONUS = {
 
 # ---- DeepSeek API ----
 
-DEEPSEEK_MODEL = "deepseek-chat"  # DeepSeek-V3, most capable model available on your account
+DEEPSEEK_MODEL = "deepseek-v4-pro"  # thinking disabled for cost-efficient summarization
 DEEPSEEK_BATCH_SIZE = 10
-DEEPSEEK_MAX_TOKENS_PER_ARTICLE = 300
+DEEPSEEK_MAX_TOKENS_PER_ARTICLE = 400  # output tokens per article; v4-pro thinking mode needs more headroom so we disable thinking
 
 # ---- PubMed E-utilities ----
 
