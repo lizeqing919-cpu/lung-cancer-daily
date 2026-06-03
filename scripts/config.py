@@ -143,7 +143,7 @@ PUBTYPE_SCORE_BONUS = {
 
 # ---- DeepSeek API ----
 
-DEEPSEEK_MODEL = "deepseek-v4-pro"  # highest-capability model
+DEEPSEEK_MODEL = "deepseek-chat"  # DeepSeek-V3, most capable model available on your account
 DEEPSEEK_BATCH_SIZE = 10
 DEEPSEEK_MAX_TOKENS_PER_ARTICLE = 300
 
