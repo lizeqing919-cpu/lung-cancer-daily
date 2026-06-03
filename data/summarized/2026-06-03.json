@@ -1,0 +1,81 @@
+[
+  {
+    "pmid": "42019226",
+    "title": "Patient-reported outcomes from the LAURA study: osimertinib in patients with unresectable stage III EGFR-mutated non-small cell lung cancer after definitive chemoradiotherapy.",
+    "abstract": "BACKGROUND: The LAURA study in unresectable stage III EGFR-mutated NSCLC without progression during/after chemoradiotherapy demonstrated significantly improved progression-free survival (PFS) with osimertinib versus placebo after definitive chemoradiotherapy. We report patient-reported outcomes (PROs) from LAURA. PATIENTS AND METHODS: Score changes from baseline (mixed model for repeated measures analysis) and time to confirmed deterioration in health-related quality of life (HRQoL), functioning and symptoms per EORTC QLQ-C30/LC13 questionnaires were analyzed. Tolerability was assessed using the PRO-CTCAE v1.0. RESULTS: Baseline EORTC scores were comparable between treatment arms. Risk of confirmed deterioration in key scales was generally not substantially different between arms (HR [95% CI], global health status/QoL 1.14 [0.74-1.78]; physical function 1.06 [0.65-1.71]; fatigue 1.23 [0.85-1.80]; appetite loss 1.00 [0.63-1.58]; dyspnea 1.30 [0.91-1.86]; coughing 1.17 [0.81-1.71]; pain in chest 1.46 [0.95-2.23]). Over 40 weeks, minimal changes from baseline were observed for key functioning/symptoms in both arms. PRO-CTCAE responses indicated similar tolerability of osimertinib versus placebo for symptom frequency and severity, except for loose/watery stools (\"never\"/\"rarely\" frequency vs. \"never\") and dry skin (\"mild\" severity vs. \"none\"). CONCLUSIONS: PRO scores were maintained during osimertinib treatment of unresectable stage III EGFR-mutated NSCLC after definitive chemoradiotherapy. Together with significant PFS benefit and expected, manageable safety, the PRO data support osimertinib treatment in this setting. TRIAL REGISTRATION NUMBER: NCT03521154.",
+    "journal": "Eur J Cancer",
+    "pubdate": "2026-06-03",
+    "pubtypes": [
+      "Journal Article",
+      "Randomized Controlled Trial",
+      "Multicenter Study",
+      "Clinical Trial, Phase III"
+    ],
+    "authors": "Edurne Arriola, Ignacio Casarini, Mustafa Özgüroğlu, et al.",
+    "keywords": [
+      "Humans",
+      "Aniline Compounds",
+      "Acrylamides",
+      "Carcinoma, Non-Small-Cell Lung",
+      "Lung Neoplasms",
+      "Female",
+      "Male",
+      "Patient Reported Outcome Measures",
+      "ErbB Receptors",
+      "Chemoradiotherapy",
+      "Middle Aged",
+      "Mutation",
+      "Aged",
+      "Quality of Life",
+      "Neoplasm Staging"
+    ],
+    "doi": "10.1016/j.ejca.2026.116744",
+    "source": "core",
+    "journal_if": 8.4,
+    "journal_quartile": "Q2",
+    "highlight_score": 80,
+    "chinese_conclusion": "摘要生成失败",
+    "pathology": "Other",
+    "treatment_tags": [],
+    "chinese_keywords": []
+  },
+  {
+    "pmid": "42034003",
+    "title": "A Phase 1 dose-escalation study to evaluate safety, pharmacokinetics, and pharmacodynamics of OSE-279, an anti-PD-1 monoclonal antibody in patients with advanced solid tumours.",
+    "abstract": "BACKGROUND: OSE-279 is a high affinity humanized monoclonal bivalent antibody against PD-1 with potent antitumor activity in vivo in syngeneic non-clinical models. METHODS: This phase I study assessed the safety, pharmacokinetics, pharmacodynamics and antitumor activity of OSE-279 in advanced solid tumours. RESULTS: Twenty patients received OSE-279 intravenously at 100 mg q3w (n = 2), 300 mg q3w (n = 7) and 600 mg q6w (n = 11). Median age was 61.5 (range 3-81) years, 50% were female, median number of prior metastatic lines was 2 (range 1-6). Most frequent tumour types were soft tissue sarcoma (n = 4) and anal squamous cell carcinoma (n = 3). OSE-279 monotherapy was safe. Two recommended phase 2 doses were established: 300 mg q3w and 600 mg q6w. The most common (≥10%) related TEAEs were diarrhoea, dry mouth, pruritus, chills, fatigue, headache, dysgeusia and hyperthyroidism. OSE-279 PK exhibited linear dose proportionality and mean receptor occupancy was maintained above 80% in all tested doses. There were 1 CR at 300 mg q3w, 4 PRs at 600 mg q6w and 7 SD with response duration ranging from 6.8 to 18.4 months. CONCLUSION: OSE-279 monotherapy was well tolerated with durable responses in patients with advanced solid tumours. The trial is continuing with OSE-279 combined with OSE2101, a therapeutic cancer vaccine in 1st line HLA-A2 positive PD-L1 ≥ 50% NSCLC. CLINICAL TRIAL REGISTRATION (NCT NUMBER: NCT05751798).",
+    "journal": "Eur J Cancer",
+    "pubdate": "2026-06-03",
+    "pubtypes": [
+      "Journal Article",
+      "Clinical Trial, Phase I",
+      "Multicenter Study"
+    ],
+    "authors": "Marie Robert, Nuria Kotecki, Carlos Gomez-Roca, et al.",
+    "keywords": [
+      "Humans",
+      "Female",
+      "Middle Aged",
+      "Male",
+      "Aged",
+      "Adult",
+      "Neoplasms",
+      "Aged, 80 and over",
+      "Young Adult",
+      "Adolescent",
+      "Programmed Cell Death 1 Receptor",
+      "Child",
+      "Antibodies, Monoclonal, Humanized",
+      "Immune Checkpoint Inhibitors",
+      "Dose-Response Relationship, Drug"
+    ],
+    "doi": "10.1016/j.ejca.2026.116729",
+    "source": "core",
+    "journal_if": 8.4,
+    "journal_quartile": "Q2",
+    "highlight_score": 40,
+    "chinese_conclusion": "摘要生成失败",
+    "pathology": "Other",
+    "treatment_tags": [],
+    "chinese_keywords": []
+  }
+]
