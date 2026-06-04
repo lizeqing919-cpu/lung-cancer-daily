@@ -1,0 +1,35 @@
+[
+  {
+    "pmid": "41911546",
+    "title": "Induction Serplulimab and Chemotherapy Followed by Chemoradiotherapy for Bulky Unresectable Stage III NSCLC: A Phase II Study (SUCCEED-01).",
+    "abstract": "Patients with bulky, unresectable stage III non-small cell lung cancer (NSCLC) face poor outcomes with standard concurrent chemoradiotherapy (cCRT) due to large radiation fields and toxicity risks. We evaluated the feasibility and efficacy of induction immunochemotherapy to downstage tumors prior to cCRT. In this single-arm, phase II study, eligible patients received two cycles of induction serplulimab plus chemotherapy. Patients without progression underwent multidisciplinary restaging to receive either cCRT with serplulimab consolidation or surgery. The primary endpoints were objective response rate (ORR) after cCRT and changes in lung volume receiving ≥20 Gy (V20). Forty-nine patients were enrolled (75.5% stage IIIB/IIIC). Following induction, the V20 value was significantly reduced by 11.41% (P < 0.001). The ORR following cCRT was 77.14% (95% confidence interval, 59.86%-89.58%). The 12-month progression-free survival and overall survival rates were 76.15% and 90.54%, respectively. Notably, six patients successfully underwent R0 resection, with five achieving a pathologic complete response. Grade 3 adverse events occurred in 14.29% of patients, and toxicities were manageable. Induction serplulimab-chemotherapy prior to cCRT is a promising strategy for bulky, stage III NSCLC. This approach significantly reduced radiation volumes, achieved high response rates, and enabled curative surgery in selected patients with manageable toxicity.",
+    "journal": "Cancer Immunol Res",
+    "pubdate": "2026-06-02",
+    "pubtypes": [
+      "Journal Article",
+      "Clinical Trial, Phase II"
+    ],
+    "authors": "Chengxin Liu, Yang Du, Dan Han, et al.",
+    "keywords": [
+      "Humans",
+      "Lung Neoplasms",
+      "Female",
+      "Chemoradiotherapy",
+      "Carcinoma, Non-Small-Cell Lung",
+      "Neoplasm Staging",
+      "Male",
+      "Middle Aged",
+      "Aged",
+      "Antineoplastic Combined Chemotherapy Protocols",
+      "Adult",
+      "Induction Chemotherapy",
+      "Treatment Outcome",
+      "Antibodies, Monoclonal, Humanized"
+    ],
+    "doi": "10.1158/2326-6066.CIR-25-1194",
+    "source": "core",
+    "journal_if": 10.1,
+    "journal_quartile": "Q1",
+    "highlight_score": 55
+  }
+]
