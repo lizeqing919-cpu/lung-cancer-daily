@@ -1,0 +1,92 @@
+[
+  {
+    "pmid": "42013403",
+    "title": "Amivantamab Monotherapy in Chemorefractory ",
+    "abstract": "PURPOSE: Amivantamab, an EGFR-MET bispecific antibody with immune cell-directing activity, is approved in non-small cell lung cancer (NSCLC). Effective treatments are limited for chemorefractory metastatic colorectal cancer (mCRC). METHODS: OrigAMI-1 (ClinicalTrials.gov identifier: NCT05379595) is a phase Ib/II study evaluating amivantamab monotherapy in chemorefractory (2-3 prior lines) mCRC. Participants had centrally confirmed RAS/BRAF/EGFR ectodomain wild-type status, without ERBB2/HER2 amplification. Participants with left-sided mCRC without (cohort A) or with (cohort B) prior anti-EGFR antibody treatment, or right-sided mCRC (cohort C) regardless of prior anti-EGFR treatment, received intravenous amivantamab 1,050 mg (1,400 mg for ≥80 kg) once every 2 weeks. The primary end point was objective response rate (ORR) per RECIST v1.1. RESULTS: By October 31, 2024, 94 participants received amivantamab monotherapy (median follow-up, 11.9 months). The median age was 60 years, and 65% of participants were male, with a median of 2 prior lines (94%, prior bevacizumab). In left-sided cohorts, the ORR was 29% (5 of 17) in cohort A and 19% (10 of 54) in cohort B; the median duration of response (DoR) was 9.0 months and 6.1 months, and the median progression-free survival (PFS) was 5.7 months and 4.6 months, respectively. In the right-sided cohort, the ORR was 22% (10 of 23; 43% had prior anti-EGFR), the median DoR was 9.8 months, and the median PFS was 3.7 months. Most frequent treatment-related grade ≥3 adverse events (AEs) were rash (7%), dermatitis acneiform (4%), and hypoalbuminemia (4%). One participant discontinued amivantamab because of a treatment-related AE. CONCLUSION: Amivantamab monotherapy demonstrated promising, durable antitumor activity in chemorefractory mCRC, regardless of prior anti-EGFR therapy and the primary tumor location. The amivantamab safety profile in mCRC is consistent with experience in NSCLC. Amivantamab plus chemotherapy is currently being explored in two phase III studies in first-line and second-line mCRCs.",
+    "journal": "J Clin Oncol",
+    "pubdate": "2026-06-10",
+    "pubtypes": [
+      "Journal Article",
+      "Clinical Trial, Phase II",
+      "Clinical Trial, Phase I",
+      "Multicenter Study",
+      "Research Support, Non-U.S. Gov't"
+    ],
+    "authors": "Paul E Oberstein, J Randolph Hecht, Kanwal Raghav, et al.",
+    "keywords": [
+      "Humans",
+      "Colorectal Neoplasms",
+      "Male",
+      "Female",
+      "Middle Aged",
+      "Aged",
+      "Proto-Oncogene Proteins B-raf",
+      "Antibodies, Bispecific",
+      "Adult",
+      "Progression-Free Survival",
+      "Antineoplastic Agents, Immunological",
+      "Aged, 80 and over"
+    ],
+    "doi": "10.1200/JCO-25-02187",
+    "source": "core",
+    "journal_if": 42.1,
+    "journal_quartile": "Q1",
+    "highlight_score": 95,
+    "chinese_conclusion": "本文为非小细胞肺癌（NSCLC）提出的amivantamab单药治疗转移性结直肠癌，非肺癌临床研究，故暂无明确临床结论。",
+    "pathology": "NSCLC",
+    "treatment_tags": [
+      "targeted therapy"
+    ],
+    "chinese_keywords": [
+      "amivantamab",
+      "EGFR-MET双特异性抗体",
+      "转移性结直肠癌",
+      "化疗难治性",
+      "客观缓解率"
+    ]
+  },
+  {
+    "pmid": "42008777",
+    "title": "First-in-Human, Phase I Study of Sigvotatug Vedotin, an Integrin Beta-6-Directed Antibody-Drug Conjugate: Results From Dose Expansion in Advanced Non-Small Cell Lung Cancer.",
+    "abstract": "PURPOSE: Integrin beta-6 (IB6) is highly expressed in non-small cell lung cancer (NSCLC) and other solid tumors and potentially associated with poor outcomes. Sigvotatug vedotin (SV), a novel IB6-directed antibody-drug conjugate, demonstrated acceptable safety and encouraging antitumor activity in dose escalation. We report updated results for dose-expansion regimens in advanced NSCLC (aNSCLC). METHODS: SGNB6A-001 is an open-label, multicenter, dose-escalation/dose-expansion phase I study evaluating safety, tolerability, pharmacokinetics (PK), and antitumor activity of SV in patients with select advanced solid tumors. After dose escalation, dose expansion further explored three regimens: 1.25 mg/kg total body weight (TBW) on Days 1 and 8 of a 21-day cycle, 1.5 mg/kg TBW on Days 1 and 15 of a 28-day cycle (once every 2 weeks), and 1.8 mg/kg adjusted ideal body weight (AiBW) once every 2 weeks. Eligible patients had prior chemotherapy and immunotherapy or targeted therapy if indicated. Primary end points were safety and determination of an optimal dosing schedule. Secondary end points were antitumor activity, PK, and immunogenicity. RESULTS: As of November 26, 2024, 117 patients with aNSCLC were treated in the above cohorts. Any-grade and grade ≥3 treatment-emergent adverse events occurred in 98% and 48% of all patients, respectively, and in 94% and 35% of patients receiving SV 1.8 mg/kg AiBW once every 2 weeks. Modeling revealed that the AiBW regimen resulted in lower PK variability than TBW regimens. The objective response rate and median duration of response were 19% and 11.3 months in the overall population, respectively, and 29% and 12.8 months in patients with nonsquamous, taxane-naïve NSCLC. CONCLUSION: SV demonstrated a manageable safety profile and promising antitumor activity with durable responses in aNSCLC. PK and clinical data support further investigation with the recommended 1.8-mg/kg AiBW once every 2 weeks dosing regimen.",
+    "journal": "J Clin Oncol",
+    "pubdate": "2026-06-10",
+    "pubtypes": [
+      "Journal Article",
+      "Clinical Trial, Phase I",
+      "Multicenter Study",
+      "Research Support, Non-U.S. Gov't"
+    ],
+    "authors": "Solange Peters, Sarina A Piha-Paul, Kartik Sehgal, et al.",
+    "keywords": [
+      "Humans",
+      "Carcinoma, Non-Small-Cell Lung",
+      "Lung Neoplasms",
+      "Female",
+      "Male",
+      "Middle Aged",
+      "Immunoconjugates",
+      "Aged",
+      "Dose-Response Relationship, Drug",
+      "Adult",
+      "Maximum Tolerated Dose"
+    ],
+    "doi": "10.1200/JCO-25-02016",
+    "source": "core",
+    "journal_if": 42.1,
+    "journal_quartile": "Q1",
+    "highlight_score": 80,
+    "chinese_conclusion": "在晚期非小细胞肺癌中，integrin beta-6靶向抗体药物偶联物sigvotatug vedotin显示出可接受的安全性和持久的抗肿瘤活性，尤其在非鳞癌、紫杉类初治患者中疗效更佳。",
+    "pathology": "NSCLC",
+    "treatment_tags": [
+      "targeted therapy"
+    ],
+    "chinese_keywords": [
+      "sigvotatug vedotin",
+      "抗体药物偶联物",
+      "整合素β6",
+      "晚期非小细胞肺癌",
+      "剂量扩展"
+    ]
+  }
+]
