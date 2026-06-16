@@ -1,0 +1,35 @@
+[
+  {
+    "pmid": "41894181",
+    "title": "The Efficacy and Safety of Tislelizumab plus Anlotinib as First-line Treatment in Advanced Pulmonary Sarcomatoid Carcinoma: A Single-Arm Phase II Trial.",
+    "abstract": "PURPOSE: Pulmonary sarcomatoid carcinoma (PSC) is a highly aggressive and poorly differentiated subtype of non-small cell lung cancer (NSCLC) associated with a poor prognosis. We conducted a prospective, single-arm, phase II trial to evaluate the efficacy and safety of tislelizumab in combination with anlotinib as first-line therapy in patients with advanced PSC. PATIENTS AND METHODS: Eligible patients with advanced PSC without EGFR or ALK mutations received tislelizumab plus anlotinib as first-line treatment until disease progression or unacceptable toxicities. The primary endpoint was the objective response rate (ORR) assessed per RECIST version 1.1. Secondary endpoints included the disease control rate (DCR), duration of response, progression-free survival (PFS), overall survival (OS), and safety. RESULTS: Between August 2021 and June 2025, a total of 29 patients were enrolled, with a median age of 71 years (range: 39-79). Two patients (6.90%) achieved a complete response, and 14 (48.28%) achieved a partial response, yielding an ORR of 55.17% [95% confidence interval (CI), 35.69%-73.55%]. The DCR was 96.55% (95% CI, 82.24%-99.91%). After a median follow-up duration of 16.73 months, the median PFS was 9.40 months (95% CI, 3.67-13.30 months), and the median OS was 14.37 months (95% CI, 9.03-17.50 months). The most common treatment-related adverse events (TRAE) were hyperuricemia and maculopapular rash. Grade 3 to 4 TRAEs occurred in eight patients (27.59%), with no treatment-related deaths reported. CONCLUSIONS: The combination of tislelizumab and anlotinib demonstrated promising antitumor activity with a manageable safety profile as first-line therapy in patients with advanced PSC.",
+    "journal": "Clin Cancer Res",
+    "pubdate": "2026-06-15",
+    "pubtypes": [
+      "Journal Article",
+      "Clinical Trial, Phase II"
+    ],
+    "authors": "Zhimin Zeng, Wenqian Huang, Fujuan Zeng, et al.",
+    "keywords": [
+      "Humans",
+      "Female",
+      "Middle Aged",
+      "Aged",
+      "Male",
+      "Adult",
+      "Quinolines",
+      "Lung Neoplasms",
+      "Indoles",
+      "Antineoplastic Combined Chemotherapy Protocols",
+      "Antibodies, Monoclonal, Humanized",
+      "Carcinoma, Non-Small-Cell Lung",
+      "Prospective Studies",
+      "Treatment Outcome"
+    ],
+    "doi": "10.1158/1078-0432.CCR-25-4770",
+    "source": "core",
+    "journal_if": 11.5,
+    "journal_quartile": "Q1",
+    "highlight_score": 75
+  }
+]
