@@ -1,0 +1,37 @@
+[
+  {
+    "pmid": "42149700",
+    "title": "Cryobiopsy vs Forceps for Bronchoscopic Lung Biopsy: The FROSTBITE-2 Randomized Clinical Trial.",
+    "abstract": "IMPORTANCE: Bronchoscopic biopsy is conventionally performed with forceps, which can result in small specimen sizes and poor specimen quality due to crush artifact. Cryoprobe use localizes freezing at the probe tip, enabling retrieval of larger, more intact biopsy specimens. OBJECTIVE: To evaluate the diagnostic yield of a 1.1-mm cryoprobe for transbronchial biopsy. DESIGN, SETTING, AND PARTICIPANTS: This open-label, outcome assessor-masked, multicenter randomized clinical trial included 500 patients aged 18 years or older scheduled to undergo transbronchial biopsy for lung nodules or masses, lung transplant, or diffuse parenchymal lung disease. The trial was conducted in 9 US medical centers and enrolled patients between February 27, 2023, and September 11, 2024. The date of last follow-up was October 12, 2024. INTERVENTION: Patients were randomized 1:1 to transbronchial biopsy using a 1.1-mm cryoprobe (n = 250) or 2.0-mm forceps (n = 250). MAIN OUTCOMES AND MEASURES: The primary outcome was diagnostic yield, defined as the percentage of patients for whom the transbronchial biopsy sample led to a specific diagnosis based on histologic examination. Of the 8 prespecified secondary analyses, key secondary analyses were the diagnostic yield for each of the 3 conditions (lung nodules or masses, lung transplant, and diffuse parenchymal lung disease) and complication rates. RESULTS: Of 774 patients assessed for eligibility, 609 provided consent, 500 were randomized, and 490 were included in the primary analysis; the mean age was 62.6 years (SD, 12.7 years) and 252 of 500 (50.4%) were male. The primary outcome of diagnostic yield was significantly higher in patients randomized to transbronchial biopsy with cryoprobes vs forceps (217 of 245 [88.6%] vs 193 of 245 [78.8%]; absolute difference, 9.8%; 95% CI, 3.3%-16.3%; P = .003). For the key secondary analyses, compared with that of forceps, the diagnostic yield of cryoprobes was significantly higher among patients with pulmonary nodules or masses (79 of 95 [83.2%] vs 68 of 97 [70.1%]; absolute difference, 13.1%; 95% CI, 1.0%-24.6%; P = .04) and lung transplant (120 of 125 [96.0%] vs 110 of 124 [88.7%]; absolute difference, 7.3%; 95% CI, 0.6%-14.4%; P = .03) but did not differ significantly in diffuse parenchymal lung disease (18 of 25 [72.0%] vs 15 of 24 [62.5%]; absolute difference, 9.5%; 95% CI, -16.0% to 33.6%; P = .55). For the secondary safety analysis, there were 4 pneumothoraces requiring chest tube placement in the forceps group (1.6%) vs none in the cryoprobe group; no patients experienced significant bleeding or respiratory failure events. CONCLUSIONS AND RELEVANCE: Transbronchial lung biopsy performed with a 1.1-mm cryoprobe had a significantly higher diagnostic yield compared with 2.0-mm forceps in a group of patients with lung nodules or masses, lung transplant, and diffuse parenchymal lung disease. TRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT05751278.",
+    "journal": "JAMA",
+    "pubdate": "2026-06-16",
+    "pubtypes": [
+      "Journal Article",
+      "Randomized Controlled Trial",
+      "Multicenter Study",
+      "Comparative Study"
+    ],
+    "authors": "Jeffrey Thiboutot, Christopher M Kapp, Peter Illei, et al.",
+    "keywords": [
+      "Humans",
+      "Male",
+      "Bronchoscopy",
+      "Middle Aged",
+      "Female",
+      "Lung",
+      "Cryosurgery",
+      "Biopsy",
+      "Aged",
+      "Surgical Instruments",
+      "Lung Diseases",
+      "Lung Neoplasms",
+      "Lung Transplantation",
+      "Adult"
+    ],
+    "doi": "",
+    "source": "core",
+    "journal_if": 63.1,
+    "journal_quartile": "Q1",
+    "highlight_score": 140
+  }
+]
