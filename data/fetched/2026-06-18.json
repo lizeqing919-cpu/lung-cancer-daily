@@ -1,0 +1,104 @@
+[
+  {
+    "pmid": "42155364",
+    "title": "Incidence and lung cancer probability of new nodules in the UK lung screening trial.",
+    "abstract": "BACKGROUND: New nodules detected during lung cancer screening follow-up have a higher average malignancy risk than same-size baseline nodules. We aimed to characterize the incidence and malignancy risk of new nodules in the UK Lung Cancer Screening Trial (UKLS). METHODS: This study analysed data from the UKLS multicenter randomized controlled trial recruiting 4055 high-risk individuals (aged 50-75 years, with a LLPv2 risk of ≥4.5%) between 2011 and 2013. Our analysis included all non-calcified nodules registered as new at short-term (3-month) or 12-month follow-up. Volume and maximum volume doubling time (VDTmax) were analysed. Lung cancer diagnoses were confirmed by histology. RESULTS: Of 875 participants with follow-up CT scans, 131 (15%) developed 216 new solid nodules, yielding an overall participant-level malignancy rate of 3.8% (5/131); no malignancies were diagnosed in new subsolid nodules. New solid nodule incidence was 17% (72/432) at short-term and 8% (68/809) at 12-month follow-up. All 5 cancers were first detected at 12-month follow-up, where 7.4% (5/68) of participants with new solid nodules had cancer, while the risk was 0% (0/72) at short-term follow-up. At 12-months, new nodule malignancy probability was stratified by volume: 0% (95% CI: 0.0-21.6) for < 30 mm³ , 7.9% (2.0-21.5) for 30-200 mm³ , and 15.4% (3.1-43.5) for ≥ 200 mm³ ; and by VDTmax: 2.0% (0.0-11.7) for ≥ 100 days, 18.8% (5.8-43.8) for 50-100 days, and 33.3% (5.6-79.8) for < 50 days. CONCLUSION: New solid nodules at 12-month screening carry higher risk than short-term, and we validate 30mm³ as the critical volume threshold requiring at least further surveillance.",
+    "journal": "Eur J Cancer",
+    "pubdate": "2026-06-18",
+    "pubtypes": [
+      "Journal Article",
+      "Multicenter Study",
+      "Randomized Controlled Trial"
+    ],
+    "authors": "Beibei Jiang, Harriet L Lancaster, Michael P A Davies, et al.",
+    "keywords": [
+      "Humans",
+      "Lung Neoplasms",
+      "Middle Aged",
+      "Incidence",
+      "United Kingdom",
+      "Early Detection of Cancer",
+      "Female",
+      "Tomography, X-Ray Computed",
+      "Aged",
+      "Male",
+      "Solitary Pulmonary Nodule",
+      "Multiple Pulmonary Nodules",
+      "Risk Factors",
+      "Time Factors",
+      "Early Detection of Cancer"
+    ],
+    "doi": "10.1016/j.ejca.2026.116779",
+    "source": "core",
+    "journal_if": 8.4,
+    "journal_quartile": "Q2",
+    "highlight_score": 80
+  },
+  {
+    "pmid": "42303632",
+    "title": "Neoadjuvant retlirafusp alfa (anti-PD-L1/TGF-β bifunctional fusion protein) with or without chemotherapy in unresectable stage III non-small cell lung cancer: updated results from the phase 2 TRAILBLAZER trial.",
+    "abstract": "TRAILBLAZER is a proof-of-concept phase 2 study (ClinicalTrials.gov, NCT04580498) of neoadjuvant retlirafusp alfa (an anti-PD-L1/TGF-β bifunctional agent) in unresectable stage III non-small cell lung cancer (NSCLC) not harboring EGFR or ALK alterations. During induction, retlirafusp alfa was administered either with chemotherapy or as monotherapy, followed by surgery or radiotherapy as assessed by a local multidisciplinary team and consolidation retlirafusp alfa. Patients without high PD-L1 expression were allocated to retlirafusp alfa plus chemotherapy (arm A; n = 88); patients with high PD-L1 expression were randomly allocated at a 1:1 ratio to retlirafusp alfa combination (arm B; n = 9) or monotherapy (arm C; n = 10). In this updated analysis (data cutoff, March 24, 2025), the median follow-up was 39.4 months. The event-free survival (EFS) rate at 3 years was 50.5% (95% CI 39.0-61.0) in arm A + B and 77.1% (34.5-93.9) in arm C; the corresponding overall survival (OS) rates at 3 years were 68.3% (95% CI 57.5-77.0) and 87.5% (38.7-98.1), respectively. Among 27 patients who underwent surgery, the 3-year EFS and OS rates were 69.5% (95% CI 48.1-83.5) and 84.9% (64.5-94.0), respectively, versus 50.8% (36.5-63.4) and 70.4% (56.7-80.5), respectively, in radiotherapy-treated patients. The safety data were consistent with those in a previous report. With extended follow-up, the study regimen showed sustained survival benefits with no new safety signals. Patients who underwent surgery after induction treatment achieved clinically meaningful survival gains. Our findings support the use of neoadjuvant immunotherapy with a response-adapted surgical strategy as a promising approach for unresectable stage III NSCLC.",
+    "journal": "Signal Transduct Target Ther",
+    "pubdate": "2026-06-16",
+    "pubtypes": [
+      "Journal Article",
+      "Clinical Trial, Phase II",
+      "Randomized Controlled Trial"
+    ],
+    "authors": "Yi Pan, Xuening Yang, Qing Zhou, et al.",
+    "keywords": [
+      "Humans",
+      "Carcinoma, Non-Small-Cell Lung",
+      "Female",
+      "Lung Neoplasms",
+      "Male",
+      "Middle Aged",
+      "Aged",
+      "B7-H1 Antigen",
+      "Neoadjuvant Therapy",
+      "Transforming Growth Factor beta",
+      "Recombinant Fusion Proteins",
+      "Neoplasm Staging",
+      "Adult"
+    ],
+    "doi": "",
+    "source": "core",
+    "journal_if": 40.8,
+    "journal_quartile": "Q1",
+    "highlight_score": 50
+  },
+  {
+    "pmid": "42114409",
+    "title": "The SHERPA trial: A phase I study combining SHP2 inhibitor RMC-4630 and ERK inhibitor LY3214996 in patients with KRAS-mutant pancreatic, non-small cell lung and colorectal cancer.",
+    "abstract": "INTRODUCTION: PDAC has high mortality rates and limited treatment options. KRAS mutations are present in > 90% of patients with PDAC, causing constitutive activation of the MAPK pathway. Preclinical studies demonstrated synergistic antitumor activity in in vivo and in vitro KRAS-mutant PDAC models by combining SHP2 and ERK inhibition. Therefore, the safety of combining SHP2 inhibitor RMC-4630 and ERK inhibitor LY3214996 was evaluated in this phase I trial. METHODS: The aim was defining the recommended phase 2 dose (RP2D) using a 3 + 3 dose-escalation design. Second, pharmacokinetics and pharmacodynamics were explored. RESULTS: Twenty-four patients with KRASm PDAC, NSCLC or CRC were treated with RMC-4630 weekly on days 1-2 and LY3214996 daily in 28-day cycles; nineteen were evaluable for dose-limiting toxicities (DLT). DLTs were reported at three of the four explored dose levels, preventing further escalation. Three DLTs were due to grade 3 thrombocytopenia. The other three resulted from grade 2 decreased left ventricular ejection fraction, and grade 3 acute kidney injury and diarrhea. At dose level 1b (100 mg RMC-4630; 200 mg LY3214996), no DLTs were reported. Pharmacokinetic analysis revealed high interpatient variability and intrapatient correlation with exposure to both agents. An exposuretoxicity relationship was not established. Pharmacodynamic analysis showed a significant decrease in phosphorylated S6-ribosomal protein (p = 0.034), however radiological responses were not observed. DISCUSSION: Sufficient exposure to RMC-4630 and LY3214996 was not reached due to the toxicity profile of the combination. Tumor response was not demonstrated at the explored dose levels. Therefore, the dose escalation was discontinued, and the RP2D was not determined.",
+    "journal": "Eur J Cancer",
+    "pubdate": "2026-06-18",
+    "pubtypes": [
+      "Journal Article",
+      "Clinical Trial, Phase I"
+    ],
+    "authors": "Ashwini C Kanhailal, Jonathan E Knikman, Sybrand W J Zielhuis, et al.",
+    "keywords": [
+      "Humans",
+      "Male",
+      "Middle Aged",
+      "Female",
+      "Aged",
+      "Carcinoma, Non-Small-Cell Lung",
+      "Lung Neoplasms",
+      "Proto-Oncogene Proteins p21(ras)",
+      "Antineoplastic Combined Chemotherapy Protocols",
+      "Pancreatic Neoplasms",
+      "Colorectal Neoplasms",
+      "Adult",
+      "Mutation",
+      "Protein Tyrosine Phosphatase, Non-Receptor Type 11",
+      "Protein Kinase Inhibitors"
+    ],
+    "doi": "10.1016/j.ejca.2026.116782",
+    "source": "core",
+    "journal_if": 8.4,
+    "journal_quartile": "Q2",
+    "highlight_score": 40
+  }
+]
