@@ -1,0 +1,125 @@
+[
+  {
+    "pmid": "42190143",
+    "title": "Therapy for Stage IV Non-Small Cell Lung Cancer With Driver Alterations: ASCO Living Guideline, 2026.3.1.",
+    "abstract": "Living guidelines are developed for selected topic areas with rapidly evolving evidence that drives frequent change in recommended clinical practice. Living guidelines are updated on a regular schedule by a standing expert panel that systematically reviews the health literature on a continuous basis, as described in the ASCO Guidelines Methodology Manual. ASCO Living Guidelines follow the ASCO Conflict of Interest Policy Implementation for Clinical Practice Guidelines. Living Guidelines and updates are not intended to substitute for independent professional judgment of the treating clinician and do not account for individual variation among patients. See appendix for disclaimers and other important information (Appendix 1 and Appendix 2, online only). Updates are published regularly and can be found at https://ascopubs.org/nsclc-da-living-guideline.",
+    "journal": "J Clin Oncol",
+    "pubdate": "2026-06-20",
+    "pubtypes": [
+      "Journal Article",
+      "Practice Guideline",
+      "Research Support, Non-U.S. Gov't"
+    ],
+    "authors": "Joshua E Reuss, Nofisat Ismaila, Amith Ahluwalia, et al.",
+    "keywords": [
+      "Humans",
+      "Lung Neoplasms",
+      "Carcinoma, Non-Small-Cell Lung",
+      "Neoplasm Staging",
+      "Practice Guidelines as Topic"
+    ],
+    "doi": "10.1200/JCO-26-00843",
+    "source": "core",
+    "journal_if": 42.1,
+    "journal_quartile": "Q1",
+    "highlight_score": 130,
+    "chinese_conclusion": "ASCO 发布针对驱动基因突变 IV 期 NSCLC 的动态指南，旨在为快速变化的临床实践提供定期更新的治疗建议。",
+    "pathology": "NSCLC",
+    "treatment_tags": [
+      "targeted therapy"
+    ],
+    "chinese_keywords": [
+      "非小细胞肺癌",
+      "驱动基因突变",
+      "IV期",
+      "临床实践指南",
+      "动态指南"
+    ]
+  },
+  {
+    "pmid": "42190141",
+    "title": "Therapy for Stage IV Non-Small Cell Lung Cancer Without Driver Alterations: ASCO Living Guideline, 2026.3.1.",
+    "abstract": "Living guidelines are developed for selected topic areas with rapidly evolving evidence that drives frequent change in recommended clinical practice. Living guidelines are updated on a regular schedule by a standing expert panel that systematically reviews the health literature on a continuous basis, as described in the ASCO Guidelines Methodology Manual. ASCO Living Guidelines follow the ASCO Conflict of Interest Policy Implementation for Clinical Practice Guidelines. Living Guidelines and updates are not intended to substitute for independent professional judgment of the treating clinician and do not account for individual variation among patients. See appendix for disclaimers and other important information (Appendix 1 and Appendix 2, online only). Updates are published regularly and can be found at https://ascopubs.org/nsclc-non-da-living-guideline.",
+    "journal": "J Clin Oncol",
+    "pubdate": "2026-06-20",
+    "pubtypes": [
+      "Journal Article",
+      "Practice Guideline",
+      "Research Support, Non-U.S. Gov't"
+    ],
+    "authors": "Lyudmila Bazhenova, Nofisat Ismaila, Greg Durm, et al.",
+    "keywords": [
+      "Humans",
+      "Lung Neoplasms",
+      "Carcinoma, Non-Small-Cell Lung",
+      "Neoplasm Staging",
+      "Practice Guidelines as Topic"
+    ],
+    "doi": "10.1200/JCO-26-00842",
+    "source": "core",
+    "journal_if": 42.1,
+    "journal_quartile": "Q1",
+    "highlight_score": 130,
+    "chinese_conclusion": "ASCO 发布针对无驱动基因突变 IV 期 NSCLC 的动态指南，旨在为快速变化的临床实践提供定期更新的治疗建议。",
+    "pathology": "NSCLC",
+    "treatment_tags": [
+      "immunotherapy",
+      "chemotherapy"
+    ],
+    "chinese_keywords": [
+      "非小细胞肺癌",
+      "无驱动突变",
+      "IV期",
+      "临床实践指南",
+      "动态指南"
+    ]
+  },
+  {
+    "pmid": "42013573",
+    "title": "Long-Term Efficacy and Safety of Taletrectinib in Patients With ",
+    "abstract": "Taletrectinib is a next-generation, CNS-active, selective ROS1 tyrosine kinase inhibitor (TKI) with activity against the ROS1 G2032R resistance mutation. Initial data from the TRUST-I study (ClinicalTrials.gov identifier: NCT04395677) demonstrated high response rates and intracranial (IC) activity, with promising durability, in Chinese patients with advanced ROS1+ non-small cell lung cancer (NSCLC). With longer follow-up, taletrectinib continued to demonstrate high and durable response rates in both TKI-naïve and crizotinib-pretreated patients, including IC activity and promising overall survival (OS). Among 103 TKI-naïve patients who started taletrectinib at 600 mg once daily (median follow-up, 51.0 months), the objective response rate (ORR) was 90.3% (95% CI, 82.9 to 95.3), the median duration of response (DOR) and median progression-free survival (PFS) exceeded 4 years (49.7 months and 49.6 months, respectively), and median OS was not reached. Among 66 crizotinib-pretreated patients (median follow-up, 45.2 months), the ORR was 51.5%, the median DOR was 13.2 months, the median PFS was 7.6 months, and the median OS was 25.6 months. The safety profile remained consistent with prior reports, and no new safety signals were identified. Overall, taletrectinib demonstrated durable long-term efficacy and a manageable safety profile in patients with advanced ROS1+ NSCLC.",
+    "journal": "J Clin Oncol",
+    "pubdate": "2026-06-20",
+    "pubtypes": [
+      "Journal Article",
+      "Clinical Trial, Phase II",
+      "Multicenter Study",
+      "Research Support, Non-U.S. Gov't"
+    ],
+    "authors": "Wei Li, Yongchang Zhang, Huijie Fan, et al.",
+    "keywords": [
+      "Humans",
+      "Carcinoma, Non-Small-Cell Lung",
+      "Lung Neoplasms",
+      "Protein-Tyrosine Kinases",
+      "Female",
+      "Male",
+      "Proto-Oncogene Proteins",
+      "Aged",
+      "Protein Kinase Inhibitors",
+      "Middle Aged",
+      "Adult",
+      "Progression-Free Survival",
+      "Aged, 80 and over",
+      "Imidazoles",
+      "Pyridazines"
+    ],
+    "doi": "10.1200/JCO-26-00434",
+    "source": "core",
+    "journal_if": 42.1,
+    "journal_quartile": "Q1",
+    "highlight_score": 95,
+    "chinese_conclusion": "他雷替尼在 ROS1 阳性晚期 NSCLC 患者中表现出持久的长期疗效和可管理的安全性，TKI 初治患者的中位无进展生存期超过 4 年。",
+    "pathology": "NSCLC",
+    "treatment_tags": [
+      "targeted therapy"
+    ],
+    "chinese_keywords": [
+      "非小细胞肺癌",
+      "ROS1阳性",
+      "他雷替尼",
+      "酪氨酸激酶抑制剂",
+      "长期疗效"
+    ]
+  }
+]
