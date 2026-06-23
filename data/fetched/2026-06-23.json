@@ -1,0 +1,71 @@
+[
+  {
+    "pmid": "42320986",
+    "title": "Neoadjuvant camrelizumab plus chemotherapy in resectable stage IIIA-IIIB non-small cell lung cancer: integrated multidimensional biomarker analysis from a phase II study.",
+    "abstract": "BACKGROUND: This study evaluated biomarker profiles associated with therapeutic response and prognosis in resectable non-small cell lung cancer (NSCLC) receiving neoadjuvant camrelizumab plus chemotherapy. METHODS: In this single-arm phase II trial, patients with resectable stage IIIA-IIIB NSCLC received three cycles of camrelizumab plus chemotherapy, followed by surgery. Primary endpoints were pathological complete response (pCR). Secondary endpoints included major pathological response (MPR), disease-free survival (DFS), and safety. Exploratory analyses assessed immune subsets in the tumor microenvironment (TME) and peripheral blood, cytokine profiles, circulating tumor DNA (ctDNA) dynamics, and spatial immune-tumor interactions. RESULTS: Thirty patients were enrolled (22 squamous, 8 adenocarcinoma); 27 underwent radical resection. The pCR and MPR rates were 33.3% and 50.0%, respectively. At a median follow-up of 27.2 months, the 2-year DFS rate was 77.4%. Grade≥3 treatment-related adverse events occurred in 13.3%. Achieving pCR was associated with higher baseline levels of CD8+ T cells and naïve-like T cells in both blood and TME. Elevated baseline CD8+ naïve-like T cells in both peripheral blood and tumor nests and their closer proximity to tumor cells correlated with improved DFS. Higher circulating baseline chemokine (C-C motif) ligand 3 (CCL3) levels were associated with both pCR and prolonged DFS. Postneoadjuvant treatment ctDNA positivity predicted shorter DFS, while longitudinal ctDNA monitoring identified relapse as early as 17.6 months before radiographic progression. CONCLUSIONS: Baseline CD8+ naïve-like T-cell abundance and spatial proximity to tumor cells, circulating CCL3 levels, and ctDNA dynamics may serve as potential prognostic biomarkers in resectable NSCLC receiving neoadjuvant camrelizumab plus chemotherapy. TRIAL REGISTRATION NUMBER: NCT06241807.",
+    "journal": "J Immunother Cancer",
+    "pubdate": "2026-06-19",
+    "pubtypes": [
+      "Journal Article",
+      "Clinical Trial, Phase II"
+    ],
+    "authors": "Guoxin Cai, Pingping Song, Zhendan Wang, et al.",
+    "keywords": [
+      "Humans",
+      "Female",
+      "Carcinoma, Non-Small-Cell Lung",
+      "Lung Neoplasms",
+      "Male",
+      "Neoadjuvant Therapy",
+      "Biomarkers, Tumor",
+      "Neoplasm Staging",
+      "Antibodies, Monoclonal, Humanized",
+      "Middle Aged",
+      "Antineoplastic Combined Chemotherapy Protocols",
+      "Aged",
+      "Pathologic Complete Response",
+      "Adult",
+      "Biomarker"
+    ],
+    "doi": "",
+    "source": "core",
+    "journal_if": 10.3,
+    "journal_quartile": "Q1",
+    "highlight_score": 55
+  },
+  {
+    "pmid": "42320980",
+    "title": "First-in-human study of lomvastomig, a PD-1-TIM-3 bispecific antibody, in patients with advanced and/or metastatic solid tumors.",
+    "abstract": "BACKGROUND: This first-in-human clinical study explored lomvastomig, an immunoglobulin G1-based Fc-silenced bispecific antibody that simultaneously blocks the immune checkpoint receptors programmed cell death protein 1 (PD-1) and T-cell immunoglobulin domain and mucin domain-3. METHODS: Lomvastomig was characterized in cell cultures and preclinically in cancer mouse models. The phase 1, open-label, multicenter clinical study of lomvastomig included a dose-escalation part in patients with advanced and/or metastatic solid tumors and an expansion part with four tumor-specific cohorts, which enrolled checkpoint inhibitor (CPI)-experienced patients with melanoma and non-small-cell lung cancer (NSCLC) and CPI-naïve patients with SCLC and esophageal squamous cell carcinoma (ESCC). Primary and secondary objectives included safety/tolerability, maximum tolerated dose (MTD)/recommended dose for expansion (RDE), pharmacokinetics, drug receptor occupancy, and antitumor activity. RESULTS: 39 and 95 patients were enrolled in the dose-escalation and expansion parts, respectively. Lomvastomig was well tolerated up to the highest tested dose of 2,100 mg every 2 weeks (Q2W). One dose-limiting toxicity was reported at 1,200 mg (grade 3 troponin T increase). No MTD was reached, and 2,100 mg Q2W was established as the RDE. Linear pharmacokinetics across the studied dose range suggested target saturation. Peripheral blood drug receptor occupancy on CD3+ and CD8+ was saturated at >90% throughout treatment for doses ≥70 mg. Objective responses were observed at 2,100 mg lomvastomig during dose-escalation (21%; n=19), and in the CPI-experienced melanoma (8%, n=38) and CPI-naïve ESCC (20%, n=15) expansion cohorts. CONCLUSIONS: Lomvastomig had a tolerable and manageable safety profile at 2,100 mg Q2W. Clinical activity was limited in CPI-experienced patients with melanoma and NSCLC, while an encouraging signal was observed in CPI-naïve patients with ESCC. TRIAL REGISTRATION NUMBER: NCT03708328 (registration date: 2018-10-09).",
+    "journal": "J Immunother Cancer",
+    "pubdate": "2026-06-19",
+    "pubtypes": [
+      "Journal Article",
+      "Clinical Trial, Phase I",
+      "Multicenter Study"
+    ],
+    "authors": "Kristoffer Staal Rohrberg, Ignacio Melero, Miguel F Sanmamed, et al.",
+    "keywords": [
+      "Humans",
+      "Female",
+      "Antibodies, Bispecific",
+      "Male",
+      "Middle Aged",
+      "Aged",
+      "Animals",
+      "Adult",
+      "Programmed Cell Death 1 Receptor",
+      "Mice",
+      "Aged, 80 and over",
+      "Lung Neoplasms",
+      "Maximum Tolerated Dose",
+      "Carcinoma, Non-Small-Cell Lung",
+      "Neoplasms"
+    ],
+    "doi": "",
+    "source": "core",
+    "journal_if": 10.3,
+    "journal_quartile": "Q1",
+    "highlight_score": 40
+  }
+]
