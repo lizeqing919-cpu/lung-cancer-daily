@@ -1,0 +1,96 @@
+[
+  {
+    "pmid": "42331381",
+    "title": "Rescue by radiotherapy and anti-CTLA4/PD-1 after failure of anti-PD-1 therapy in patients with metastatic NSCLC: the phase II RECLAIM trial.",
+    "abstract": "BACKGROUND: Response to anti-programmed cell death protein-1 (anti-PD-1) immunotherapy remains limited in patients with metastatic non-small cell lung cancer (NSCLC), whose tumors exhibit low or absent programmed death-ligand 1 (PD-L1) expression, and subsequent second-line therapy has poor efficacy. To address this limitation, we evaluated the efficacy and safety of combined ipilimumab and nivolumab (IPI/NIVO) with subablative radiotherapy (RT) in patients with metastatic NSCLC with negative or low PD-L1 expression, who had progressed on prior anti-PD-1 therapy. METHODS: This single-arm, prospective phase II trial aimed to enroll 30 evaluable patients with metastatic NSCLC exhibiting low (1-49%) or negative (<1%) PD-L1 tumor expression who had progressed after first-line anti-PD-1 therapy. Primary endpoints were safety, disease control rate (DCR), and objective response rate (ORR) at 6 and 12 weeks, assessed in non-irradiated tumor lesions. Treatment consisted of IPI 1 mg/kg every 6 weeks (Q6W) and NIVO 240 mg every 2 weeks for 6 weeks combined with subablative RT (3×8 Gy to 1-4 lesions). Thereafter, IPI 1 mg/kg Q6W and NIVO 360 mg every 3 weeks were continued. RESULTS: In 31 patients of the intention-to-treat population, ORR was 7% and 10% at 6 and 12 weeks, and reached 29% as the best response. DCR was 58% and 39% at 6 and 12 weeks. Overall survival (OS) differed significantly by best response, with a median OS of 3.1, 13.5 and 22.5 months for progressive disease, stable disease and partial/complete response (p<0.001). Baseline sum of longest diameters, together with age, blood inflammatory markers and albumin levels, were prognostic of treatment response. All patients experienced treatment-related adverse events (AEs), with grade 3 as the highest severity in eight patients (26%). Immune-related AEs led to treatment discontinuation in five patients (16%). Early T-cell activation in peripheral blood samples (day 8) was detectable and more pronounced in responders than in progressors. CONCLUSIONS: In patients with metastatic NSCLC and low or negative tumor PD-L1 expression, IPI/NIVO/RT was able to induce objective clinical responses in a subset of patients who had progressed after first-line anti-PD1 therapy. Treatment was associated with a strong T-cell activation, improved OS and an acceptable safety profile. TRIAL REGISTRATION NUMBER: 2020-001097-29.",
+    "journal": "J Immunother Cancer",
+    "pubdate": "2026-06-22",
+    "pubtypes": [
+      "Journal Article",
+      "Clinical Trial, Phase II"
+    ],
+    "authors": "Ezgi B Ulas, Nora D Purcell, Ilias Houda, et al.",
+    "keywords": [
+      "Humans",
+      "Female",
+      "Male",
+      "Carcinoma, Non-Small-Cell Lung",
+      "Lung Neoplasms",
+      "Middle Aged",
+      "Aged",
+      "Programmed Cell Death 1 Receptor",
+      "CTLA-4 Antigen",
+      "Adult",
+      "Nivolumab",
+      "Neoplasm Metastasis",
+      "Prospective Studies",
+      "Immune Checkpoint Inhibitors",
+      "Immune Checkpoint Inhibitor"
+    ],
+    "doi": "",
+    "source": "core",
+    "journal_if": 10.3,
+    "journal_quartile": "Q1",
+    "highlight_score": 55,
+    "chinese_conclusion": "在既往抗PD-1治疗进展后、肿瘤PD-L1低表达或阴性的转移性非小细胞肺癌患者中，联合伊匹单抗和纳武单抗加亚消融放疗可诱导部分患者产生客观缓解，且与较强T细胞活化和可接受的安全性相关。",
+    "pathology": "NSCLC",
+    "treatment_tags": [
+      "immunotherapy",
+      "radiotherapy"
+    ],
+    "chinese_keywords": [
+      "非小细胞肺癌",
+      "免疫检查点抑制剂",
+      "放疗",
+      "抗CTLA-4/PD-1",
+      "PD-L1低表达"
+    ]
+  },
+  {
+    "pmid": "42202477",
+    "title": "Osimertinib plus selumetinib in patients with EGFR-mutated advanced NSCLC with BRAF alterations post-progression on first-line osimertinib: ORCHARD.",
+    "abstract": "BACKGROUND: ORCHARD (NCT03944772) was a phase II, biomarker-matched, platform study designed to characterise resistance mechanisms and evaluate novel drug combinations in patients with epidermal growth factor receptor (EGFR)-mutated advanced non-small cell lung cancer (NSCLC) following disease progression on first-line osimertinib. We report final results of the module assessing the efficacy and safety of osimertinib plus selumetinib (a MEK inhibitor) in patients with BRAF alterations. METHODS: Patients with BRAF fusions or BRAF V600E mutations received osimertinib 80 mg once daily plus selumetinib 75 mg twice daily until disease progression or unacceptable toxicity. The primary endpoint was investigator-assessed objective response rate (ORR) per RECIST 1.1. Secondary endpoints included progression-free survival (PFS), overall survival (OS) and safety. RESULTS: Overall, 16 patients received osimertinib plus selumetinib. At data cut-off, (25 November 2024) all patients had discontinued study treatment. The ORR was 7 % (80 % confidence interval [CI], < 1-25); one patient had a partial response. Median PFS was 3.4 months (95 % CI, 1.3-5.4) and median OS was 14.0 months (95 % CI, 6.2-not calculable). Eleven patients (69 %) had grade ≥ 3 adverse events, most commonly diarrhoea (19 %). CONCLUSION: Osimertinib plus selumetinib demonstrated minimal response in patients with EGFR-mutated advanced NSCLC with BRAF alterations following disease progression on first-line osimertinib. The safety profile of the combination was consistent with the known profiles of the two individual drugs; no new safety signals were identified. Overall, the risk-benefit profile suggests further evaluation of this combination is not warranted.",
+    "journal": "Eur J Cancer",
+    "pubdate": "2026-06-25",
+    "pubtypes": [
+      "Journal Article",
+      "Clinical Trial, Phase II",
+      "Multicenter Study"
+    ],
+    "authors": "Zofia Piotrowska, Sarah B Goldberg, Jonathan W Goldman, et al.",
+    "keywords": [
+      "Humans",
+      "Indoles",
+      "Pyrimidines",
+      "Aniline Compounds",
+      "Lung Neoplasms",
+      "Carcinoma, Non-Small-Cell Lung",
+      "Acrylamides",
+      "ErbB Receptors",
+      "Proto-Oncogene Proteins B-raf",
+      "Antineoplastic Combined Chemotherapy Protocols",
+      "Mutation",
+      "Female",
+      "Male",
+      "Benzimidazoles",
+      "Aged"
+    ],
+    "doi": "10.1016/j.ejca.2026.116807",
+    "source": "core",
+    "journal_if": 8.4,
+    "journal_quartile": "Q2",
+    "highlight_score": 55,
+    "chinese_conclusion": "奥希替尼联合司美替尼对EGFR突变、一线奥希替尼进展后伴BRAF变异的晚期非小细胞肺癌疗效甚微，客观缓解率仅7%，未发现新的安全性信号，提示该联合方案不具备进一步评估价值。",
+    "pathology": "NSCLC",
+    "treatment_tags": [
+      "targeted therapy"
+    ],
+    "chinese_keywords": [
+      "奥希替尼",
+      "司美替尼",
+      "EGFR突变",
+      "BRAF变异",
+      "非小细胞肺癌"
+    ]
+  }
+]
