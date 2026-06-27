@@ -1,0 +1,96 @@
+[
+  {
+    "pmid": "42218899",
+    "title": "Ivonescimab plus chemotherapy versus tislelizumab plus chemotherapy in advanced squamous non-small-cell lung cancer (HARMONi-6): interim overall survival analysis of a randomised, double-blind, phase 3 trial in China.",
+    "abstract": "BACKGROUND: Bispecific antibodies targeting programmed death 1 (PD-1) and vascular endothelial growth factor (PD1-VEGF) have shown promising efficacy in non-small-cell lung cancer (NSCLC). In our previous report of the HARMONi-6 study, we aimed to evaluate the efficacy and safety of ivonescimab plus chemotherapy versus tislelizumab plus chemotherapy as a first-line therapy for patients with advanced squamous NSCLC. Ivonescimab combined with chemotherapy significantly prolonged progression-free survival compared with tislelizumab plus chemotherapy. Here we report the prespecified interim overall survival analysis. METHODS: HARMONi-6 is a double-blind, randomised, phase 3 trial, which was conducted at 50 hospitals across China. Patients aged 18-75 years with previously untreated, pathologically confirmed, unresectable stage IIIB, IIIC, or stage IV squamous NSCLC and an Eastern Cooperative Oncology Group performance status score of 0 or 1 were eligible for inclusion. Eligible patients were randomly assigned in a 1:1 ratio to receive ivonescimab or tislelizumab, in combination with paclitaxel and carboplatin for four cycles, followed by maintenance ivonescimab or tislelizumab monotherapy. The primary endpoint was progression-free survival assessed by the independent radiographic review committee as per Response Evaluation Criteria in Solid Tumours guidelines (version 1.1) in all randomly assigned patients. Overall survival was a key secondary endpoint; an interim analysis was planned when approximately 225 overall survival events were observed, but it was triggered after 204 overall survival events to meet regulatory deadlines. Safety, defined as adverse events and serious adverse events related to treatment, as well as adverse events related to immunity or VEGF blockade, were analysed in all randomly assigned patients who received at least one dose of the assigned study treatment. This study is registered at ClinicalTrials.gov (NCT05840016), has completed enrolment, and is ongoing for treatment and follow-up. FINDINGS: From Aug 17, 2023, to Jan 21, 2025, 761 patients were assessed for eligibility, and after 229 exclusions a total of 532 patients were randomly allocated (266 per group). 494 (93%) of patients were male and 38 (7%) of patients were female. The median age was 64 years (IQR 59-69). At data cutoff (Feb 27, 2026), 204 deaths had occurred: 84 (32%) patients in the ivonescimab plus chemotherapy group and 120 (45%) in the tislelizumab plus chemotherapy group. With a median follow-up of 21·4 months (95% CI 20·27-21·91), the median overall survival was 27·9 months (95% CI 27·89-not evaluable [NE]) with ivonescimab versus 23·7 months (20·11-NE) with tislelizumab (hazard ratio for death 0·66 [95% CI 0·50-0·87]; pone-sided=0·0017), meeting the prespecified boundary (p<0·0049). The overall survival benefit with ivonescimab plus chemotherapy was consistent across key subgroups. Treatment-related adverse events of grade 3 or higher occurred in 184 (69%) of 266 patients in the ivonescimab group and 156 (59%) of 265 patients in the tislelizumab group. The incidence of grade 3 or higher haemorrhage was seven (3%) of 266 and two (1%) of 265, respectively. INTERPRETATION: Ivonescimab plus chemotherapy demonstrated a statistically significant and clinically meaningful improvement in overall survival compared with tislelizumab plus chemotherapy in previously untreated patients with advanced squamous NSCLC. This regimen could provide a novel treatment option as first-line treatment in this patient group. FUNDING: Akeso Biopharma.",
+    "journal": "Lancet",
+    "pubdate": "2026-06-27",
+    "pubtypes": [
+      "Journal Article",
+      "Randomized Controlled Trial",
+      "Clinical Trial, Phase III",
+      "Multicenter Study"
+    ],
+    "authors": "Shun Lu, Baogang Liu, Yongzhong Luo, et al.",
+    "keywords": [
+      "Humans",
+      "Double-Blind Method",
+      "Middle Aged",
+      "Male",
+      "Carcinoma, Non-Small-Cell Lung",
+      "Female",
+      "China",
+      "Lung Neoplasms",
+      "Antineoplastic Combined Chemotherapy Protocols",
+      "Aged",
+      "Antibodies, Monoclonal, Humanized",
+      "Adult",
+      "Paclitaxel",
+      "Carboplatin",
+      "Young Adult"
+    ],
+    "doi": "10.1016/S0140-6736(26)00966-9",
+    "source": "core",
+    "journal_if": 98.4,
+    "journal_quartile": "Q1",
+    "highlight_score": 140,
+    "chinese_conclusion": "在初治晚期鳞状非小细胞肺癌患者中，依沃西单抗联合化疗对比替雷利珠单抗联合化疗显著延长总生存期，中位总生存期分别为27.9个月和23.7个月（HR=0.66，p=0.0017），提供了一线治疗新选择。",
+    "pathology": "NSCLC",
+    "treatment_tags": [
+      "immunotherapy",
+      "chemotherapy"
+    ],
+    "chinese_keywords": [
+      "鳞状非小细胞肺癌",
+      "依沃西单抗",
+      "替雷利珠单抗",
+      "总生存期",
+      "一线治疗"
+    ]
+  },
+  {
+    "pmid": "42214392",
+    "title": "Sacituzumab tirumotecan plus pembrolizumab versus pembrolizumab in PD-L1-positive advanced non-small-cell lung cancer (OptiTROP-Lung05): interim analysis of a randomised, open-label, phase 3 trial.",
+    "abstract": "BACKGROUND: Sacituzumab tirumotecan (sac-TMT), a trophoblast cell-surface antigen 2-targeting antibody-drug conjugate, combined with programmed death 1 (PD-1) or programmed death ligand 1 (PD-L1) inhibitors, has shown promising antitumour activity as first-line therapy for non-small-cell lung cancer (NSCLC) in early-phase studies. Our aim was to evaluate the efficacy and safety of sac-TMT plus pembrolizumab as first-line treatment for patients with PD-L1-positive advanced NSCLC without targetable genomic alterations. METHODS: In this randomised, open-label, phase 3 trial (OptiTROP-Lung05) conducted across 68 hospitals in China, eligible patients had locally advanced or metastatic NSCLC without targetable genomic alterations and a PD-L1 tumour proportion score (TPS) of 1% or greater. Patients were randomly assigned (1:1) to receive sac-TMT (4 mg/kg on days 1, 15, and 29) plus pembrolizumab (400 mg fixed dose on day 1), or pembrolizumab alone, administered intravenously every 6 weeks. The primary endpoint was progression-free survival, as assessed by blinded independent central review in the intention-to-treat population. This trial was registered with ClinicalTrials.gov (NCT06448312). Recruitment is complete, with the trial ongoing and the final analysis to be reported later. FINDINGS: Between June 7, 2024, and March 27, 2025, 741 patients were screened and 413 eligible patients were randomly assigned to receive sac-TMT plus pembrolizumab (n=208) or pembrolizumab alone (n=205). At the prespecified interim analysis, conducted after a median follow-up of 10·5 months (IQR 8·7-12·5), median progression-free survival was significantly longer with sac-TMT plus pembrolizumab than with pembrolizumab alone (not reached vs 5·7 months; stratified hazard ratio [HR] 0·35 [95% CI 0·26-0·47]; p<0·0001). The progression-free survival benefit was broadly consistent across subgroups, including patients with PD-L1 TPS of 1-49% (HR 0·28 [95% CI 0·19-0·41]) and those with PD-L1 TPS of 50% or greater (HR 0·47 [0·29-0·77]). Grade 3 or higher treatment-emergent adverse events occurred in 115 (55%) of 208 patients in the sac-TMT plus pembrolizumab group and 64 (31%) of 204 patients in the pembrolizumab group. INTERPRETATION: Among patients with PD-L1-positive advanced NSCLC without targetable genomic alterations, first-line treatment with sac-TMT plus pembrolizumab significantly prolonged progression-free survival compared with pembrolizumab alone. Therefore, sac-TMT plus pembrolizumab has the potential to redefine first-line treatment for patients with PD-L1-positive advanced NSCLC without targetable genomic alterations. FUNDING: Sichuan Kelun-Biotech Biopharmaceutical.",
+    "journal": "Lancet",
+    "pubdate": "2026-06-27",
+    "pubtypes": [
+      "Journal Article",
+      "Randomized Controlled Trial",
+      "Clinical Trial, Phase III",
+      "Multicenter Study"
+    ],
+    "authors": "Anwen Xiong, Wenxiu Yao, Wei Zheng, et al.",
+    "keywords": [
+      "Aged",
+      "Female",
+      "Humans",
+      "Male",
+      "Middle Aged",
+      "Antibodies, Monoclonal, Humanized",
+      "Antineoplastic Combined Chemotherapy Protocols",
+      "B7-H1 Antigen",
+      "Carcinoma, Non-Small-Cell Lung",
+      "Immunoconjugates",
+      "Lung Neoplasms"
+    ],
+    "doi": "10.1016/S0140-6736(26)00968-2",
+    "source": "core",
+    "journal_if": 98.4,
+    "journal_quartile": "Q1",
+    "highlight_score": 140,
+    "chinese_conclusion": "在PD-L1阳性、无靶向基因变异的晚期非小细胞肺癌一线治疗中，戈沙妥珠单抗联合帕博利珠单抗较帕博利珠单抗单药显著延长无进展生存期（中位PFS未达到 vs 5.7个月，HR=0.35，p<0.0001），有望重新定义此类患者的一线治疗标准。",
+    "pathology": "NSCLC",
+    "treatment_tags": [
+      "immunotherapy",
+      "targeted therapy"
+    ],
+    "chinese_keywords": [
+      "PD-L1阳性",
+      "非小细胞肺癌",
+      "戈沙妥珠单抗",
+      "帕博利珠单抗",
+      "无进展生存期"
+    ]
+  }
+]
