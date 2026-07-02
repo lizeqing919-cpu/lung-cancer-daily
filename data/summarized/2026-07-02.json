@@ -1,0 +1,78 @@
+[
+  {
+    "pmid": "41945490",
+    "title": "A First-in-Human Phase I Clinical Trial Evaluating Clinical Activity and Proof of Mechanism of Tobemstomig, a PD-1-LAG-3 Bispecific Antibody, in Patients with CPI-Experienced Melanoma.",
+    "abstract": "PURPOSE: The immunoglobulin G1-based bispecific antibody tobemstomig (RO7247669) simultaneously targets and blocks programmed cell death protein 1 and lymphocyte activation gene-3 expressed on activated T cells. PATIENTS AND METHODS: This first-in-human, open-label, phase I clinical trial of tobemstomig included a dose-escalation part in patients with advanced and/or metastatic solid tumors and an expansion part with three tumor-specific cohorts, enrolling checkpoint inhibitor (CPI)-experienced patients with melanoma and non-small cell lung cancer (NSCLC) and CPI-naïve patients with esophageal squamous cell carcinoma (ESCC). Primary and secondary objectives included safety/tolerability, maximum tolerated dose (MTD) and/or recommended dose for expansion (RDE), pharmacokinetics (PK), drug receptor occupancy, and preliminary antitumor activity. RESULTS: Thirty-five (dose-escalation) and sixty-nine patients (expansion) were enrolled. Tobemstomig was well tolerated up to the highest tested dose of 2,100 mg once every 2 weeks. The MTD was not reached, and 2,100 mg once every 2 weeks was established as the RDE. Tobemstomig exhibited linear PK across the studied dose range. Partial responses were achieved by 2 of 4 (600 mg) and 4 of 13 (2,100 mg) patients during dose escalation, 6 of 41 patients with CPI-experienced melanoma [objective response rate (ORR): 15%; 95% confidence interval (CI), 6.6-26.9], and 1 of 8 patients with CPI-naïve ESCC (ORR: 12.5%; 90% CI, 0.6-47.1). Proof of mechanism was demonstrated in patients with CPI-experienced melanoma based on increases in the amounts of CD8+ T cells, expansion of stem-like CD8+ T cells, and the acquisition of cytotoxic effector functions, with limited changes in the regulatory T-cell compartment. CONCLUSIONS: Tobemstomig had a tolerable and manageable safety profile across various advanced solid tumor indications. The encouraging antitumor activity associated with pharmacodynamic activity and proof of mechanism in patients with CPI-experienced melanoma indicates the therapeutic potential of tobemstomig and supports further investigation in earlier disease treatment settings.",
+    "journal": "Clin Cancer Res",
+    "pubdate": "2026-07-01",
+    "pubtypes": [
+      "Journal Article",
+      "Clinical Trial, Phase I"
+    ],
+    "authors": "Elena Garralda, Christoph Markert, Victor Moreno, et al.",
+    "keywords": [
+      "Humans",
+      "Melanoma",
+      "Antibodies, Bispecific",
+      "Female",
+      "Male",
+      "Middle Aged",
+      "Aged",
+      "Programmed Cell Death 1 Receptor",
+      "Adult",
+      "Lymphocyte Activation Gene 3 Protein",
+      "Maximum Tolerated Dose",
+      "Immune Checkpoint Inhibitors",
+      "Esophageal Neoplasms",
+      "Antigens, CD",
+      "Carcinoma, Non-Small-Cell Lung"
+    ],
+    "doi": "10.1158/1078-0432.CCR-25-4478",
+    "source": "core",
+    "journal_if": 11.5,
+    "journal_quartile": "Q1",
+    "highlight_score": 60,
+    "chinese_conclusion": "本文为针对黑色素瘤患者的Ⅰ期临床试验，评估tobemstomig的初步抗肿瘤活性及机制，未涉及肺癌患者。",
+    "pathology": "Other",
+    "treatment_tags": [
+      "immunotherapy"
+    ],
+    "chinese_keywords": [
+      "tobemstomig",
+      "PD-1-LAG-3双特异性抗体",
+      "免疫检查点抑制剂",
+      "黑色素瘤"
+    ]
+  },
+  {
+    "pmid": "42379887",
+    "title": "Comparative performance of endobronchial ultrasound-guided sampling techniques in patients with mediastinal lesions: a network meta-analysis.",
+    "abstract": "BACKGROUND: Comparative evidence on the diagnostic yield of endobronchial ultrasound (EBUS)-guided sampling techniques for mediastinal lesions remains limited. We conducted a network meta-analysis (NMA) to evaluate EBUS-guided transbronchial needle aspiration (EBUS-TBNA), intranodal forceps biopsy (EBUS-IFB), transbronchial needle core biopsy (EBUS-TBNB) and transbronchial mediastinal cryobiopsy (EBUS-TMC). METHODS: Random-effects NMA was performed within Bayesian and frequentist frameworks. Frequentist estimates were reported as risk ratios (RRs) with 95% CIs and, where applicable, 95% predictive intervals (PrIs). Bayesian ranking was assessed using surface under the cumulative ranking curve (SUCRA) values. RESULTS: 35 studies involving 3751 patients were included. EBUS-TMC (RR 1.27, 95% CI 1.16 to 1.39; 95% PrI 0.89-1.81) and EBUS-IFB (RR 1.21, 95% CI 1.07 to 1.38; 95% PrI 0.84-1.75) may provide higher diagnostic yield than EBUS-TBNA, whereas EBUS-TBNB did not show a clear advantage (RR 1.10, 95% CI 0.98 to 1.23). However, all 95% PrIs crossed unity, suggesting uncertainty about reproducibility in future settings. SUCRA rankings favoured EBUS-TMC followed by EBUS-IFB, EBUS-TBNB and EBUS-TBNA but should not be interpreted as certainty of superiority. Subgroup analyses suggested greater benefits of EBUS-TMC and EBUS-IFB in benign diseases, sarcoidosis and lymphoma but similar performance in lung cancer. Most adverse events were mild to moderate, although EBUS-TMC had a higher reported adverse-event rate. CONCLUSION: EBUS-TMC and EBUS-IFB may improve diagnostic yield over EBUS-TBNA in selected diseases and experienced centres. Given the very low certainty of evidence, wide PrIs and exploratory SUCRA rankings, these findings should be viewed as hypothesis-generating rather than definitive evidence. PROSPERO REGISTRATION NUMBER: CRD420251236286.",
+    "journal": "Thorax",
+    "pubdate": "2026-06-30",
+    "pubtypes": [
+      "Journal Article"
+    ],
+    "authors": "Yan Luo, Sheng-Ping Li",
+    "keywords": [
+      "Bronchoscopy",
+      "Lung Cancer",
+      "Pulmonary lymphoma",
+      "Sarcoidosis"
+    ],
+    "doi": "",
+    "source": "core",
+    "journal_if": 10.0,
+    "journal_quartile": "Q1",
+    "highlight_score": 60,
+    "chinese_conclusion": "网络荟萃分析提示，超声内镜引导下经支气管冷冻活检（EBUS-TMC）和钳夹活检（EBUS-IFB）可能较传统针吸活检（EBUS-TBNA）提高纵隔病变诊断率，尤其在良性病、结节病和淋巴瘤中获益更大，但在肺癌中表现相似。",
+    "pathology": "Lymph Node",
+    "treatment_tags": [],
+    "chinese_keywords": [
+      "超声内镜引导下纵隔冷冻活检",
+      "淋巴结针吸活检",
+      "纵隔病变",
+      "肺癌诊断"
+    ]
+  }
+]
