@@ -1,0 +1,100 @@
+[
+  {
+    "pmid": "41747891",
+    "title": "PROSPECT-LUNG: A National Clinical Trials Network Trial Advancing Pragmatic Innovation in Cancer Clinical Trials.",
+    "abstract": "INTRODUCTION: Clinical trial designs marked by extensive data collection, restrictive eligibility, and lengthy protocols create inefficiencies, increase costs, and hinder accrual. These are further compounded by staffing shortages and operational burdens. By incorporating pragmatic features, including simplified eligibility criteria, streamlined protocol, and data collection, the PROSPECT-Lung trial, CTIU2317-A082304-S2402 Perioperative versus Adjuvant Systemic Therapy in Patients with Resectable NSCLC, paves the way forward as a model for enhancing clinical trial efficiency and feasibility, while maintaining scientific rigor. METHODS: PROSPECT-Lung (CTIU2317-A082304-S2402) is a pragmatic, phase III, open-label, randomized trial comparing 3-year real-world event-free survival and overall survival using approved perioperative and adjuvant immunotherapy-based treatment strategies in patients with resectable NSCLC. Protocol length and data collection elements were compared with Alliance A081801, Integration of Immunotherapy into Adjuvant Therapy for Resected NSCLC: ALCHEMIST CHEMO-IO (ClinicalTrials.gov Identifier: NCT04267848), a phase III trial in the same disease setting, to quantify streamlining efforts. RESULTS: Relative to A081801, PROSPECT-Lung achieved major reductions in trial complexity. Protocol length decreased from 88 to 30 pages (65%), and data fields per patient were reduced from 2523 to 438 (82.6%), driven by streamlined summary versus cycle-by-cycle data collection. These efficiencies translate to estimated site workload reductions from 210 hours per patient in A081801 to 36.5 hours in PROSPECT-Lung. At full accrual, this equates to more than 190,000 hours saved in chart review, data entry, documentation, and quality control. CONCLUSION: By broadening eligibility and streamlining logistics, PROSPECT-Lung reduces burden for patients, investigators, and sites while preserving scientific integrity. This pragmatic approach, when appropriate and possible, provides a replicable model for future cancer trials, promoting efficiency, accessibility, and real-world relevance. GOV IDENTIFIER: NCT06632327 (CTIU2317-A082304-S2402).",
+    "journal": "J Thorac Oncol",
+    "pubdate": "2026-07-01",
+    "pubtypes": [
+      "Journal Article",
+      "Clinical Trial, Phase III",
+      "Randomized Controlled Trial"
+    ],
+    "authors": "Allison Booth, Shauna Hillman, Kristina Laumann, et al.",
+    "keywords": [
+      "Humans",
+      "Lung Neoplasms",
+      "Carcinoma, Non-Small-Cell Lung",
+      "Female",
+      "Adjuvant",
+      "Pragmatic",
+      "Real world",
+      "Streamlined"
+    ],
+    "doi": "10.1016/j.jtho.2026.103650",
+    "source": "core",
+    "journal_if": 20.4,
+    "journal_quartile": "Q1",
+    "highlight_score": 100
+  },
+  {
+    "pmid": "41791703",
+    "title": "Combination of Lurbinectedin Plus Irinotecan: Preclinical and Early Clinical Results in Patients With Relapsed SCLC.",
+    "abstract": "INTRODUCTION: Novel treatment approaches are required for relapsed SCLC. Previous studies found promising activity for lurbinectedin combined with topoisomerase inhibitors in preclinical models of other solid tumors. METHODS: SCLC cell lines, patient-derived organoids, and xenografts were used to evaluate the effects of lurbinectedin plus irinotecan. The underlying mechanism of interaction was elucidated using flow cytometry, immunofluorescence, and western blotting. A phase I-II clinical trial assessed the efficacy and safety of the lurbinectedin-irinotecan combination in patients with advanced solid tumors. RESULTS: A synergistic antitumor effect was observed for the combination in vitro and in vivo, which resulted from impaired S-phase entry and progression, enhanced DNA damage, and induction of apoptosis. On the basis of the results of the dose escalation stage of the trial, a recommended dose (RD) of lurbinectedin 2.0 mg/m2 on Day (D)1 plus irinotecan 75 mg/m2 on D1, D8 every 3 weeks with primary growth factor prophylaxis was chosen for further evaluation. Of the 47 patients with relapsed SCLC included in the trial, 21 with measurable disease treated at the RD exhibited an overall response rate 61.9%, a median progression-free survival of 7.2 months, and a median overall survival of 12.3 months. The most common toxicities at the RD were myelosuppression, fatigue, gastrointestinal disorders, and decreased appetite. CONCLUSIONS: The lurbinectedin-irinotecan combination increased the induction of DNA damage and apoptosis, resulting in increased antitumor efficacy in vitro and in vivo. Early clinical data revealed promising antitumor activity and a predictable safety profile for the combination in relapsed SCLC. Further development in this indication is ongoing. GOV IDENTIFIER: NCT02611024.",
+    "journal": "J Thorac Oncol",
+    "pubdate": "2026-07-01",
+    "pubtypes": [
+      "Journal Article",
+      "Clinical Trial, Phase II",
+      "Clinical Trial, Phase I"
+    ],
+    "authors": "Santiago Ponce, Miguel Ruiz-Torres, Alejandro Falcón, et al.",
+    "keywords": [
+      "Irinotecan",
+      "Humans",
+      "Animals",
+      "Carbolines",
+      "Lung Neoplasms",
+      "Female",
+      "Antineoplastic Combined Chemotherapy Protocols",
+      "Male",
+      "Mice",
+      "Small Cell Lung Carcinoma",
+      "Heterocyclic Compounds, 4 or More Rings",
+      "Neoplasm Recurrence, Local",
+      "Middle Aged",
+      "Aged",
+      "Adult"
+    ],
+    "doi": "10.1016/j.jtho.2026.103654",
+    "source": "core",
+    "journal_if": 20.4,
+    "journal_quartile": "Q1",
+    "highlight_score": 75
+  },
+  {
+    "pmid": "41871716",
+    "title": "Datopotamab Deruxtecan Plus Pembrolizumab With or Without Platinum-Based Chemotherapy for Advanced or Metastatic NSCLC: The Phase Ib TROPION-Lung02 Trial.",
+    "abstract": "INTRODUCTION: The phase Ib two-part (dose escalation and expansion) six-cohort TROPION-Lung02 study evaluated datopotamab deruxtecan (Dato-DXd) plus pembrolizumab with or without platinum-based chemotherapy (Pt-CT) in patients with advanced or metastatic NSCLC without actionable genomic alterations. METHODS: Patients received Dato-DXd (4 or 6 mg/kg) plus pembrolizumab 200 mg alone (doublet) or with Pt-CT (triplet; carboplatin AUC 5 or cisplatin 75 mg/m2) once every 3 weeks. The primary objective was safety and tolerability; efficacy was a secondary objective. Exploratory biomarker analyses assessing TROP2 normalized membrane ratio by quantitative continuous scoring were performed in the treatment-naive patient subset. RESULTS: In total, 142 patients received doublet (n = 70) or triplet (n = 72) therapy; 96 were treatment-naive (doublet: n = 42; triplet: n = 54). Grade 3 or higher treatment-related adverse events occurred in 37.1% (doublet) and 59.7% (triplet) of patients. No treatment-related deaths occurred. In treatment-naive patients receiving doublet therapy, the confirmed objective response rate was 54.8%, the median duration of response was 20.1 months, and the median progression-free survival was 11.2 months. With triplet therapy, the confirmed objective response rate was 55.6%, the median duration of response was 13.7 months, and the median progression-free survival was 6.8 months. Tumor responses were observed across programmed death-ligand 1 expression levels for both regimens. Exploratory TROP2 normalized membrane ratio biomarker analyses revealed trends toward improved survival outcomes in patients who were biomarker-positive compared with biomarker-negative. CONCLUSION: Dato-DXd plus pembrolizumab therapy (with and without Pt-CT) exhibited appreciable safety and durable antitumor activity across programmed death-ligand 1 expression levels in patients with advanced or metastatic NSCLC. CLINICAL TRIAL INFORMATION: ClinicalTrials.gov Identifier: NCT04526691.",
+    "journal": "J Thorac Oncol",
+    "pubdate": "2026-07-01",
+    "pubtypes": [
+      "Journal Article",
+      "Clinical Trial, Phase I",
+      "Multicenter Study"
+    ],
+    "authors": "Benjamin Levy, Luis Paz-Ares, Chien-Chung Lin, et al.",
+    "keywords": [
+      "Humans",
+      "Antibodies, Monoclonal, Humanized",
+      "Female",
+      "Lung Neoplasms",
+      "Male",
+      "Antineoplastic Combined Chemotherapy Protocols",
+      "Carcinoma, Non-Small-Cell Lung",
+      "Aged",
+      "Middle Aged",
+      "Adult",
+      "Cisplatin",
+      "Carboplatin",
+      "Aged, 80 and over",
+      "Survival Rate",
+      "Antibody-drug conjugate"
+    ],
+    "doi": "10.1016/j.jtho.2026.103688",
+    "source": "core",
+    "journal_if": 20.4,
+    "journal_quartile": "Q1",
+    "highlight_score": 60
+  }
+]
