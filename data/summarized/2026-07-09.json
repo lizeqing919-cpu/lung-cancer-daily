@@ -1,0 +1,50 @@
+[
+  {
+    "pmid": "42418775",
+    "title": "Ensartinib in Resected ",
+    "abstract": "BACKGROUND: Anaplastic lymphoma kinase (ALK) inhibitors have emerged as promising agents for patients with resectable ALK-positive non-small-cell lung cancer (NSCLC). Whether ensartinib, a second-generation ALK inhibitor, is safe and effective in such patients is unknown. METHODS: In this phase 3, double-blind, randomized trial involving patients with completely resected, ALK-positive stage IB to IIIB NSCLC after adjuvant chemotherapy, we randomly assigned patients in a 1:1 ratio to receive ensartinib at a dose of 225 mg once daily or placebo for 24 months. The primary end point was disease-free survival in patients with stage II to IIIB NSCLC. The key secondary end point was disease-free survival in the overall patient population. RESULTS: A total of 274 patients were randomly assigned to receive ensartinib or placebo (137 patients in each group). At 24 months, the percentage of patients with stage II to IIIB disease who were alive and disease-free was 86.4% in the ensartinib group and 53.5% in the placebo group (hazard ratio for disease recurrence or death, 0.20; 95% confidence interval [CI], 0.11 to 0.38; P<0.001). In the overall patient population, the percentage of patients who were alive and disease-free was 87.3% in the ensartinib group and 57.2% in the placebo group (hazard ratio, 0.20; 95% CI, 0.10 to 0.37; P<0.001). Overall survival data were immature. Adverse events of grade 3 or higher occurred in 35.8% of the patients who received ensartinib (most commonly rash) and in 18.2% of those who received placebo. CONCLUSIONS: Among patients with completely resected stage IB to IIIB ALK-positive NSCLC, the percentage of patients who were alive and disease-free at 24 months was significantly higher with ensartinib than with placebo. (Funded by Betta Pharmaceuticals; ELEVATE ClinicalTrials.gov number, NCT05341583.).",
+    "journal": "N Engl J Med",
+    "pubdate": "2026-07-09",
+    "pubtypes": [
+      "Journal Article",
+      "Randomized Controlled Trial",
+      "Clinical Trial, Phase III",
+      "Multicenter Study"
+    ],
+    "authors": "Dongsheng Yue, Meijuan Huang, Pingping Song, et al.",
+    "keywords": [
+      "Humans",
+      "Carcinoma, Non-Small-Cell Lung",
+      "Lung Neoplasms",
+      "Female",
+      "Double-Blind Method",
+      "Male",
+      "Anaplastic Lymphoma Kinase",
+      "Middle Aged",
+      "Aged",
+      "Disease-Free Survival",
+      "Adult",
+      "Piperazines",
+      "Protein Kinase Inhibitors",
+      "Neoplasm Staging",
+      "Kaplan-Meier Estimate"
+    ],
+    "doi": "10.1056/NEJMoa2518990",
+    "source": "core",
+    "journal_if": 96.2,
+    "journal_quartile": "Q1",
+    "highlight_score": 140,
+    "chinese_conclusion": "在完全切除的IB-IIIA期ALK阳性非小细胞肺癌患者中，恩沙替尼辅助治疗24个月显著提高2年无病生存率（87.3%对比57.2%），复发或死亡风险降低80%。",
+    "pathology": "NSCLC",
+    "treatment_tags": [
+      "targeted therapy"
+    ],
+    "chinese_keywords": [
+      "恩沙替尼",
+      "ALK阳性",
+      "非小细胞肺癌",
+      "辅助治疗",
+      "无病生存率"
+    ]
+  }
+]
