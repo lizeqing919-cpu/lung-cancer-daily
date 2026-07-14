@@ -1,0 +1,36 @@
+[
+  {
+    "pmid": "42442920",
+    "title": "BCL-2/BCL-xL inhibitor pelcitoclax with osimertinib for ",
+    "abstract": "BACKGROUND: Overcoming tyrosine kinase inhibitor (TKI) resistance improves survival in advanced epidermal growth factor receptor (EGFR)-mutated non-small-cell lung cancer (NSCLC). We therefore examined the safety and preliminary efficacy of pelcitoclax, a B-cell lymphoma-2 (BCL-2)/BCL-extra-large (BCL-xL) inhibitor, and osimertinib in patients with EGFR-mutated advanced NSCLC. METHODS: Enrolled patients included Cohort 1 (previously progressed after third-generation TKI treatment+chemotherapy), Cohort 2 (previously progressed after first-generation or second-generation TKI treatment+chemotherapy), and Cohort 3 (TKI treatment-naive±prior chemotherapy). Patients received intravenous pelcitoclax (160 mg in dose-expansion and either 160 or 240 mg in dose-escalation) weekly and oral osimertinib 80 mg daily. Primary endpoints were safety and recommended phase 2 dose (dose-escalation), objective response rate (ORR) and safety (dose-expansion). RESULTS: 64 patients were enrolled (13, dose-escalation; 51, dose-expansion): 29 patients in Cohort 1, 8 in Cohort 2, and 27 in Cohort 3. One dose-limiting toxicity occurred at pelcitoclax 240 mg, and the recommended phase 2 dose was 160 mg plus osimertinib 80 mg. The ORR was 10.7% and median progression-free survival (mPFS) 2.7 months in patients previously progressed after third-generation TKI treatment+chemotherapy (Cohort 1) and 80.8% and 16.4 months in TKI treatment-naïve patients±prior chemotherapy (Cohort 3). mPFS was longer in Cohort 1 patients with high expression of BCL-xL (4.2 vs 2.7 months, p=0.058). CONCLUSIONS: Pelcitoclax combined with osimertinib showed promising safety and antitumor activity in EGFR-mutated NSCLC. TRIAL REGISTRATION NUMBER: NCT04001777.",
+    "journal": "J Immunother Cancer",
+    "pubdate": "2026-07-13",
+    "pubtypes": [
+      "Journal Article",
+      "Clinical Trial, Phase I"
+    ],
+    "authors": "Yuxiang Ma, Chunjiao Wu, Yan-Qiu Zhao, et al.",
+    "keywords": [
+      "Humans",
+      "Carcinoma, Non-Small-Cell Lung",
+      "Lung Neoplasms",
+      "Aniline Compounds",
+      "Pyrimidines",
+      "Indoles",
+      "Acrylamides",
+      "Female",
+      "Aged",
+      "Male",
+      "ErbB Receptors",
+      "Middle Aged",
+      "Mutation",
+      "Antineoplastic Combined Chemotherapy Protocols",
+      "bcl-X Protein"
+    ],
+    "doi": "",
+    "source": "core",
+    "journal_if": 10.3,
+    "journal_quartile": "Q1",
+    "highlight_score": 40
+  }
+]
