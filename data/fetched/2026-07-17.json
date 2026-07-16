@@ -1,0 +1,37 @@
+[
+  {
+    "pmid": "42448681",
+    "title": "Preclinical characterization and phase 1 clinical testing of targeting mitochondrial peroxiredoxin 3 in cancer.",
+    "abstract": "Cancer cells counteract oxidative stress through upregulation of antioxidant networks. Peroxiredoxin 3 (PRX3), a mitochondrial antioxidant enzyme, regulates reactive oxygen species homeostasis and promotes tumor cell survival. The natural compound thiostrepton (TS) covalently inhibits PRX3, disrupting redox balance and selectively induces tumor cell death. Mesothelioma, an aggressive malignancy, has limited therapeutic options, particularly in relapsed or refractory settings. Here, we demonstrate genetic deletion of PRX3 impairs mitochondrial bioenergetics and suppresses mesothelioma growth, while pharmacological inhibition of PRX3 with TS induces apoptosis in patient-derived mesothelioma explants. In a phase 1 trial treating patients with relapsed pleural mesothelioma and malignant pleural effusion (NCT05278975), weekly local intrapleural treatment with the TS formulated drug product RSO-021 at 90 mg is well tolerated leading to disease control in 67% of patients at 12 weeks and is associated with tumor reductions. Primary endpoints of safety, tolerability and dose finding were met, and secondary endpoints of pharmacokinetics, objective response rate, disease control rate, and progression free survival are explored. Genomic screening identified Solute Carrier Family 7 member 11 (SLC7A11) as a mediator of TS resistance, suggesting combined targeting may further enhance the pro-oxidant activity of RSO-021.",
+    "journal": "Nat Commun",
+    "pubdate": "2026-07-14",
+    "pubtypes": [
+      "Journal Article",
+      "Clinical Trial, Phase I",
+      "Research Support, Non-U.S. Gov't"
+    ],
+    "authors": "Victoria Gibson, Joanna Dzialo, Terri Messier, et al.",
+    "keywords": [
+      "Humans",
+      "Peroxiredoxin III",
+      "Mitochondria",
+      "Female",
+      "Thiostrepton",
+      "Animals",
+      "Cell Line, Tumor",
+      "Male",
+      "Antineoplastic Agents",
+      "Apoptosis",
+      "Mice",
+      "Mesothelioma, Malignant",
+      "Lung Neoplasms",
+      "Oxidative Stress",
+      "Middle Aged"
+    ],
+    "doi": "",
+    "source": "core",
+    "journal_if": 14.7,
+    "journal_quartile": "Q1",
+    "highlight_score": 10
+  }
+]
