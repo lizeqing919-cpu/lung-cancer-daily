@@ -1,0 +1,102 @@
+[
+  {
+    "pmid": "42059900",
+    "title": "Early ctDNA Stratifies Survival in Locally Advanced and Oligometastatic Lung Cancer Treated with Radiotherapy.",
+    "abstract": "PURPOSE: Circulating tumor fraction estimate (ctFE) is a machine learning-derived composite metric of circulating tumor DNA (ctDNA) burden. We hypothesized that pre-treatment and early on-treatment ctFE could robustly risk-stratify patients with locally advanced (LA) and oligometastatic non-small cell lung cancer (NSCLC) treated with radiotherapy (RT). EXPERIMENTAL DESIGN: In a prospective phase II clinical trial (NCT03916419), 26 patients with unresectable stage IIB to IIIC NSCLC received magnetic resonance (MR)-guided hypofractionated chemoradiotherapy (chemoRT) followed by immunotherapy. Plasma ctDNA was profiled at baseline and mid-treatment (days 10-14) to derive ctFE and maximum variant allele frequency (Max VAF). A burden-based ctFE threshold derived from baseline samples was applied unchanged to mid-treatment samples and validated in two external cohorts: LA NSCLC treated with chemoRT (LA-RW; n = 94) and oligometastatic NSCLC treated with RT (OM-RW; n = 309). RESULTS: Pre- and mid-treatment ctFE burden strongly stratified overall survival (OS) and progression-free survival (PFS), outperforming Max VAF and ctFE detectability. The baseline ctFE was prognostic for OS (HR 5.93, P = 0.005) and PFS (HR 11.08, P < 0.001) and remained significant at mid-treatment (OS: HR 7.08; PFS: HR 12.06; both P < 0.001). Early ctFE dynamics defined three molecular response groups with OS separation (median OS 60.8 vs. 13.0 vs. 2.9 months; P < 0.001). ctFE remained associated with survival in both validation cohorts. CONCLUSIONS: Early ctFE derived from a clinically available, tumor-naïve ctDNA assay enables noninvasive risk stratification in LA and oligometastatic NSCLC treated with RT, supporting its use as a practical biomarker for precision treatment adaptation.",
+    "journal": "Clin Cancer Res",
+    "pubdate": "2026-07-17",
+    "pubtypes": [
+      "Journal Article",
+      "Clinical Trial, Phase II"
+    ],
+    "authors": "Ayesha Hashmi, Jessica Linford, Pradeep S Chauhan, et al.",
+    "keywords": [
+      "Humans",
+      "Lung Neoplasms",
+      "Circulating Tumor DNA",
+      "Female",
+      "Carcinoma, Non-Small-Cell Lung",
+      "Male",
+      "Middle Aged",
+      "Aged",
+      "Biomarkers, Tumor",
+      "Prognosis",
+      "Prospective Studies",
+      "Neoplasm Staging",
+      "Chemoradiotherapy",
+      "Neoplasm Metastasis"
+    ],
+    "doi": "10.1158/1078-0432.CCR-25-4983",
+    "source": "core",
+    "journal_if": 11.5,
+    "journal_quartile": "Q1",
+    "highlight_score": 75
+  },
+  {
+    "pmid": "42008740",
+    "title": "A Phase II Study of Stereotactic Ablative Radiotherapy plus Atezolizumab plus Tiragolumab in Treatment-Naïve Patients with Advanced Non-Small Cell Lung Cancer.",
+    "abstract": "PURPOSE: SKYROCKET is a single-center, single-arm phase II study that evaluated whether the addition of stereotactic body radiotherapy (SBRT) to atezolizumab plus tiragolumab enhances antitumor efficacy in PD-L1-positive non-small cell lung cancer (NSCLC). PATIENTS AND METHODS: Patients received SBRT to all metastatic sites and subsequently received atezolizumab and tiragolumab every 3 weeks on day 1 of each 21-day cycle with 7 days of completion of SBRT. The primary endpoint was investigator-assessed progression-free survival (PFS) from the start of SBRT. Exploratory endpoints included single-cell RNA sequencing (scRNA-seq) obtained from tumor biopsies at baseline (BL) and on-treatment (OT) and were further characterized as clinical benefit [CB; partial response or stable disease (SD) ≥ 6 months] and non-clinical benefit (NCB; progressive disease or SD < 6 months). RESULTS: Forty-one patients were enrolled. At a median duration of follow-up of 9.8 months, median PFS at the start of SBRT was 9.3 months [95% confidence interval (CI), 6.0-NR]. No new safety signal was observed. scRNA-seq of paired BL and OT (n = 3) and single-time point (n = 2) revealed that CD8 progenitor-exhausted (TPEX) cells markedly expanded after treatment, with high T-cell immunoreceptor with Ig and ITIM (TIGIT) and PD-1 expression in CD8 TPEX/TEX subsets. CD4 regulatory T cells (Treg) were reduced in the CB group but increased in the NCB group. The CB group showed reduced Treg suppression and NECTIN-TIGIT signaling, whereas NCB maintained proliferative CTLA4high/TIGIThigh Treg supported by ICAM/galectin-CTLA4 pathways. CONCLUSIONS: SBRT followed by atezolizumab plus tiragolumab showed encouraging clinical activity with manageable safety in PD-L1-positive metastatic NSCLC.",
+    "journal": "Clin Cancer Res",
+    "pubdate": "2026-07-17",
+    "pubtypes": [
+      "Journal Article",
+      "Clinical Trial, Phase II"
+    ],
+    "authors": "Jii Bum Lee, Dong Kwon Kim, Sang Hoon Lee, et al.",
+    "keywords": [
+      "Humans",
+      "Carcinoma, Non-Small-Cell Lung",
+      "Antibodies, Monoclonal, Humanized",
+      "Radiosurgery",
+      "Female",
+      "Lung Neoplasms",
+      "Male",
+      "Aged",
+      "Middle Aged",
+      "Aged, 80 and over",
+      "Antineoplastic Combined Chemotherapy Protocols",
+      "Adult",
+      "B7-H1 Antigen"
+    ],
+    "doi": "10.1158/1078-0432.CCR-25-4990",
+    "source": "core",
+    "journal_if": 11.5,
+    "journal_quartile": "Q1",
+    "highlight_score": 75
+  },
+  {
+    "pmid": "41961582",
+    "title": "First-Line Sacituzumab Govitecan Plus Pembrolizumab and Carboplatin in Metastatic Non-Small Cell Lung Cancer: Nonsquamous and Squamous Cohorts of the EVOKE-02 Study.",
+    "abstract": "PURPOSE: EVOKE-02 (NCT05186974) is a multicohort, phase II trial evaluating first-line sacituzumab govitecan (SG) plus pembrolizumab with or without platinum-based chemotherapy in patients with metastatic non-small cell lung cancer (mNSCLC). PATIENTS AND METHODS: Adults with mNSCLC, no prior systemic treatment, and no actionable genomic alterations received SG 10 mg/kg intravenously (reduced to 7.5 mg/kg following a preplanned safety evaluation) on days 1 and 8, plus pembrolizumab 200 mg intravenously on day 1 and carboplatin area under the curve 5 on day 1 in 21-day cycles. The primary endpoint was objective response rate (ORR) per independent review committee; secondary endpoints included progression-free survival (PFS) and safety. RESULTS: As of June 3, 2024, 54 and 41 patients had nonsquamous and squamous histology, respectively. ORR (95% confidence interval [CI]) was 45.1% (3.1-59.7) for nonsquamous and 39.0% (24.2-55.5) for squamous histology. Median (95% CI) PFS was 8.1 (5.2-15.0) months for nonsquamous and 8.3 (4.3-11.2) months for squamous histology. ORR (95% CI) was 66.7% (34.9-90.1) for programmed cell death-ligand 1 tumor proportion score greater than or equal to 50%. SG dose was adjusted to 7.5 mg/kg due to myelosuppression. Grade greater than or equal to 3 treatment-emergent adverse events (TEAEs) occurred in 57 patients (86.4%). TEAEs leading to discontinuation of any study drug occurred in 12 patients (18.2%). CONCLUSIONS: SG plus pembrolizumab and carboplatin had activity in mNSCLC. When combined with pembrolizumab and carboplatin, SG was tolerated at a dose of 7.5 mg/kg.",
+    "journal": "Clin Cancer Res",
+    "pubdate": "2026-07-17",
+    "pubtypes": [
+      "Journal Article",
+      "Clinical Trial, Phase II",
+      "Multicenter Study"
+    ],
+    "authors": "Jhanelle E Gray, Joel W Neal, Jyoti D Patel, et al.",
+    "keywords": [
+      "Humans",
+      "Antibodies, Monoclonal, Humanized",
+      "Carboplatin",
+      "Carcinoma, Non-Small-Cell Lung",
+      "Female",
+      "Antineoplastic Combined Chemotherapy Protocols",
+      "Middle Aged",
+      "Aged",
+      "Lung Neoplasms",
+      "Male",
+      "Adult",
+      "Camptothecin",
+      "Aged, 80 and over",
+      "Carcinoma, Squamous Cell",
+      "Neoplasm Metastasis"
+    ],
+    "doi": "10.1158/1078-0432.CCR-25-4485",
+    "source": "core",
+    "journal_if": 11.5,
+    "journal_quartile": "Q1",
+    "highlight_score": 75
+  }
+]
