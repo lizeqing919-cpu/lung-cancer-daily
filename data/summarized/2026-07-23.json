@@ -1,0 +1,75 @@
+[
+  {
+    "pmid": "42379171",
+    "title": "High-dose furmonertinib as first-line treatment for untreated EGFR-mutated advanced NSCLC with central nervous system metastases: A phase 2 trial.",
+    "abstract": "Brain metastases in epidermal growth factor receptor (EGFR)-mutated non-small cell lung cancer (NSCLC) frequently contribute to treatment failure. This phase II study aims to evaluate furmonertinib (160 mg daily) in 40 untreated patients with EGFR-mutant NSCLC and central nervous system (CNS) metastases. At a median follow-up of 18.66 months, the blinded independent central-review-assessed median progression-free survival (mPFS) and intracranial PFS are 16.59 months (95% confidence interval [CI]: 12.77-20.41) and 17.83 months (95% CI: 14.16-21.50), respectively. Systemic objective response rate (ORR) is 92.5%, and intracranial ORR is 95.0%, with consistent investigator assessments. Grade ≥3-treatment-related adverse events occur in 15.0% of patients. Exploratory profiling of paired plasma and cerebrospinal fluid reveals significant early molecular response, with high EGFR mutation clearance (85.7% plasma; 66.7% cerebrospinal fluid [CSF]). Furmonertinib shows promising intracranial efficacy with manageable safety as first-line treatment for EGFR-mutated NSCLC with CNS metastases. This study is registered at ClinicalTrials.gov (NCT05379803).",
+    "journal": "Cell Rep Med",
+    "pubdate": "2026-07-21",
+    "pubtypes": [
+      "Journal Article",
+      "Clinical Trial, Phase II"
+    ],
+    "authors": "Huan Yan, Wenjuan Jiang, Yi Xiong, et al.",
+    "keywords": [
+      "Humans",
+      "ErbB Receptors",
+      "Carcinoma, Non-Small-Cell Lung",
+      "Female",
+      "Lung Neoplasms",
+      "Aged",
+      "Male",
+      "Middle Aged",
+      "Mutation",
+      "Central Nervous System Neoplasms",
+      "Adult",
+      "Protein Kinase Inhibitors",
+      "Brain Neoplasms",
+      "Antineoplastic Agents",
+      "EGFR mutation"
+    ],
+    "doi": "10.1016/j.xcrm.2026.102904",
+    "source": "core",
+    "journal_if": 11.7,
+    "journal_quartile": "Q1",
+    "highlight_score": 25,
+    "chinese_conclusion": "伏美替尼160 mg每日一次作为EGFR突变晚期NSCLC伴中枢神经系统转移的一线治疗，中位无进展生存期为16.59个月，颅内客观缓解率95.0%，且安全性可管理。",
+    "pathology": "NSCLC",
+    "treatment_tags": [
+      "targeted therapy"
+    ],
+    "chinese_keywords": [
+      "伏美替尼",
+      "EGFR突变",
+      "非小细胞肺癌",
+      "中枢神经系统转移",
+      "一线治疗"
+    ]
+  },
+  {
+    "pmid": "42475517",
+    "title": "Clinical Utility of Next Generation Sequencing in Concurrent EBUS-TBNA and Liquid Biopsies in NSCLC.",
+    "abstract": "RATIONALE: Genetic testing is standard of care in Non-small Cell Lung Cancer(NSCLC). Few studies evaluate concurrent Endobronchial Ultrasound-Transbronchial Needle Aspiration(EBUS-TBNA) and liquid biopsy for Next Generation Sequencing(NGS). OBJECTIVES: Compare diagnostic yield differences for detecting clinically relevant mutations via NGS in concurrent EBUS-TBNA and liquid biopsies. METHODS: Prospective observational cohort study of NSCLC patients undergoing concurrent biopsies. MEASUREMENTS: Yield differences, receiver operating characteristic (ROC) and kappa statistics were calculated for clinically relevant mutations. MAIN RESULTS: Of 199 subjects, diagnostic yield for EGFR was 9.5% in EBUS-TBNA and 7.0% in blood with yield difference 2.5%(95% CI: 3.4%, 8.5%, p = 0.36). For clinically relevant targets, there were 79(39.7%) from EBUS-TBNA and 49(29.6%) from blood with yield difference 15.1%(95% CI: 5.5%, 24.2%, p = 0.001). ROC statistics for detection of clinically relevant mutations (where tissue results were the gold standard) included: sensitivity 0.53 (95% CI: 0.42, 0.64), specificity: 0.95(95% CI: 0.90,0.98), positive predictive value: 0.89 (95% CI: 0.77, 0.96), negative predictive value: 0.74 (95% CI: 0.65, 0.81), and kappa statistic: 0.51 (95% CI: 0.39, 0.63). There were 37 (18.6%) participants with mutations in tissue only and 7(3.5%) with mutations in blood only, while 42(21.1%) had mutations reported from both sources. CONCLUSIONS: EBUS-TBNA was more likely to detect mutations than blood. However, some patients had mutations in blood only, suggesting blood testing is complementary. Strategies are needed to improve NGS turnaround time(TAT) and QNS definition.",
+    "journal": "Am J Respir Crit Care Med",
+    "pubdate": "2026-07-20",
+    "pubtypes": [
+      "Journal Article"
+    ],
+    "authors": "Nicholas J Pastis, Adam H Fox, Travis Ferguson, et al.",
+    "keywords": [],
+    "doi": "",
+    "source": "core",
+    "journal_if": 19.3,
+    "journal_quartile": "Q1",
+    "highlight_score": 10,
+    "chinese_conclusion": "在NSCLC患者中，EBUS-TBNA组织活检比液体活检检测到更多临床相关基因突变，但部分突变仅在血液中发现，提示两者互补。",
+    "pathology": "NSCLC",
+    "treatment_tags": [],
+    "chinese_keywords": [
+      "二代测序",
+      "EBUS-TBNA",
+      "液体活检",
+      "非小细胞肺癌",
+      "基因突变"
+    ]
+  }
+]
