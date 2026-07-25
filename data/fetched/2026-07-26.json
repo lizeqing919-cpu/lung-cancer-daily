@@ -1,0 +1,71 @@
+[
+  {
+    "pmid": "42269244",
+    "title": "Efficacy of alectinib for ALK-positive NSCLC according to tumor burden and body mass index: A pooled analysis of the randomized phase III trials ALEX and J-ALEX.",
+    "abstract": "BACKGROUND: Although first-line alectinib is highly effective, outcomes in ALK-positive NSCLC remain variable. METHODS: We conducted an individual patient-level pooled analysis of the phase III ALEX (NCT02075840) and J-ALEX (JapicCTI-132316) trials to explore new prognostic and predictive factors. The primary endpoint was PFS. Multivariate Cox and random effects models accounted for trials independence. Baseline characteristics analyzed included high vs. low tumor burden (sum of target lesions by RECIST v1.1 above/below the median) and body mass index (BMI). RESULTS: 500 patients were included (alectinib n = 249, crizotinib n = 251). Baseline characteristics were balanced between the two arms. Median follow-up was 17.1months. Alectinib compared to crizotinib improved PFS (HR 0.41, 95%CI 0.31-0.55, p < 0.001) but not OS (HR 0.80, 95%CI 0.50-1.28, p = 0.353). In the whole population, high tumor burden correlated with shorter PFS (HR 1.88, 95%CI 1.44-2.45, log-rank p < 0.001) and OS (HR 2.24, 95%CI 1.40-3.58, log-rank p < 0.001), confirmed in multivariate analysis (PFS HR 1.66, 95%CI 1.26-2.20, p < 0.001). Significant interaction was found between treatment and tumor burden in PFS cox model (p for interaction=0.002). The PFS benefit of alectinib vs. crizotinib was greater in low tumor burden (HR 0.25, 95%CI 0.16-0.41, p < 0.001) than in high tumor burden (HR 0.52, 95%CI 0.36-0.76, p = 0.001). In multivariate analysis, BMI> 25 kg/m2 (n = 144) did not correlate with PFS (HR 0.92, 95%CI 0.68-1.25, p = 0.375) but was associated with longer OS (HR 0.50, 95%CI 0.29-0.88, p = 0.025). No significant BMI-treatment interaction was observed. CONCLUSIONS: Tumor burden was prognostic and predictive in ALK-positive NSCLC. Treatment intensification may benefit patients with high tumor burden.",
+    "journal": "Eur J Cancer",
+    "pubdate": "2026-07-26",
+    "pubtypes": [
+      "Journal Article",
+      "Clinical Trial, Phase III"
+    ],
+    "authors": "Marco Tagliamento, Marco Bruzzone, Eva Blondeaux, et al.",
+    "keywords": [
+      "Humans",
+      "Piperidines",
+      "Carcinoma, Non-Small-Cell Lung",
+      "Lung Neoplasms",
+      "Female",
+      "Carbazoles",
+      "Tumor Burden",
+      "Middle Aged",
+      "Male",
+      "Anaplastic Lymphoma Kinase",
+      "Protein Kinase Inhibitors",
+      "Body Mass Index",
+      "Crizotinib",
+      "Adult",
+      "Aged"
+    ],
+    "doi": "10.1016/j.ejca.2026.116867",
+    "source": "core",
+    "journal_if": 8.4,
+    "journal_quartile": "Q2",
+    "highlight_score": 70
+  },
+  {
+    "pmid": "42498486",
+    "title": "Personalized tumor-loaded monocyte-derived dendritic cell vaccination in combination with atezolizumab as maintenance treatment in extensive-stage small cell lung cancer (ES-SCLC): phase Ib-II VENEZOLUNG trial.",
+    "abstract": "BACKGROUND: Despite the incorporation of atezolizumab, an anti-programmed death-ligand 1 (PD-L1) antibody, into first-line chemotherapy regimen, survival in patients with extensive-stage small cell lung cancer (ES-SCLC) remains poor. Given the role of dendritic cells (DCs) in modulating responses to anti-programmed cell death protein 1 (PD-1) antibodies, a promising avenue is the development of vaccines based on DCs, together with the evaluation of how DC phenotypic modifications shape treatment efficacy. MATERIALS AND METHODS: This is a single-arm, phase Ib/II, open-label clinical trial investigating the safety and activity of combining autologous tumor lysate pulsed DCs administered intradermally with intravenous atezolizumab as maintenance therapy for patients with ES-SCLC. Following leukapheresis, monocytes were differentiated ex vivo into mature DCs and loaded with irradiated autologous tumor lysate. After standard induction therapy (four cycles of carboplatin, etoposide, and atezolizumab), patients received up to six doses of mature DCs intradermally, along with intravenous atezolizumab 1,200 mg every 3 weeks, until disease progression. RESULTS: 20 patients were enrolled, including six patients with brain metastases. 18 patients received DC vaccination, with a median of three doses (range 1-6). Most grade 3-4 treatment-related adverse events were hematological and related to chemotherapy. DC vaccination was well tolerated, with only grade 1-2 transient skin irritation at the injection site. Among 18 evaluable patients, 17 (94.4%) achieved an objective response. After a median follow-up of 31.4 months, progression-free survival at 2 years (PFS2y) was 20% (95% CI 6.4% to 39.1%), median overall survival (OS) 11.2 months (95% CI 6.3 to 26.0) and OS3y 22.5% (95% CI 6.8% to 43.6%). Six patients achieved long survival (median 30.5 months, range 23.4-36.2). Expansion of conventional type DC1 (cDC1s) XCR1+ and stem-like progenitor-exhausted (CXCR5+PD-1+) CD8+ T cells following chemotherapy plus atezolizumab was associated with improved PFS (HR 0.94, 95% CI 0.90 to 0.99 and HR 0.59, 95% CI 0.39 to 0.89). CONCLUSION: DC immunization combined with atezolizumab maintenance following standard chemotherapy plus atezolizumab treatment is well tolerated. Its clinical activity cannot be definitively determined in this study, as it was administered as maintenance therapy; however, the observed rate of long-term survivors suggests a potential benefit. Our findings suggest a pivotal role for cDC1s in mediating the antitumor activity in long-term survivors. TRIAL REGISTRATION NUMBER: NCT04487756.",
+    "journal": "J Immunother Cancer",
+    "pubdate": "2026-07-24",
+    "pubtypes": [
+      "Journal Article",
+      "Clinical Trial, Phase II",
+      "Clinical Trial, Phase I"
+    ],
+    "authors": "Maria Gonzalez-Cao, Marta Sisteré-Oró, Teresa Moran, et al.",
+    "keywords": [
+      "Humans",
+      "Dendritic Cells",
+      "Antibodies, Monoclonal, Humanized",
+      "Male",
+      "Female",
+      "Cancer Vaccines",
+      "Lung Neoplasms",
+      "Small Cell Lung Carcinoma",
+      "Middle Aged",
+      "Aged",
+      "Monocytes",
+      "Neoplasm Staging",
+      "Combined Modality Therapy",
+      "Dendritic",
+      "Lung Cancer"
+    ],
+    "doi": "",
+    "source": "core",
+    "journal_if": 10.3,
+    "journal_quartile": "Q1",
+    "highlight_score": 55
+  }
+]
