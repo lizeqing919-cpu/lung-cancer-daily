@@ -1,0 +1,19 @@
+[
+  {
+    "pmid": "42509268",
+    "title": "Integrated prediction of lung cancer histology and molecular profiles from small bronchoscopic tumor specimens.",
+    "abstract": "Treatment decisions in lung cancer rely on comprehensive molecular and histological characterization, but the limited amount of tumor tissue available from diagnostic procedures remains a major challenge. In this proof-of-concept study, we investigated whether preserving small bronchoscopic tumor specimens in RNAlater enables integrated molecular and histological profiling. Bronchial forceps biopsies and endobronchial ultrasound-guided transbronchial needle aspiration (EBUS-TBNA) specimens were collected during the diagnostic work-up of patients with suspected lung cancer, preserved in RNAlater, and used for DNA, RNA, and protein extraction. RNA was analyzed using NanoString gene expression profiling and RNA-sequencing to assess treatment-relevant gene fusions, MET exon 14 skipping events, and histological subtypes. Somatic mutations were identified by massively parallel sequencing, and proteomics-based non-small cell lung cancer (NSCLC) subtypes were characterized by mass spectrometry. High-quality DNA, RNA, and proteins were successfully recovered from all tumors. Gene fusion analysis was successful in 44 of 45 cases. Gene expression-based histological classification showed good concordance with the clinical pathology diagnosis, although some discrepancies were observed. Mutation profiling was fully concordant with routine clinical testing, and comprehensive proteomic data were successfully generated. Collectively, these findings demonstrate that RNAlater-preserved bronchoscopic specimens provide material of sufficient quality for integrated multi-omics analyses, enabling comprehensive molecular profiling from a single, small tumor biopsy.",
+    "journal": "NPJ Precis Oncol",
+    "pubdate": "2026-07-27",
+    "pubtypes": [
+      "Journal Article"
+    ],
+    "authors": "Marija Karadzovska-Kotevska, Anna Karlsson, Hans Brunnström, et al.",
+    "keywords": [],
+    "doi": "",
+    "source": "core",
+    "journal_if": 7.9,
+    "journal_quartile": "Q2",
+    "highlight_score": 40
+  }
+]
