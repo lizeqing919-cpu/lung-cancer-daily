@@ -1,0 +1,281 @@
+[
+  {
+    "pmid": "42307937",
+    "title": "Bispecific Antibody Ivonescimab Added to Chemotherapy in EGFR-Variant Non-Small Cell Lung Cancer: The HARMONi-A Randomized Clinical Trial.",
+    "abstract": "IMPORTANCE: Patients with epidermal growth factor receptor (EGFR) gene variant nonsquamous non-small cell lung cancer (NSCLC) who have disease progression after prior EGFR tyrosine kinase inhibitor (TKI) therapy have limited treatment options, creating a need for more effective subsequent therapies. OBJECTIVE: To provide final overall results of a trial assessing whether adding ivonescimab (a bispecific antibody targeting programmed cell death protein 1 and vascular endothelial growth factor) to chemotherapy improves overall survival in this population. DESIGN, SETTING, AND PARTICIPANTS: Randomized, double-blind, placebo-controlled phase 3 trial conducted at 55 sites in China. From January 25 to November 2, 2022, a total of 322 adult patients with locally advanced or metastatic EGFR-variant nonsquamous NSCLC who had received prior EGFR-TKI therapy were enrolled. The data cutoff date was April 12, 2025. INTERVENTIONS: Patients were randomized 1:1 to receive ivonescimab (20 mg/kg; n = 161) or placebo (n = 161) plus chemotherapy with pemetrexed and carboplatin once every 3 weeks for 4 cycles, followed by maintenance therapy. MAIN OUTCOMES AND MEASURES: This final results report focuses on overall survival, the key secondary end point, tested in a hierarchical manner (the primary end point was progression-free survival assessed by an independent radiology review committee). RESULTS: The 322 enrolled patients had a median age of 59.4 years, and 51.6% were female. During a median follow-up of 32.5 months, ivonescimab plus chemotherapy improved overall survival compared with chemotherapy alone (median survival, 16.8 months vs 14.1 months; stratified hazard ratio, 0.74; 95% CI, 0.58-0.95; P = .02). The absolute difference in median overall survival was 2.7 months. Estimated 30-month survival rates were 29.1% (95% CI, 22.1%-36.4%) with ivonescimab and 18.4% (95% CI, 12.8%-24.8%) with placebo. Grade 3 or higher treatment-emergent adverse events occurred in 67.1% and 54.7% of patients receiving ivonescimab and placebo, respectively. CONCLUSIONS AND RELEVANCE: Ivonescimab plus chemotherapy provided a statistically significant and clinically meaningful improvement in overall survival with an acceptable safety profile in patients with EGFR-variant NSCLC after EGFR-TKI therapy. TRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT05184712.",
+    "journal": "JAMA",
+    "pubdate": "2026-07-28",
+    "pubtypes": [
+      "Journal Article",
+      "Randomized Controlled Trial",
+      "Multicenter Study",
+      "Clinical Trial, Phase III"
+    ],
+    "authors": "Wenfeng Fang, Yuanyuan Zhao, Yongzhong Luo, et al.",
+    "keywords": [
+      "Adult",
+      "Aged",
+      "Female",
+      "Humans",
+      "Male",
+      "Middle Aged",
+      "Antibodies, Bispecific",
+      "Antineoplastic Combined Chemotherapy Protocols",
+      "Carboplatin",
+      "Carcinoma, Non-Small-Cell Lung",
+      "Double-Blind Method",
+      "ErbB Receptors",
+      "Lung Neoplasms",
+      "Pemetrexed",
+      "Programmed Cell Death 1 Receptor"
+    ],
+    "doi": "10.1001/jama.2026.7745",
+    "source": "core",
+    "journal_if": 63.1,
+    "journal_quartile": "Q1",
+    "highlight_score": 140,
+    "chinese_conclusion": "在EGFR突变非鳞状非小细胞肺癌患者中，与单纯化疗相比，依沃西单抗联合化疗显著改善总生存期（中位OS 16.8个月 vs 14.1个月），且安全性可接受。",
+    "pathology": "NSCLC",
+    "treatment_tags": [
+      "targeted therapy",
+      "chemotherapy",
+      "immunotherapy"
+    ],
+    "chinese_keywords": [
+      "依沃西单抗",
+      "EGFR突变",
+      "非小细胞肺癌",
+      "总生存期",
+      "双特异性抗体"
+    ]
+  },
+  {
+    "pmid": "42372381",
+    "title": "Recruitment strategies for lung cancer screening; a randomised trial in the 4-IN-THE-LUNG-RUN study.",
+    "abstract": "OBJECTIVE: Invitations to participate in screening programmes are predominantly distributed through traditional paper-based methods. More tailored approaches - incorporating both socioeconomic status- (SES) and sex-specific preferences - may improve programme uptake. This study aims to optimize the recruitment strategy for high-risk individuals in lung cancer screening: the 4-IN-THE-LUNG-RUN trial. METHODS: A total of 336,860 Dutch individuals, aged 60-79 years, were randomised to receive one of three recruitment methods: (1) standard paper, (2) standard online, or (3) tailored online, and invited to participate if they considered themselves eligible. Additionally, there was the option to self-enrol (online). Inclusion criteria for participation were: 1) People who currently smoke or have quit smoking within the past 10 years with ≥ 35 pack-years or 2) a PLCOm2012NoRace risk ≥ 2.60%. RESULTS: Out of 35,755 respondents (10.6%), 15,840 individuals (44.3%) were eligible to participate. While the absolute number of eligibles was highest in the paper-based group (N = 5079), exceeding the online groups by 13.1% and 17.0%, the proportion of eligible was significantly lower (37.8%) compared with both online groups (ONLINE: N = 4412, 45.0%; TAILORED: N = 4214, 45.0%; p < 0.001). Overall, a significantly larger proportion of individuals from the low SES group (40.0%) were eligibles relative to the middle (26.5%) and high (33.5%) SES (p < 0.001). The proportion of low SES eligibles was significantly higher in the paper-based group (42.8%) compared to both online groups (ONLINE: 37.0% and TAILORED: 38.6%; p < 0.001). Self-registered eligibles had a similar low SES participant proportion (42.6%) as the paper-based group. Gender distributions were comparable across recruitment methods (p = 0.137). CONCLUSION: Online recruitment strategies may effectively recruit high-risk individuals for low-dose CT screening, including older elderly and those from lower SES, and may be associated with lower resource requirements compared with paper-based approaches. Nevertheless, retaining a paper-based option is essential to ensure inclusive and equitable access to lung cancer screening.",
+    "journal": "Lung Cancer",
+    "pubdate": "2026-08-01",
+    "pubtypes": [
+      "Journal Article",
+      "Randomized Controlled Trial"
+    ],
+    "authors": "Juul Hubert, Dana Moldovanu, Isabelle van den Bosch, et al.",
+    "keywords": [
+      "Humans",
+      "Lung Neoplasms",
+      "Middle Aged",
+      "Early Detection of Cancer",
+      "Male",
+      "Aged",
+      "Female",
+      "Patient Selection",
+      "Netherlands",
+      "Mass Screening",
+      "Cancer screening",
+      "Early detection",
+      "Health communication",
+      "Health literacy",
+      "Lung cancer"
+    ],
+    "doi": "10.1016/j.lungcan.2026.109509",
+    "source": "core",
+    "journal_if": 5.3,
+    "journal_quartile": "Q2",
+    "highlight_score": 100,
+    "chinese_conclusion": "在线招募策略能有效招募到包括低社会经济地位人群在内的高危个体进行肺癌筛查，但保留纸质邀请方式对确保筛查的包容性和公平性仍然必要。",
+    "pathology": "NSCLC",
+    "treatment_tags": [
+      "supportive care"
+    ],
+    "chinese_keywords": [
+      "肺癌筛查",
+      "招募策略",
+      "低剂量CT",
+      "社会经济地位",
+      "随机对照试验"
+    ]
+  },
+  {
+    "pmid": "42296617",
+    "title": "Osimertinib after definitive CRT in unresectable stage III EGFR-mutated NSCLC: safety outcomes from the phase III LAURA study.",
+    "abstract": "BACKGROUND: In the phase III LAURA study, osimertinib demonstrated a statistically significant progression-free survival benefit versus placebo, and a generally tolerable safety profile, after definitive chemoradiotherapy (CRT) in unresectable stage III EGFR-mutated non-small cell lung cancer. We report in-depth safety data from LAURA. PATIENTS AND METHODS: Patients without progression during/after definitive CRT were randomized 2:1 to receive osimertinib or placebo. Safety was assessed at baseline, week 2, week 4, every 4 weeks until week 24, every 8 weeks until week 48, and every 12 weeks until study treatment discontinuation. Adverse events (AEs) of special interest included grouped terms of radiation pneumonitis (RP) and interstitial lung disease (ILD, including pneumonitis). RESULTS: Overall, 216 patients were randomized (osimertinib, 143; placebo, 73) and received ≥1 dose of study treatment; median exposure 24.0 months (osimertinib), 8.3 months (placebo). Exposure-adjusted rates of grade ≥3 AEs and serious AEs were 18 versus 13 and 20 versus 15/100 patient-years with osimertinib versus placebo, respectively. Exposure-adjusted AEs that occurred at the greatest increased frequency with osimertinib versus placebo were diarrhea and paronychia. AEs led to treatment interruption in 56 % versus 25 % of patients and to discontinuation in 13 % versus 5 % with osimertinib versus placebo, respectively. RP (grouped term) events were numerically higher in the osimertinib (48 %) versus placebo (38 %) arm but were mostly low grade; almost all events were reported by 18 weeks post-randomization. Protocol-mandated toxicity management guidelines effectively managed RP; most patients (60/69; 87 %) continued osimertinib, with or without interruption, and without recurrence (64/69; 93 %). ILD (grouped term) was mainly grade 1-2 and manageable; most events occurred within 20 weeks post-randomization. CONCLUSIONS: Osimertinib after definitive CRT had an acceptable and manageable safety/tolerability profile, with no new safety findings, supporting osimertinib as the new standard of care in this setting. LAURA clinical trial registration number: NCT03521154.",
+    "journal": "Lung Cancer",
+    "pubdate": "2026-08-01",
+    "pubtypes": [
+      "Journal Article",
+      "Randomized Controlled Trial",
+      "Clinical Trial, Phase III",
+      "Multicenter Study"
+    ],
+    "authors": "Terufumi Kato, Xiaorong Dong, Toshiaki Takahashi, et al.",
+    "keywords": [
+      "Humans",
+      "Pyrimidines",
+      "Indoles",
+      "Aniline Compounds",
+      "Lung Neoplasms",
+      "Female",
+      "Carcinoma, Non-Small-Cell Lung",
+      "ErbB Receptors",
+      "Acrylamides",
+      "Male",
+      "Aged",
+      "Neoplasm Staging",
+      "Mutation",
+      "Middle Aged",
+      "Chemoradiotherapy"
+    ],
+    "doi": "10.1016/j.lungcan.2026.109486",
+    "source": "core",
+    "journal_if": 5.3,
+    "journal_quartile": "Q2",
+    "highlight_score": 100,
+    "chinese_conclusion": "在不可切除的III期EGFR突变非小细胞肺癌患者中，放化疗后奥希替尼维持治疗的安全性可接受且可管理，支持其作为该情境下的新标准治疗。",
+    "pathology": "NSCLC",
+    "treatment_tags": [
+      "targeted therapy",
+      "radiotherapy"
+    ],
+    "chinese_keywords": [
+      "奥希替尼",
+      "EGFR突变",
+      "III期非小细胞肺癌",
+      "放化疗",
+      "安全性"
+    ]
+  },
+  {
+    "pmid": "42361644",
+    "title": "Durvalumab plus etoposide-platinum in patients with epidermal growth factor receptor (EGFR)-mutated advanced NSCLC and neuroendocrine transformation after first-line osimertinib: ORCHARD.",
+    "abstract": "BACKGROUND: ORCHARD (NCT03944772) was an open-label, phase 2 platform study that evaluated resistance mechanisms and post-progression treatments in patients with epidermal growth factor receptor (EGFR)-mutated advanced non-small cell lung cancer (NSCLC) with progressive disease (PD) on first-line osimertinib. We report final data from the module investigating durvalumab plus etoposide-platinum in patients with neuroendocrine transformation to small cell lung cancer or large cell neuroendocrine carcinoma. METHODS: Patients received durvalumab 1,500 mg intravenously every three weeks (Q3W) plus etoposide-platinum Q3W for up to four cycles. Durvalumab continued until PD, unacceptable toxicity or another discontinuation criterion was met. The primary endpoint was investigator-assessed objective response rate (ORR) per RECIST 1.1. Secondary endpoints were progression-free survival (PFS), duration of response (DoR), overall survival (OS), and safety. RESULTS: Fourteen patients received treatment and were evaluable for efficacy/safety (data cutoff: January 21, 2025). Confirmed ORR was 43 % (80 % confidence interval [CI]: 24-63) (six partial responses). Median duration of response was 4.3 months (95 % CI: 3.0-not calculable); one patient had a response lasting 10 months. Progression-free survival (PFS) events were observed in 13 patients (93 %) and 11 patients (79 %) died. Median PFS was 4.2 months (95 % CI: 3.0-5.6) and median overall survival was 10.2 months (95 % CI: 4.3-16.8). Nine patients (64 %) reported grade ≥3 adverse events (AEs), most commonly neutropenia and decreased neutrophil count (four patients each), and one patient discontinued all three study drugs due to an AE (not treatment-related). CONCLUSIONS: Durvalumab plus etoposide-platinum demonstrated a modest treatment response in neuroendocrine-transformed EGFR-mutated NSCLC. AEs were concordant with the known safety profiles of the combination, and no new safety signals were observed. TRIAL REGISTRATION: ClinicalTrials.gov, NCT03944772.",
+    "journal": "Lung Cancer",
+    "pubdate": "2026-08-01",
+    "pubtypes": [
+      "Journal Article",
+      "Clinical Trial, Phase II"
+    ],
+    "authors": "Isamu Okamoto, Byoung Chul Cho, Sarah B Goldberg, et al.",
+    "keywords": [
+      "Humans",
+      "Antineoplastic Combined Chemotherapy Protocols",
+      "Lung Neoplasms",
+      "Carcinoma, Non-Small-Cell Lung",
+      "Etoposide",
+      "Indoles",
+      "Female",
+      "Acrylamides",
+      "ErbB Receptors",
+      "Antibodies, Monoclonal",
+      "Middle Aged",
+      "Aged",
+      "Pyrimidines",
+      "Mutation",
+      "Male"
+    ],
+    "doi": "10.1016/j.lungcan.2026.109501",
+    "source": "core",
+    "journal_if": 5.3,
+    "journal_quartile": "Q2",
+    "highlight_score": 75,
+    "chinese_conclusion": "对于一线奥希替尼治疗后发生神经内分泌转化的EGFR突变晚期非小细胞肺癌，度伐利尤单抗联合含铂双药化疗显示出一定的抗肿瘤活性，但疗效有限。",
+    "pathology": "NSCLC",
+    "treatment_tags": [
+      "immunotherapy",
+      "chemotherapy"
+    ],
+    "chinese_keywords": [
+      "度伐利尤单抗",
+      "神经内分泌转化",
+      "EGFR突变",
+      "非小细胞肺癌",
+      "奥希替尼耐药"
+    ]
+  },
+  {
+    "pmid": "42275983",
+    "title": "Refining N1 classification: prognostic validation of N1 subdivision in resected non-small cell lung cancer.",
+    "abstract": "INTRODUCTION: Accurate evaluation of nodal metastasis is essential for staging and prognostication of non-small cell lung cancer (NSCLC). The 9th edition of the TNM classification subdivided N2 into single station(N2a) and multi-station(N2b) involvement, however, pathological N1 disease remains a unified category. This study aimed to evaluate whether subdivision of N1 into N1a and N1b provides meaningful prognostic discrimination. METHODS: Patients who underwent surgery for NSCLC between 2005 and 2022 at the Asan Medical Center were retrospectively analyzed. Patients were categorized into N1a (n = 811), N1b (n = 215), N2a (n = 797), and N2b (n = 507). Overall survival (OS) and Recurrence-free survival (RFS) were compared using Kaplan-Meier estimates and multivariable Cox models. Prognostic performance of the 9th TNM model (N1, N2a, N2b) was evaluated against a proposed model incorporating N1 subdivision using Akaike information criterion (AIC), R2, and Harrell's C-index. RESULTS: A total of 11,047 patients (1,026 with pN1 and 1,304 with pN2) were included. Adjuvant therapy use, extracapsular extension, and extent of nodal involvement increased with advancing N stage. Subdividing N1 showed clear prognostic separation: 5-year OS was 66.2% for N1a vs 53.0% for N1b, and 5-year RFS was 49.6% vs 29.9%, respectively. In multivariable analysis, N1b independently increased mortality risk (HR 1.56 vs N1a), and its outcomes were comparable to N2a. Model incorporating N1 subdivision showed improved prognostic performance, with lower AIC, slightly higher corrected R2, and a modestly higher C-index. CONCLUSIONS: Subdividing N1 into single- and multi-station provides meaningful prognostic discrimination in resected NSCLC and provides complementary prognostic information beyond the current TNM staging.",
+    "journal": "Lung Cancer",
+    "pubdate": "2026-08-01",
+    "pubtypes": [
+      "Journal Article"
+    ],
+    "authors": "Shia Kim, In Ha Kim, Ji Yong Kim, et al.",
+    "keywords": [
+      "Humans",
+      "Carcinoma, Non-Small-Cell Lung",
+      "Lung Neoplasms",
+      "Prognosis",
+      "Neoplasm Staging",
+      "Female",
+      "Male",
+      "Retrospective Studies",
+      "Aged",
+      "Middle Aged",
+      "Lymphatic Metastasis",
+      "Adult",
+      "Kaplan-Meier Estimate",
+      "Aged, 80 and over",
+      "Lung cancer"
+    ],
+    "doi": "10.1016/j.lungcan.2026.109474",
+    "source": "core",
+    "journal_if": 5.3,
+    "journal_quartile": "Q2",
+    "highlight_score": 60,
+    "chinese_conclusion": "在可切除非小细胞肺癌中，将N1细分为N1a（单站转移）和N1b（多站转移）能提供有意义的预后分层，N1b预后与N2a相当。",
+    "pathology": "Lymph Node",
+    "treatment_tags": [
+      "surgery"
+    ],
+    "chinese_keywords": [
+      "N1细分",
+      "淋巴结分期",
+      "非小细胞肺癌",
+      "预后",
+      "TNM分期"
+    ]
+  },
+  {
+    "pmid": "42269208",
+    "title": "Margin positivity is not associated with the extent of resection for non-small cell lung cancer.",
+    "abstract": "BACKGROUND: Extent of resection for non-small cell lung cancer is often guided by provider discretion, with evolving evidence on comparative outcomes. Although less invasive, the oncologic adequacy of sublobar resection remains uncertain. We sought to assess the association between the extent of resection and margin positivity. METHODS: We retrospectively queried a single institution for non-small cell lung cancer patients undergoing wedge resection, segmentectomy, or lobectomy from 2021 to 2024. Operative characteristics, margin status, lymph node status, perioperative outcomes, and 2-year survival and recurrence were compared across resection types. Multivariable logistic regression assessed associations between resection type and margin positivity. RESULTS: We identified 490 patients who met inclusion criteria (wedge: 64; segmentectomy: 110; and lobectomy: 316). Patients undergoing wedge resection had a higher average number of comorbidities, whereas patients undergoing lobectomy had larger tumors. Positive margins were similar across groups (wedge: 4.7%; segmentectomy: 1.8%; and lobectomy: 4.7%; P = .400). Wedge resection had a lower average number of lymph nodes harvested as well as shorter intraoperative blood loss, operative time, and hospital stay. Overall complication rates were similar. Two-year survival and recurrence were comparable between groups. Upon multivariable analysis, the extent of resection was not associated with margin positivity. Findings were consistent in the subgroup of tumors ≤2 cm. CONCLUSION: Positive margins are infrequent and do not appear to differ by resection type. Despite fewer lymph nodes harvested, wedge resection demonstrated similar short-term recurrence and survival to anatomic resection. These findings suggest that anatomic resection may not be necessary solely to achieve negative margins and support the selective use of wedge resection in appropriately chosen patients.",
+    "journal": "Surgery",
+    "pubdate": "2026-08-01",
+    "pubtypes": [
+      "Journal Article"
+    ],
+    "authors": "David H Booth, Samantha L Savitch, Andrew C Chang, et al.",
+    "keywords": [
+      "Humans",
+      "Carcinoma, Non-Small-Cell Lung",
+      "Lung Neoplasms",
+      "Margins of Excision",
+      "Retrospective Studies",
+      "Pneumonectomy",
+      "Female",
+      "Male",
+      "Aged",
+      "Middle Aged",
+      "Neoplasm Recurrence, Local",
+      "Lymph Node Excision"
+    ],
+    "doi": "10.1016/j.surg.2026.110322",
+    "source": "core",
+    "journal_if": 3.9,
+    "journal_quartile": "Q2",
+    "highlight_score": 10,
+    "chinese_conclusion": "在非小细胞肺癌中，楔形切除、肺段切除和肺叶切除的切缘阳性率无显著差异，且短期复发和生存率相当，支持在恰当选择的患者中选择性使用楔形切除。",
+    "pathology": "NSCLC",
+    "treatment_tags": [
+      "surgery"
+    ],
+    "chinese_keywords": [
+      "切缘阳性",
+      "切除范围",
+      "非小细胞肺癌",
+      "楔形切除",
+      "肺叶切除"
+    ]
+  }
+]
