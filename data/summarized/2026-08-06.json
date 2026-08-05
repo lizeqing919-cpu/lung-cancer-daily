@@ -1,0 +1,142 @@
+[
+  {
+    "pmid": "42025696",
+    "title": "First-Line Integration of Local Ablative Therapy With EGFR Tyrosine Kinase Inhibitors in Advanced EGFR+ NSCLC: A Systematic Review and Meta-Analysis.",
+    "abstract": "INTRODUCTION: Systemic intensification strategies improve outcomes in advanced EGFR-mutated NSCLC but increase toxicity. Integrating local ablative therapy (LAT) with first-line EGFR tyrosine kinase inhibitor (TKI) monotherapy represents an alternative approach to enhance disease control while preserving long-term tolerability. METHODS: MEDLINE, Embase, and Elicit were searched to December 2025. The protocol was registered in PROSPERO (CRD420251244650). Randomized and nonrandomized comparative studies evaluating EGFR TKI with or without LAT integrated into first-line treatment, either upfront or as consolidative therapy, were included in quantitative meta-analyses. Single-arm and noncomparative studies were analyzed descriptively. Hazard ratios (HRs) were pooled using random-effects models. Prespecified subgroup analyses explored disease burden, LAT timing, study design (prospective versus retrospective), LAT site, and TKI generation. RESULTS: A total of 31 studies met the inclusion criteria, including 24 comparative studies (six randomized, two prospective nonrandomized, and 16 retrospective). LAT integration significantly improved progression-free survival (HR = 0.45, 95% confidence interval: 0.37-0.55) and overall survival (HR = 0.52, 95% confidence interval: 0.40-0.67) versus EGFR TKI alone. Benefits were consistent across oligometastatic and unselected populations, upfront and consolidative strategies, LAT sites (primary tumor with or without metastatic sites), TKI generations, and prospective and retrospective studies. Radiotherapy-related toxicities, particularly pneumonitis, were more frequent with LAT, but grade more than or equal to 3 events were uncommon and no unexpected safety signals emerged. CONCLUSIONS: Across a heterogeneous evidence base, integrating LAT into first-line EGFR TKI therapy is associated with improved progression-free survival and overall survival with acceptable toxicity. These findings support further prospective investigation to better define patient selection, optimal timing, and integration with contemporary systemic combination strategies.",
+    "journal": "J Thorac Oncol",
+    "pubdate": "2026-08-01",
+    "pubtypes": [
+      "Journal Article",
+      "Systematic Review",
+      "Meta-Analysis"
+    ],
+    "authors": "Leonardo Brunetti, Giacomo Colella, Giuseppina Rita Di Fazio, et al.",
+    "keywords": [
+      "Humans",
+      "Protein Kinase Inhibitors",
+      "Carcinoma, Non-Small-Cell Lung",
+      "Lung Neoplasms",
+      "ErbB Receptors",
+      "EGFR TKI",
+      "EGFR-mutated NSCLC",
+      "First-line treatment",
+      "Local ablative therapy",
+      "Oligometastatic disease",
+      "Stereotactic radiotherapy"
+    ],
+    "doi": "10.1016/j.jtho.2026.103735",
+    "source": "core",
+    "journal_if": 20.4,
+    "journal_quartile": "Q1",
+    "highlight_score": 100,
+    "chinese_conclusion": "一线EGFR-TKI联合局部消融治疗可显著改善EGFR突变晚期NSCLC的无进展生存期和总生存期，毒性可接受。",
+    "pathology": "NSCLC",
+    "treatment_tags": [
+      "targeted therapy",
+      "radiotherapy",
+      "surgery"
+    ],
+    "chinese_keywords": [
+      "EGFR突变非小细胞肺癌",
+      "一线治疗",
+      "局部消融治疗",
+      "寡转移",
+      "系统综述"
+    ]
+  },
+  {
+    "pmid": "41967769",
+    "title": "Occupational Exposure to Asbestos-Free Talc and Risk of Respiratory Cancers, Including Larynx, Lung, and Mesothelioma: A Systematic Review and Meta-Analysis.",
+    "abstract": "INTRODUCTION: Evidence suggests a potential link between occupational talc exposure and increased risk of lung cancer and mesothelioma, particularly when talc is contaminated with asbestos, a known carcinogen. However, the findings remain inconclusive. To clarify this, we conducted a systematic review and meta-analysis of studies evaluating the incidence and mortality of lung, mesothelioma, and laryngeal cancers among workers exposed to asbestos-free talc. METHODS: We searched MEDLINE (PubMed) and SCOPUS databases up to January 2026 for cohort and case-control studies. Study quality was assessed using a modified Newcastle-Ottawa Scale. Meta-analyses were conducted for lung using a random-effects model and crude model for laryngeal cancer, whereas mesothelioma findings were synthesized through a systematic review. Publication bias was evaluated using funnel plots and Egger's test. RESULTS: We identified 13, eight, and seven publications reporting on lung cancer, mesothelioma, and laryngeal cancer, respectively. Five studies on lung cancer in talc miners and millers and three studies in other industries were included in the meta-analysis. The pooled relative risk of lung cancer was 1.13 (95% confidence interval [CI]: 0.97-1.33) for miners and millers and 1.12 (95% CI: 0.79-1.57) for other workers. No publication bias was found (p = 0.45). No mesothelioma cases were reported among talc miners and millers, precluding meta-analysis. Studies on laryngeal cancer revealed no association with talc exposure (relative risk = 0.98, 95% CI: 0.58-1.57). CONCLUSIONS: Current evidence does not support increased risks of lung, mesothelioma, or laryngeal cancers among workers exposed to asbestos-free talc. Future studies should better control for confounders, especially tobacco smoking.",
+    "journal": "J Thorac Oncol",
+    "pubdate": "2026-08-01",
+    "pubtypes": [
+      "Journal Article",
+      "Systematic Review",
+      "Meta-Analysis",
+      "Review"
+    ],
+    "authors": "Monireh Sadat Seyyedsalehi, William Anthony Powley, Paolo Boffetta",
+    "keywords": [
+      "Humans",
+      "Talc",
+      "Occupational Exposure",
+      "Mesothelioma",
+      "Lung Neoplasms",
+      "Laryngeal Neoplasms",
+      "Occupational Diseases",
+      "Asbestos",
+      "Larynx",
+      "Lung",
+      "Neoplasm",
+      "Occupational exposure",
+      "Respiratory disease",
+      "Talc"
+    ],
+    "doi": "10.1016/j.jtho.2026.103710",
+    "source": "core",
+    "journal_if": 20.4,
+    "journal_quartile": "Q1",
+    "highlight_score": 100,
+    "chinese_conclusion": "基于现有证据，职业暴露于无石棉滑石粉不增加肺癌、间皮瘤或喉癌风险。",
+    "pathology": "NSCLC",
+    "treatment_tags": [],
+    "chinese_keywords": [
+      "职业暴露",
+      "无石棉滑石粉",
+      "肺癌",
+      "间皮瘤",
+      "系统综述"
+    ]
+  },
+  {
+    "pmid": "41921748",
+    "title": "Durvalumab Consolidation in Limited-Stage SCLC: Outcomes by Prior Concurrent Chemoradiotherapy and Prophylactic Cranial Irradiation in the Phase 3 ADRIATIC Trial.",
+    "abstract": "INTRODUCTION: In ADRIATIC, consolidation durvalumab significantly improved overall survival (OS) and progression-free survival (PFS) versus placebo in patients with limited-stage SCLC without progression after concurrent chemoradiotherapy (cCRT). Exploratory analyses were conducted in prespecified subgroups per protocol-permitted cCRT components, prophylactic cranial irradiation (PCI) receipt, and time from end of cCRT to randomization. METHODS: Prior cCRT comprised cisplatin-etoposide or carboplatin-etoposide with thoracic radiotherapy (60-66 Gy once daily over 6 weeks or 45 Gy twice daily over 3 weeks), with or without PCI. Patients received durvalumab (n = 264) or placebo (n = 266) for up to 24 months. Multivariable Cox proportional hazards models compared treatment effect across subgroups. RESULTS: OS hazard ratios (HRs) generally favored durvalumab versus placebo across subgroups, including cisplatin-etoposide (HR = 0.82 [95% confidence interval {CI}: 0.61-1.10]) and carboplatin-etoposide (HR = 0.56 [95% CI: 0.35-0.89]) chemotherapy, once-daily (HR = 0.72 [95% CI: 0.55-0.96]) and twice-daily (HR = 0.68 [95% CI: 0.40-1.14]) radiotherapy, PCI-yes (HR = 0.75 [95% CI: 0.52-1.07]) and PCI-no (HR = 0.71 [95% CI: 0.51-0.99]), as well as time from cCRT completion to randomization subgroups. PFS also favored durvalumab across subgroups. OS and PFS HRs were consistent in multivariable analyses, with no significant interactions between treatment and subgroup pairs or time from cCRT completion to randomization (all p > 0.05). Safety profiles were generally consistent across subgroups. CONCLUSION: Consolidation durvalumab demonstrated consistent benefit versus placebo irrespective of prior cCRT components, PCI use, and time from cCRT completion to randomization, supporting its role as the new standard-of-care treatment in limited-stage SCLC. TRIAL REGISTRATION: ClinicalTrials.gov: NCT03703297 (ADRIATIC).",
+    "journal": "J Thorac Oncol",
+    "pubdate": "2026-08-01",
+    "pubtypes": [
+      "Journal Article",
+      "Clinical Trial, Phase III",
+      "Randomized Controlled Trial",
+      "Multicenter Study"
+    ],
+    "authors": "Suresh Senan, Byoung Chul Cho, Konstantin K Laktionov, et al.",
+    "keywords": [
+      "Humans",
+      "Antibodies, Monoclonal",
+      "Small Cell Lung Carcinoma",
+      "Chemoradiotherapy",
+      "Lung Neoplasms",
+      "Male",
+      "Female",
+      "Cranial Irradiation",
+      "Middle Aged",
+      "Aged",
+      "Antineoplastic Combined Chemotherapy Protocols",
+      "Consolidation Chemotherapy",
+      "ADRIATIC",
+      "Clinical trial",
+      "Durvalumab"
+    ],
+    "doi": "10.1016/j.jtho.2026.103703",
+    "source": "core",
+    "journal_if": 20.4,
+    "journal_quartile": "Q1",
+    "highlight_score": 100,
+    "chinese_conclusion": "在局限期小细胞肺癌同步放化疗后，度伐利尤单抗巩固治疗显著改善总生存期和无进展生存期，与既往放化疗方案及预防性全脑放疗无关。",
+    "pathology": "SCLC",
+    "treatment_tags": [
+      "immunotherapy",
+      "chemotherapy",
+      "radiotherapy"
+    ],
+    "chinese_keywords": [
+      "局限期小细胞肺癌",
+      "度伐利尤单抗",
+      "同步放化疗",
+      "预防性全脑放疗",
+      "ADRIATIC试验"
+    ]
+  }
+]
