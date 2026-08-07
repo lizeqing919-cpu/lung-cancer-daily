@@ -1,0 +1,42 @@
+[
+  {
+    "pmid": "42167778",
+    "title": "ERS/ESGE/ESTS clinical practice guidelines on endobronchial and oesophageal endosonography for the diagnosis and staging of lung cancer.",
+    "abstract": "BACKGROUND: In lung cancer, adequate treatment selection relies on accurate diagnosis and staging. Tissue sampling is generally indicated. This guideline explores the role of endosonography via the major airways (endobronchial ultrasound-guided transbronchial needle aspiration (EBUS-TBNA)) and oesophagus (endoscopic transoesophageal ultrasound-guided fine-needle aspiration (EUS-FNA)). EUS-FNA can also be performed using an EBUS scope (EUS-B-FNA). METHODS: Task force members were selected from the European Respiratory Society, European Society of Gastrointestinal Endoscopy and European Society of Thoracic Surgeons. Members formulated 12 guideline questions. Systematic literature searches were performed in MEDLINE and Embase (final searches: April 2025). Grading of Recommendations Assessment, Development and Evaluation (GRADE) methodology was applied for assessing the certainty of evidence and developing recommendations. RESULTS: In (suspected) non-small cell lung cancer, endosonography is recommended over mediastinoscopy for mediastinal nodal tissue staging. Systematic staging is suggested over targeted staging as the minimal standard. Ideally, combined EBUS-TBNA+EUS(-B)-FNA is performed instead of EBUS-TBNA alone. Add-on mediastinoscopy after a negative endosonography is not recommended. Endosonography is suggested over mediastinoscopy for restaging after induction therapy. EBUS-TBNA and EUS(-B)-FNA are recommended for centrally located tumours adjacent to the major airways/oesophagus. Both EUS-B-FNA and EUS-FNA are suggested for left adrenal gland analysis. It is suggested that competence is acquired in a simulation-based environment and ensured using valid assessment methods. 21G/22G TBNA needles are considered the standard; there is insufficient evidence to support the structural use of alternative needle sizes/types or cryobiopsy. EBUS-TBNA has a high suitability rate for programmed death-ligand 1 assessment. CONCLUSIONS: Endobronchial and oesophageal endosonography provide accurate and minimally invasive tests for the diagnosis and staging of lung cancer.",
+    "journal": "Eur Respir J",
+    "pubdate": "2026-08-01",
+    "pubtypes": [
+      "Journal Article",
+      "Practice Guideline"
+    ],
+    "authors": "Daniël A Korevaar, Bojan Kovacevic, Efthymia Papadopoulou, et al.",
+    "keywords": [
+      "Humans",
+      "Lung Neoplasms",
+      "Neoplasm Staging",
+      "Endosonography",
+      "Endoscopic Ultrasound-Guided Fine Needle Aspiration",
+      "Carcinoma, Non-Small-Cell Lung",
+      "Esophagus",
+      "Europe",
+      "Bronchoscopy"
+    ],
+    "doi": "",
+    "source": "core",
+    "journal_if": 16.6,
+    "journal_quartile": "Q1",
+    "highlight_score": 110,
+    "chinese_conclusion": "对于非小细胞肺癌的纵隔淋巴结分期，推荐优先采用支气管内超声引导下经支气管针吸活检和/或食管内镜超声引导下细针吸取，而非纵隔镜检查；系统分期优于靶向分期，并建议联合使用EBUS-TBNA和EUS(-B)-FNA以提高准确性。",
+    "pathology": "Lymph Node",
+    "treatment_tags": [
+      "surgery"
+    ],
+    "chinese_keywords": [
+      "支气管内超声",
+      "经支气管针吸活检",
+      "肺癌分期",
+      "纵隔淋巴结",
+      "临床实践指南"
+    ]
+  }
+]
