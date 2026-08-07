@@ -1,0 +1,23 @@
+[
+  {
+    "pmid": "42556560",
+    "title": "Systematic review and meta-analysis of FDG PET-CT for nodal staging of part-solid lung adenocarcinomas.",
+    "abstract": "BACKGROUND: Lung adenocarcinoma is the most prevalent subtype of lung cancer. When presenting as ground-glass or part-solid nodules, lung adenocarcinomas typically show slow growth, rarely metastasise and have low FDG-avidity. Retrospective evidence demonstrated limited value of FDG PET-CT staging in T1 part-solid lung cancers. NICE recommends FDG PET-CT to confirm localised disease in patients eligible for radical treatment. RESEARCH QUESTION: To carry out a systematic review to establish the diagnostic accuracy of FDG PET-CT for nodal staging in T1 part-solid lung cancers. STUDY DESIGN AND METHODS: A systematic search was conducted using the PICO framework. Predefined inclusion and exclusion criteria were applied. Relevant data were extracted, and risk of bias was assessed using the QUADAS-2 tool. Sensitivity and specificity of FDG PET-CT for nodal staging in T1 part-solid lung cancers were pooled, presented in forest plots and HSROC curve, and compared to, diagnostic performance of CT Thorax. The association between total nodule size and nodal staging was explored. RESULTS: Nodal metastases were rare, with six studies reporting 0% nodal involvement. Diagnostic performance metrics for FDG PET-CT were available in four studies, which showed low sensitivity (28%), high specificity (90%), and poor accuracy (0.599). In two studies comparing CT and FDG PET-CT, no significant difference in sensitivity was observed (sensitivity: CT 12%, FDG PET-CT 29%, p=0.320), whereas CT demonstrated higher specificity (specificity: CT 97%, FDG PET-CT 83%, p < 0.001). In addition, no nodal metastases were reported in nodules with a total size ≤10 mm in two studies. INTERPRETATION: FDG PET-CT has limited diagnostic value for nodal staging in part-solid lung cancers, particularly for small nodules (total size ≤10 mm, T1a), where nodal metastasis was not observed. While sensitivity did not differ between CT and FDG PET-CT, CT provided higher specificity.",
+    "journal": "Chest",
+    "pubdate": "2026-08-05",
+    "pubtypes": [
+      "Journal Article"
+    ],
+    "authors": "Pui Man Choy, Ho Yin Arnold Wong, Eric Kian Saik Lim, et al.",
+    "keywords": [
+      "Lung cancer",
+      "nuclear medicine and FDG PET-CT",
+      "oncology"
+    ],
+    "doi": "",
+    "source": "core",
+    "journal_if": 9.6,
+    "journal_quartile": "Q1",
+    "highlight_score": 60
+  }
+]
