@@ -1,0 +1,52 @@
+[
+  {
+    "pmid": "42223087",
+    "title": "Selpercatinib in Early-Stage ",
+    "abstract": "BACKGROUND: Selpercatinib, a highly selective, potent, and central nervous system-penetrant RET inhibitor, is approved for RET fusion-positive advanced or metastatic non-small-cell lung cancer (NSCLC). The efficacy and safety of selpercatinib in early-stage NSCLC are unknown. METHODS: We conducted a phase 3, double-blind trial involving patients with RET fusion-positive NSCLC who had received definitive therapy with curative intent (surgery or radiotherapy with adjuvant systemic anticancer therapy, if applicable). Patients were randomly assigned to receive adjuvant selpercatinib or placebo for up to 3 years. The primary end point was investigator-assessed event-free survival in patients with stage II or IIIA disease. Secondary end points were investigator-assessed event-free survival in patients with stage IB, II, or IIIA disease; event-free survival as assessed by blinded independent central review; overall survival; and safety. RESULTS: A total of 151 patients were assigned to receive selpercatinib (75 patients) or placebo (76 patients). Median follow-up was 24 months and 27 months in the respective groups. Among 109 patients with stage II or IIIA disease, 2-year investigator-assessed event-free survival was 92% with selpercatinib and 61% with placebo (hazard ratio for disease recurrence, progression, or death, 0.17; 95% confidence interval [CI], 0.06 to 0.51; P<0.001). Event-free survival as assessed by blinded independent central review was consistent with investigator-assessed event-free survival. Among the 151 patients with stage IB, II, or IIIA NSCLC, investigator-assessed event-free survival at 2 years was 94% with selpercatinib and 70% with placebo (hazard ratio for disease recurrence, progression, or death, 0.16; 95% CI, 0.06 to 0.48; P<0.001). The most common adverse events during the treatment period were increased levels of alanine aminotransferase and aspartate aminotransferase (grade ≥3 in 17% and 19% of patients, respectively, in the selpercatinib group). Three deaths occurred, all in the placebo group, owing to disease progression. CONCLUSIONS: Among patients with stage II or IIIA RET fusion-positive NSCLC, event-free survival was significantly longer with adjuvant selpercatinib than with placebo. (Funded by Lilly; LIBRETTO-432 ClinicalTrials.gov number, NCT04819100.).",
+    "journal": "N Engl J Med",
+    "pubdate": "2026-08-13",
+    "pubtypes": [
+      "Journal Article",
+      "Randomized Controlled Trial",
+      "Clinical Trial, Phase III",
+      "Multicenter Study"
+    ],
+    "authors": "Yi-Long Wu, Maximilian Hochmair, Yi Yang, et al.",
+    "keywords": [
+      "Humans",
+      "Carcinoma, Non-Small-Cell Lung",
+      "Lung Neoplasms",
+      "Double-Blind Method",
+      "Female",
+      "Aged",
+      "Middle Aged",
+      "Pyridines",
+      "Male",
+      "Neoplasm Staging",
+      "Pyrazoles",
+      "Proto-Oncogene Proteins c-ret",
+      "Adult",
+      "Antineoplastic Agents",
+      "Chemotherapy, Adjuvant"
+    ],
+    "doi": "10.1056/NEJMoa2602628",
+    "source": "core",
+    "journal_if": 96.2,
+    "journal_quartile": "Q1",
+    "highlight_score": 140,
+    "chinese_conclusion": "在RET融合阳性早期非小细胞肺癌患者中，辅助性塞尔帕替尼治疗与安慰剂相比显著延长了无事件生存期，尤其对II期或IIIA期患者获益明显。",
+    "pathology": "NSCLC",
+    "treatment_tags": [
+      "targeted therapy",
+      "surgery",
+      "radiotherapy"
+    ],
+    "chinese_keywords": [
+      "RET融合阳性",
+      "非小细胞肺癌",
+      "辅助靶向治疗",
+      "塞尔帕替尼",
+      "无事件生存期"
+    ]
+  }
+]
