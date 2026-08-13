@@ -1,0 +1,48 @@
+[
+  {
+    "pmid": "42586967",
+    "title": "Mefatinib versus gefitinib as a first-line treatment for EGFR-mutated non-small cell lung cancer: a randomized, double-blind, multicenter phase III study.",
+    "abstract": "Mefatinib, a novel second-generation epidermal growth factor (EGFR) tyrosine kinase inhibitor that has shown promising antitumor activity in targeting non-small cell lung cancer (NSCLC) with common and uncommon EGFR-activating mutations. In this phase III, randomized, double-blind trial in China, 336 eligible patients with advanced nonsquamous NSCLC harboring EGFR L858R or exon 19 deletion (ex19del) were assigned (2:1) to receive either mefatinib (60 mg daily, n = 223) or gefitinib (250 mg daily, n = 113). The primary endpoint was progression-free survival (PFS), assessed by an independent review committee (IRC). The trial is registered with chinadrugtrials.org.cn (CTR20192297). After a median follow-up of 15.9 months for mefatinib and 18.5 months for gefitinib, mefatinib demonstrated a significantly longer median IRC-assessed PFS compared to gefitinib (13.7 vs. 9.7 months; hazard ratio [HR] = 0.68; 95% confidence intervals [CI]: 0.53-0.87; p = 0.002). The 30-month overall survival rate was 60.2% for mefatinib and 54.3% for gefitinib. Patients with EGFR ex19del had comparable PFS for both treatment arms (p > 0.100), whereas patients with EGFR L858R had significantly longer median PFS when treated with mefatinib than gefitinib (13.7 vs 8.3 months HR = 0.55 [95% CI: 0.38-0.78]; p = 0.001). Patients with EGFR L858R had a 30-month overall survival rate of 56.6% with mefatinib and 43.7% with gefitinib. Treatment-related adverse events ≥grade 3 were reported in 45.7% of the mefatinib group and 24.8% of the gefitinib group. No new safety signals were observed for mefatinib. Mefatinib demonstrated superior efficacy to gefitinib with a similar tolerability profile in the first-line treatment of EGFR-mutated advanced NSCLC.",
+    "journal": "Signal Transduct Target Ther",
+    "pubdate": "2026-08-13",
+    "pubtypes": [
+      "Journal Article",
+      "Randomized Controlled Trial",
+      "Clinical Trial, Phase III",
+      "Multicenter Study"
+    ],
+    "authors": "Jia Yu, Anwen Xiong, Qiming Wang, et al.",
+    "keywords": [
+      "Humans",
+      "Gefitinib",
+      "ErbB Receptors",
+      "Carcinoma, Non-Small-Cell Lung",
+      "Female",
+      "Lung Neoplasms",
+      "Male",
+      "Middle Aged",
+      "Aged",
+      "Mutation",
+      "Double-Blind Method",
+      "Adult",
+      "Protein Kinase Inhibitors"
+    ],
+    "doi": "",
+    "source": "core",
+    "journal_if": 40.8,
+    "journal_quartile": "Q1",
+    "highlight_score": 50,
+    "chinese_conclusion": "美法替尼作为一线治疗EGFR突变晚期非小细胞肺癌，相比吉非替尼可显著延长无进展生存期（13.7个月 vs 9.7个月），尤其在EGFR L858R突变患者中获益更明显。",
+    "pathology": "NSCLC",
+    "treatment_tags": [
+      "targeted therapy"
+    ],
+    "chinese_keywords": [
+      "EGFR突变",
+      "非小细胞肺癌",
+      "美法替尼",
+      "吉非替尼",
+      "一线治疗"
+    ]
+  }
+]
