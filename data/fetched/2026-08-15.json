@@ -1,0 +1,99 @@
+[
+  {
+    "pmid": "42360104",
+    "title": "Early Detriment Analysis of First-Line Nivolumab plus Ipilimumab-Based Therapy in Patients with Metastatic Non-Small Cell Lung Cancer.",
+    "abstract": "PURPOSE: To identify variables associated with early detriment on first-line dual immunotherapy from the phase III CheckMate 227 and CheckMate 9LA studies. PATIENTS AND METHODS: Adults with stage IV/recurrent non-small cell lung cancer (NSCLC) lacking EGFR/ALK alterations were randomized to nivolumab plus ipilimumab, nivolumab (PD-L1 ≥1%) or nivolumab plus chemotherapy (PD-L1 <1%), or chemotherapy in CheckMate 227 or to nivolumab plus ipilimumab with chemotherapy or chemotherapy in CheckMate 9LA. Multivariable analyses were used to identify factors associated with rapid progression (progression or death within 3 months of randomization) from nivolumab plus ipilimumab in CheckMate 227, and univariate analyses were used to assess rapid progression from nivolumab plus ipilimumab with/without the addition of chemotherapy from CheckMate 227 and CheckMate 9LA. RESULTS: Rapid progression rates were 40% with nivolumab plus ipilimumab versus 26% with chemotherapy. High neutrophil-to-leukocyte ratio, baseline tumor mutational burden (TMB) <14 mutations per megabase, tumor PD-L1 <1%, low albumin level, and higher-than-median baseline monocytic myeloid-derived suppressor cell (M-MDSC) level were associated with rapid progression in patients treated with nivolumab plus ipilimumab. Early detriment was not observed with nivolumab plus ipilimumab with chemotherapy across subgroups from CheckMate 9LA. Long-term survival favored nivolumab plus ipilimumab-containing treatment across subgroups. CONCLUSIONS: Neutrophil-to-leukocyte ratio, TMB, tumor PD-L1 expression, albumin level, and baseline M-MDSC level were associated with rapid progression in patients with metastatic NSCLC treated with first-line nivolumab plus ipilimumab. Relative to chemotherapy, early detriment was observed with nivolumab plus ipilimumab across biomarker subgroups but not with nivolumab plus ipilimumab with chemotherapy. Long-term benefit was maintained with both regimens.",
+    "journal": "Clin Cancer Res",
+    "pubdate": "2026-08-14",
+    "pubtypes": [
+      "Journal Article",
+      "Randomized Controlled Trial",
+      "Clinical Trial, Phase III"
+    ],
+    "authors": "Hossein Borghaei, David Balli, Luis G Paz-Ares, et al.",
+    "keywords": [
+      "Humans",
+      "Carcinoma, Non-Small-Cell Lung",
+      "Nivolumab",
+      "Lung Neoplasms",
+      "Ipilimumab",
+      "Antineoplastic Combined Chemotherapy Protocols",
+      "Female",
+      "Middle Aged",
+      "Male",
+      "Aged",
+      "Adult",
+      "Biomarkers, Tumor",
+      "Neoplasm Staging"
+    ],
+    "doi": "10.1158/1078-0432.CCR-25-0942",
+    "source": "core",
+    "journal_if": 11.5,
+    "journal_quartile": "Q1",
+    "highlight_score": 100
+  },
+  {
+    "pmid": "42207168",
+    "title": "Mature Outcomes and Patterns of Failure in the Phase II FLARE-RT Trial of Biological Image-Guided and Risk-Adaptive Chemoradiation for Unresectable NSCLC.",
+    "abstract": "PURPOSE: The nonrandomized phase II trial Functional Lung Avoidance and Response-adaptive Escalation Radiation Therapy (FLARE-RT) tested personalized risk-adaptive radiotherapy for unresectable non-small cell lung cancer (NSCLC) using 2[18F]fluoro-2-deoxy-D-glucose (FDG)-PET/CT and single-photon emission computed tomography/CT. We report radiation dosimetry, mature outcomes, adverse events, failure patterns, and risk stratification models. PATIENTS AND METHODS: Forty-nine patients with American Joint Committee on Cancer version 7 stage IIB-IIIB NSCLC enrolled in FLARE-RT (NCT02773238) from 2016 to 2021 and initiated chemoradiation. Patients with week 3 FDG-PET response received 60 Gy in 30 fractions. Patients with nonresponse received concomitant boosts from weeks 4 to 6 to residual metabolic disease of 74 to 90 Gy total guided by FDG uptake. Overall survival (OS; primary endpoint) and progression-free survival (PFS) were estimated via Kaplan-Meier. Locoregional progression (LRP) and distant metastasis (DM) cumulative incidence were estimated via Aalen-Johansen, with death and alternative progression patterns as competing risks. Predictors of treatment failure modes were identified through Fine-Gray regression. RESULTS: The median patient age was 63.2 years, with predominantly adenocarcinoma histology (n = 30, 61.2%), N2 nodal disease (n = 31, 63.3%), smoking history (n = 41, 83.6%), and carboplatin-paclitaxel chemotherapy regimen (n = 31, 63.3%). Target volumes and normal tissue dosimetry were similar between PET responders (n = 33, 67.3%) and PET nonresponders (n = 16, 32.7%); PET-guided radiation boosts in select nonresponders did not increase the risk of adverse events except for grade 2 esophagitis. At 52.3 months median follow-up, 1- and 2-year OS was 81.6% [95% confidence interval (CI), 71.5%-93.2%] and 54.2% (95% CI, 41.8%-70.4%), respectively; median OS was 29.1 months (95% CI, 17.3-NA). One- and two-year PFS was 53.1% (95% CI, 40.9%-69%) and 40.5% (95% CI, 28.8%-57.0%), respectively; median PFS was 12.3 months (95% CI, 9.2-not reached). DM occurred in 18 of 31 cases and was the primary mode of failure. Cumulative incidence for 1- and 2-year LRP was 12.2% (95% CI, 4.9%-23.2%) and 18.5% (95% CI, 9.0%-30.6%), respectively; 1- and 2-year DM was 34.7% (95% CI, 21.7%-48.1%) and 43.1% (95% CI, 28.9%-56.5%), respectively. Higher pre-RT FDG-PET total lesion glycolysis (TLG) correlated with increased LRP [hazard ratio (HR) = 1.87 (95% CI, 1.41-2.49), P < 0.001], whereas higher mid-RT TLG correlated with DM [HR = 1.52 (95% CI, 1.05-2.21), P = 0.03]. Of 49 patients, 25 received durvalumab and exhibited lower 1-year DM (20% vs. 54.2%, P = 0.04) with no difference in 1-year LRP (20% vs. 4.2%, P = 0.27). Of 49 patients, 26 were treated with proton radiotherapy, yielding outcomes and failure patterns that were not different compared to those treated with photon therapy. CONCLUSIONS: Biological image-guided FLARE-RT achieved durable locoregional control with OS similar to RTOG 0617 (60 Gy arm)/RTOG 1106 (adaptive arm) and comparable with PACIFIC (durvalumab arm). Risk-adaptive radiation boosts in select patients were well tolerated with potential for improved disease control. Elevated TLG on baseline FDG-PET and residually on mid-treatment FDG-PET was associated with a greater risk of LRP and DM, respectively, which may refine selective radiotherapy and systemic therapy intensification. Validation of these findings is warranted in next-generation trials of imaging biomarker-guided and risk-adaptive therapy for unresectable NSCLC.",
+    "journal": "Clin Cancer Res",
+    "pubdate": "2026-08-14",
+    "pubtypes": [
+      "Journal Article",
+      "Clinical Trial, Phase II"
+    ],
+    "authors": "Jing Zeng, Sunan Cui, Daniel S Hippe, et al.",
+    "keywords": [
+      "Humans",
+      "Female",
+      "Middle Aged",
+      "Lung Neoplasms",
+      "Aged",
+      "Male",
+      "Chemoradiotherapy",
+      "Carcinoma, Non-Small-Cell Lung",
+      "Radiotherapy, Image-Guided",
+      "Positron Emission Tomography Computed Tomography",
+      "Fluorodeoxyglucose F18",
+      "Aged, 80 and over",
+      "Adult",
+      "Neoplasm Staging"
+    ],
+    "doi": "10.1158/1078-0432.CCR-25-2626",
+    "source": "core",
+    "journal_if": 11.5,
+    "journal_quartile": "Q1",
+    "highlight_score": 75
+  },
+  {
+    "pmid": "42225988",
+    "title": "SEZ6-targeting antibody-drug conjugate ABBV-706 in advanced small cell lung cancer and solid tumors: a phase 1 trial.",
+    "abstract": "Seizure-related homolog 6 (SEZ6) is expressed in small cell lung cancer (SCLC) and neuroendocrine neoplasms. In an open label, phase 1 trial, ABBV-706, an antibody-drug conjugate with a SEZ6-directed antibody linked to topoisomerase-1 inhibitor (Top1i), was administered intravenously every 3 weeks (Q3W) to 288 patients with advanced solid tumors; 240 received monotherapy, including 124 with relapsed/refractory (R/R) SCLC. Primary objectives of dose escalation (part 1, advanced solid tumors), dose optimization and expansion (part 2, R/R SCLC only) and dose expansion (part 4, central nervous system tumors and high-grade neuroendocrine neoplasms only) were to evaluate the safety, tolerability, pharmacokinetics (PK), immunogenicity and antitumor activity of ABBV-706 monotherapy and, from parts 1 and 2, to determine the recommended phase 2 dose (RP2D) of ABBV-706 in R/R SCLC. In the monotherapy cohort (N = 240), the most common treatment-related adverse events (TRAEs) at any grade were anemia (61%) and fatigue (38%). Grade 3 or higher TRAEs occurred in 61% of patients and were dose dependent (39% at 1.8 mg kg-1 and 70% at 2.5 mg kg-1). In the R/R SCLC monotherapy cohort (n = 124), any-grade and grade 3 or higher TRAEs occurred in 93% and 61% of patients, respectively. ABBV-706 demonstrated promising preliminary efficacy in patients with R/R SCLC, with an objective response rate (ORR) of 52% (65/124). In patients with R/R SCLC receiving monotherapy in dose optimization and expansion part 2, ORR was similar between 1.8 mg kg-1 and 2.5 mg kg-1 doses (56% (23/41) and 59% (23/39), respectively), with a duration of response that was highest at the 1.8 mg kg-1 dose and with most patients achieving rapid and durable tumor reduction. Although exploratory, long-term efficacy measures were an important consideration in the RP2D determination, and in R/R SCLC monotherapy, overall survival (OS) was highest at the 1.8 mg kg-1 dose, with a median OS of 12.4 months. Based on the totality of available data, including, but not limited to, safety, preliminary efficacy measures and PK, 1.8 mg kg-1 Q3W was confirmed as the optimal RP2D for patients with R/R SCLC. ClinicalTrials.gov: NCT05599984 .",
+    "journal": "Nat Med",
+    "pubdate": "2026-08-01",
+    "pubtypes": [
+      "Journal Article",
+      "Clinical Trial, Phase I",
+      "Multicenter Study"
+    ],
+    "authors": "Lauren Averett Byers, Byoung Chul Cho, Alissa J Cooper, et al.",
+    "keywords": [
+      "Humans",
+      "Small Cell Lung Carcinoma",
+      "Female",
+      "Aged",
+      "Male",
+      "Immunoconjugates",
+      "Middle Aged",
+      "Lung Neoplasms",
+      "Adult",
+      "Topoisomerase I Inhibitors",
+      "Aged, 80 and over"
+    ],
+    "doi": "10.1038/s41591-026-04452-0",
+    "source": "fallback",
+    "journal_if": 58.7,
+    "journal_quartile": "Q1",
+    "highlight_score": 10
+  }
+]
