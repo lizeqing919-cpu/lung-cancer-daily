@@ -1,0 +1,94 @@
+[
+  {
+    "pmid": "41825863",
+    "title": "Randomised trial of delivering co-located, personalised stop-smoking support within lung cancer screening: the YESS study.",
+    "abstract": "INTRODUCTION: Lung cancer screening (LCS) with low-dose CT offers a teachable moment for smoking cessation (SC), but the optimal way to implement SC within LCS is unclear. The Yorkshire Enhanced Stop Smoking (YESS) study assessed the efficacy of a personalised stop-smoking intervention delivered alongside LCS. METHODS: Opt-out, co-located SC support, comprising nicotine replacement therapy/e-cigarettes/pharmacotherapy and behavioural support, was offered to all individuals who currently smoked attending for LCS. Four weeks later, participants were offered recruitment to a randomised controlled trial of continued standard best practice (SBP) versus a personalised SC support package, including a booklet containing CT images of participants' own heart and lungs, annotated where appropriate to highlight emphysema or coronary artery calcification and scripted communication delivered by a smoking cessation practitioner. RESULTS: 1003 people were recruited; 52.5% were allocated to the intervention group. Validated 7-day point prevalent (PP) abstinence rates were 33.6% and 30.0% in the intervention versus SBP groups, respectively (OR 1.17, 95% CI 0.90 to 1.54) at 3 months and 29.2% versus 28.6% (OR 1.03, 95% CI 0.78 to 1.36) at 12 months post-screening. Subgroup analyses indicated a significant increase in 7-day PP abstinence at 3 months with the intervention in women (33.9% intervention, 23.1% SBP, OR 1.70, 95% CI 1.15 to 2.53) but not in men (33.3% intervention, 37.8% SBP, OR 0.82, 95% CI 0.57 to 1.19). CONCLUSION: Around one-third of study participants were abstinent from smoking at 3 months post-screening irrespective of study arm, but adding the personalised intervention did not increase quit rates. Further research is needed exploring possible sex differences in efficacy of personalised SC support. The high overall quit rate reinforces the value of SC support delivered alongside LCS. TRIAL REGISTRATION NUMBER: ISRCRN 63825779 and NCT03750110.",
+    "journal": "Thorax",
+    "pubdate": "2026-08-14",
+    "pubtypes": [
+      "Journal Article",
+      "Randomized Controlled Trial"
+    ],
+    "authors": "Rachael L Murray, David Baldwin, Kate Brain, et al.",
+    "keywords": [
+      "Humans",
+      "Smoking Cessation",
+      "Lung Neoplasms",
+      "Female",
+      "Male",
+      "Nicotine Replacement Therapy",
+      "Early Detection of Cancer",
+      "Middle Aged",
+      "Aged",
+      "Tomography, X-Ray Computed",
+      "Lung Cancer",
+      "Smoking cessation"
+    ],
+    "doi": "10.1136/thorax-2025-224217",
+    "source": "core",
+    "journal_if": 10.0,
+    "journal_quartile": "Q1",
+    "highlight_score": 100,
+    "chinese_conclusion": "肺癌筛查中提供个性化戒烟支持并未提高戒烟率，但整体约三分之一参与者戒烟，提示筛查联合戒烟支持有价值。",
+    "pathology": "NSCLC",
+    "treatment_tags": [
+      "supportive care",
+      "screening"
+    ],
+    "chinese_keywords": [
+      "戒烟",
+      "肺癌筛查",
+      "低剂量CT",
+      "尼古丁替代疗法",
+      "行为支持"
+    ]
+  },
+  {
+    "pmid": "42601174",
+    "title": "DNA hypomethylation identifying clinical benefit subgroup of small-cell lung cancer: multi-omics analysis of a phase II trial with durvalumab plus olaparib as maintenance therapy.",
+    "abstract": "BACKGROUND: Long-term survival of extensive-stage small-cell lung cancer (ES-SCLC) remains rare, with most patients experiencing disease progression during maintenance therapy. Poly (ADP-ribose) polymerase (PARP) inhibitors have the potential to confer antitumor activity, modify tumor immunogenicity, and sensitize tumors to anti-programmed cell death protein 1/programmed death-ligand 1 therapy. We conducted this phase 2 trial to investigate the efficacy and safety of durvalumab plus olaparib as maintenance therapy in patients with ES-SCLC. METHODS: This was a multicenter, single-arm, phase II trial that enrolled 60 patients with previously untreated ES-SCLC (NCT05245994). Patients received durvalumab (1,500 mg) combined with platinum-etoposide chemotherapy intravenously every 21 days for up to four cycles, followed by maintenance therapy with durvalumab (1,500 mg every 28 days) and oral olaparib (300 mg two times a day) until disease progression or unacceptable toxicity. Multi-omics analyses were performed to characterize molecular subtypes associated with clinical outcomes. RESULTS: The combination regimen demonstrated promising efficacy, with an alive and progression-free at 12 months rate of 25.0%, an objective response rate of 73.3%, a median progression-free survival of 6.8 months, and a median overall survival of 14.6 months. Multi-omics profiling identified a hypomethylation subgroup (cluster 1) that was associated with significantly improved survival outcomes. Further analysis revealed that this subtype exhibited enhanced antigen presentation machinery, a favorable cytokine profile, and suppression of DNA damage repair (DDR) pathways, potentially through elevated promoter methylation and transcriptional silencing of specific DDR genes, which together were associated with the favorable outcomes. CONCLUSIONS: This study presents the first prospective evidence supporting durvalumab plus olaparib as maintenance therapy in ES-SCLC. Multi-omics analysis identifies that DNA hypomethylation status may enrich for patients who benefit from PARP inhibition and immunotherapy. TRIAL REGISTRATION NUMBER: NCT05245994.",
+    "journal": "J Immunother Cancer",
+    "pubdate": "2026-08-14",
+    "pubtypes": [
+      "Journal Article",
+      "Clinical Trial, Phase II",
+      "Multicenter Study"
+    ],
+    "authors": "Yuanyuan Zhao, Qiming Wang, Bijing Xiao, et al.",
+    "keywords": [
+      "Humans",
+      "Piperazines",
+      "Antibodies, Monoclonal",
+      "Phthalazines",
+      "Female",
+      "Lung Neoplasms",
+      "DNA Methylation",
+      "Male",
+      "Antineoplastic Combined Chemotherapy Protocols",
+      "Small Cell Lung Carcinoma",
+      "Aged",
+      "Middle Aged",
+      "Multiomics",
+      "Maintenance Chemotherapy",
+      "Adult"
+    ],
+    "doi": "",
+    "source": "core",
+    "journal_if": 10.3,
+    "journal_quartile": "Q1",
+    "highlight_score": 55,
+    "chinese_conclusion": "广泛期小细胞肺癌维持治疗使用度伐利尤单抗联合奥拉帕利显示出临床获益，DNA低甲基化状态可能预测获益人群。",
+    "pathology": "SCLC",
+    "treatment_tags": [
+      "immunotherapy",
+      "targeted therapy"
+    ],
+    "chinese_keywords": [
+      "小细胞肺癌",
+      "度伐利尤单抗",
+      "奥拉帕利",
+      "DNA甲基化",
+      "维持治疗"
+    ]
+  }
+]
