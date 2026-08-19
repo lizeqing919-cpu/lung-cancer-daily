@@ -1,0 +1,146 @@
+[
+  {
+    "pmid": "42212913",
+    "title": "First-Line Sunvozertinib in NSCLC with ",
+    "abstract": "BACKGROUND: Sunvozertinib received accelerated approval for use in later lines of therapy for patients with advanced non-small-cell lung cancer (NSCLC) with epidermal growth factor receptor (EGFR) exon 20 insertion mutations. Data are needed on the efficacy and safety of sunvozertinib as a first-line treatment for NSCLC. METHODS: In this phase 3, international trial, we randomly assigned, in a 1:1 ratio, patients with advanced nonsquamous NSCLC with EGFR exon 20 insertions to receive sunvozertinib or chemotherapy (carboplatin-pemetrexed). The primary end point was progression-free survival as assessed by blinded independent central review. Crossover to the sunvozertinib group was allowed after disease progression was confirmed. Secondary end points included overall survival, investigator-assessed progression-free survival, objective response (complete or partial response), change in tumor size, and duration of response. RESULTS: A total of 324 patients were randomly assigned to receive sunvozertinib (163 patients) or chemotherapy (161 patients). Treatment with sunvozertinib led to significantly longer median progression-free survival than chemotherapy (10.3 vs. 7.5 months; hazard ratio for disease progression or death, 0.65; 95% confidence interval, 0.50 to 0.85; P<0.001). At 12 months, progression-free survival was reported in 46.1% of the patients in the sunvozertinib group and in 26.7% of those in the chemotherapy group; the data for overall survival were immature (38.9% maturity). The percentage of patients with an objective response was 58.9% in the sunvozertinib group and 31.1% in the chemotherapy group; the median best percentage change in tumor size was -42.1% and -24.7% respectively, and the median duration of response was 11.2 and 7.1 months. Grade 3 or higher adverse events were reported in 75.5% of the patients in the sunvozertinib group and in 56.7% of those in the chemotherapy group. In the sunvozertinib group, the most common adverse events of grade 3 or higher included increased serum creatine kinase levels, diarrhea, and anemia. No deaths were attributed to adverse events considered by the investigators to be related to sunvozertinib. CONCLUSIONS: The efficacy of sunvozertinib was superior to that of chemotherapy as first-line treatment for advanced NSCLC with EGFR exon 20 insertions. (Funded by Dizal Pharmaceuticals; WU-KONG28 ClinicalTrials.gov number, NCT05668988.).",
+    "journal": "N Engl J Med",
+    "pubdate": "2026-08-20",
+    "pubtypes": [
+      "Journal Article",
+      "Randomized Controlled Trial",
+      "Clinical Trial, Phase III",
+      "Multicenter Study",
+      "Comparative Study"
+    ],
+    "authors": "Caicun Zhou, Laurent Greillier, Geoffrey Liu, et al.",
+    "keywords": [
+      "Humans",
+      "Lung Neoplasms",
+      "Carcinoma, Non-Small-Cell Lung",
+      "ErbB Receptors",
+      "Exons",
+      "Female",
+      "Aged",
+      "Middle Aged",
+      "Male",
+      "Progression-Free Survival",
+      "Mutagenesis, Insertional",
+      "Adult",
+      "Antineoplastic Combined Chemotherapy Protocols",
+      "Carboplatin",
+      "Pemetrexed"
+    ],
+    "doi": "10.1056/NEJMoa2604461",
+    "source": "core",
+    "journal_if": 96.2,
+    "journal_quartile": "Q1",
+    "highlight_score": 140,
+    "chinese_conclusion": "在EGFR外显子20插入突变晚期非小细胞肺癌的一线治疗中，舒沃替尼较化疗显著延长无进展生存期（中位10.3 vs 7.5个月），客观缓解率更高（58.9% vs 31.1%），但≥3级不良事件发生率也更高。",
+    "pathology": "NSCLC",
+    "treatment_tags": [
+      "targeted therapy",
+      "chemotherapy"
+    ],
+    "chinese_keywords": [
+      "非小细胞肺癌",
+      "EGFR外显子20插入突变",
+      "舒沃替尼",
+      "一线治疗",
+      "无进展生存期"
+    ]
+  },
+  {
+    "pmid": "42520806",
+    "title": "Real-time AR navigation with dynamic tracking for millimeter-level pulmonary nodule localization: A randomized clinical trial.",
+    "abstract": "Precise localization of small pulmonary nodules is crucial for surgery. Augmented reality (AR) navigation provides real-time guidance, potentially improving localization efficiency. This open-label randomized controlled trial compares AR-guided localization with conventional computed tomography (CT)-guided localization in 168 participants with peripheral pulmonary nodules ≤2 cm. The primary outcome is localization accuracy; secondary outcomes are success rate, procedural time, radiation dose, insertion attempts, and complications. In the intention-to-treat population, the AR group shows significantly lower localization error than the CT group (4.50 ± 3.07 vs. 6.50 ± 3.54 mm), with shorter procedural time, lower radiation exposure, and fewer needle adjustments. Both groups show high success rates and similar complication rates, with no severe adverse events. AR-guided localization provides noninferior accuracy while reducing radiation exposure and procedural time, supporting an efficient alternative to CT guidance. The trial is registered at www.clinicaltrials.gov (NCT06335563).",
+    "journal": "Cell Rep Med",
+    "pubdate": "2026-08-18",
+    "pubtypes": [
+      "Journal Article",
+      "Randomized Controlled Trial"
+    ],
+    "authors": "Shenghao Huang, Long Wang, Xishi Wang, et al.",
+    "keywords": [
+      "Humans",
+      "Female",
+      "Tomography, X-Ray Computed",
+      "Male",
+      "Lung Neoplasms",
+      "Augmented Reality",
+      "Middle Aged",
+      "Solitary Pulmonary Nodule",
+      "Aged",
+      "Surgery, Computer-Assisted",
+      "CT-guided localization",
+      "augmented reality",
+      "pulmonary nodule localization",
+      "real-time navigation",
+      "thoracic surgery"
+    ],
+    "doi": "10.1016/j.xcrm.2026.102942",
+    "source": "core",
+    "journal_if": 11.7,
+    "journal_quartile": "Q1",
+    "highlight_score": 50,
+    "chinese_conclusion": "实时增强现实导航与动态跟踪用于肺小结节定位，相比常规CT引导，定位误差更小（4.50 vs 6.50 mm），手术时间更短，辐射剂量更低，且成功率相似，并发症率无差异。",
+    "pathology": "Other",
+    "treatment_tags": [
+      "surgery"
+    ],
+    "chinese_keywords": [
+      "肺结节定位",
+      "增强现实导航",
+      "计算机断层扫描",
+      "手术",
+      "随机对照试验"
+    ]
+  },
+  {
+    "pmid": "42486095",
+    "title": "Efficacy and biomarker exploration of anlotinib plus penpulimab in second-line ES-SCLC: Results from the phase 2 ALTER-L041 trial.",
+    "abstract": "Treatment options are limited for patients with extensive-stage small cell lung cancer (ES-SCLC) after platinum-based therapy. This open-label, single-arm, multicenter phase 2 trial evaluates penpulimab plus anlotinib in 65 patients with first-line platinum-resistant ES-SCLC. The confirmed objective response rate by blinded independent central review is 41.5% (95% confidence interval [CI]: 29.2%-53.8%), and the disease control rate is 75.4% (95% CI: 64.6%-86.1%). Median progression-free survival and overall survival are 4.4 (95% CI: 3.5-5.3) and 10.5 (95% CI: 4.1-17.2) months, respectively. Grade ≥3 treatment-related adverse events occurred in 23.1% of patients, with no new safety signals. Exploratory circulating tumor DNA (ctDNA) analysis suggests that lower baseline maximum somatic allele frequency is associated with improved survival, and decreased T cell receptor clonal diversity is observed at disease progression. Penpulimab plus anlotinib shows promising antitumor activity with a manageable safety profile and may represent a potential second-line treatment option for platinum-resistant ES-SCLC. This study was registered at ClinicalTrials.gov (NCT05001971).",
+    "journal": "Cell Rep Med",
+    "pubdate": "2026-08-18",
+    "pubtypes": [
+      "Journal Article",
+      "Clinical Trial, Phase II",
+      "Multicenter Study"
+    ],
+    "authors": "Liang Zeng, Fang Tian, Cunji Wang, et al.",
+    "keywords": [
+      "Humans",
+      "Quinolines",
+      "Indoles",
+      "Female",
+      "Small Cell Lung Carcinoma",
+      "Lung Neoplasms",
+      "Male",
+      "Biomarkers, Tumor",
+      "Aged",
+      "Middle Aged",
+      "Antineoplastic Combined Chemotherapy Protocols",
+      "Adult",
+      "Treatment Outcome",
+      "Antibodies, Monoclonal, Humanized",
+      "PD-1 inhibitor"
+    ],
+    "doi": "10.1016/j.xcrm.2026.102931",
+    "source": "core",
+    "journal_if": 11.7,
+    "journal_quartile": "Q1",
+    "highlight_score": 25,
+    "chinese_conclusion": "在铂类耐药的广泛期小细胞肺癌二线治疗中，安罗替尼联合派安普利单抗的客观缓解率为41.5%，中位无进展生存期4.4个月，中位总生存期10.5个月，安全性可控，可能成为有效治疗选择。",
+    "pathology": "SCLC",
+    "treatment_tags": [
+      "targeted therapy",
+      "immunotherapy"
+    ],
+    "chinese_keywords": [
+      "广泛期小细胞肺癌",
+      "安罗替尼",
+      "派安普利单抗",
+      "二线治疗",
+      "循环肿瘤DNA"
+    ]
+  }
+]
