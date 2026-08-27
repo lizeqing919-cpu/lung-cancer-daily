@@ -1,0 +1,81 @@
+[
+  {
+    "pmid": "42641639",
+    "title": "Crizotinib versus observation or placebo for surgically resected early-stage ALK-positive non-small-cell lung cancer (Eastern Cooperative Oncology Group-American College of Radiology Imaging Network E4512): a phase 3 trial.",
+    "abstract": "BACKGROUND: Crizotinib is an established first-generation anaplastic lymphoma kinase (ALK) inhibitor approved for the treatment of advanced ALK-positive non-small-cell lung cancer (NSCLC). E4512 aimed to evaluate the effect of adjuvant crizotinib on disease-free survival (DFS) in patients with resected, early-stage ALK-positive NSCLC. METHODS: In this randomised, controlled, phase 3 trial conducted in 1618 sites across the USA, Guam, and Puerto Rico, patients were randomly assigned 1:1 by computer-generated sequence to receive crizotinib 250 mg orally twice daily or observation (changed from initial double-blind placebo) for up 2 years. Eligible patients had resected NSCLC tumours that were 4 cm or larger in diameter or lymph node-positive, negative surgical margins, no neoadjuvant therapy, ALK positivity by local or central testing, and an Eastern Cooperative Oncology Group performance status of 0-1. Adjuvant chemotherapy was allowed but not required. Stratification factors were stage, previous radiation therapy, and sex. The primary endpoint was disease-free survival (DFS) in the centrally tested ALK-positive intention-to-treat population and presented as hazard ratio with 90% and 95% CI. The trial was registered at ClinicalTrials.gov (NCT02201992) and is completed. Safety was assessed in all patients whose tumours tested ALK-positive and who received the study drug. FINDINGS: Between Aug 18, 2014, and May 10, 2024, 166 patients (of 168 planned) were enrolled (85 to crizotinib and 81 to observation). Accrual was stopped when the US Food and Drug Administration approved adjuvant alectinib for resected ALK-positive NSCLC. Overall, 153 (92%) patients had centrally confirmed ALK-positive tumours. Among these 153 individuals, 99 (65%) were female, 54 (35%) were male, and 121 (79%) were White. After a median follow-up of 65·7 months (IQR 37·5-85·6), median DFS was 74·6 (95% CI 71·2 to not assessable) months in the crizotinib group and 106·2 (67·8 to NA) months in the observation group (HR 1·08 [90% CI 0·67-1·73; 95% CI 0·61-1·90; p=0·80). In the crizotinib group, 46 (58%) patients had grade 3 or higher adverse events of any attribution (most commonly diarrhoea, in eight [10%] patients; oedema, in four [5%] patients; and hypertension, in four [5%] patients), including one death that was not deemed treatment-related. 21 (27%) patients had serious adverse events, most commonly dyspnoea (three [4%] patients), abdominal pain (two [3%] patients), thromboembolic event (two [3%] patients), diarrhoea (two [3%] patients), dehydration (two [3%] patients), and hypertension (two [3%] patients). INTERPRETATION: Adjuvant crizotinib does not prolong DFS in patients with surgically resected ALK-positive NSCLC. These findings suggest that crizotinib should not be recommended as an adjuvant therapy for patients with resected ALK-positive NSCLC. FUNDING: National Cancer Institute of the US National Institutes of Health.",
+    "journal": "Lancet Respir Med",
+    "pubdate": "2026-08-25",
+    "pubtypes": [
+      "Journal Article"
+    ],
+    "authors": "David E Gerber, Yating Wang, Corey J Langer, et al.",
+    "keywords": [],
+    "doi": "",
+    "source": "core",
+    "journal_if": 76.2,
+    "journal_quartile": "Q1",
+    "highlight_score": 100,
+    "chinese_conclusion": "辅助克唑替尼不能延长已切除的ALK阳性非小细胞肺癌患者的无病生存期，因此不推荐用于此类患者的辅助治疗。",
+    "pathology": "NSCLC",
+    "treatment_tags": [
+      "targeted therapy",
+      "surgery"
+    ],
+    "chinese_keywords": [
+      "克唑替尼",
+      "ALK阳性",
+      "辅助治疗",
+      "无病生存期",
+      "非小细胞肺癌"
+    ]
+  },
+  {
+    "pmid": "42648750",
+    "title": "AdvanTIG-301: a phase III study of ociperlimab plus tislelizumab and concurrent chemoradiotherapy in stage III unresectable non-small cell lung cancer.",
+    "abstract": "BACKGROUND: Patients with unresectable stage III non-small cell lung cancer (NSCLC) have an unmet need for new therapies that improve survival. This phase III trial investigated the safety and efficacy of concurrent ociperlimab and tislelizumab plus concurrent chemoradiotherapy (cCRT) in treatment-naïve patients with stage III NSCLC. METHODS: In this phase III, multicenter, randomized, multiarm, open-label trial, patients with unresectable stage III NSCLC received concurrent ociperlimab plus tislelizumab and cCRT, followed by ociperlimab plus tislelizumab (arm A), tislelizumab and cCRT, followed by tislelizumab (arm B), or cCRT, followed by durvalumab (arm C) (NCT04866017). Objectives were to compare progression-free survival (PFS), overall survival (OS), objective response rate (ORR), duration of response, disease control rate, clinical benefit rate, time to death or distant metastasis (TTDM), and safety and tolerability for arms A versus C, B versus C, and A versus B. RESULTS: 63 patients were randomized to arms A (N=22), B (N=19), and C (N=22) prior to early trial termination. In A, B, and C, respectively, 95.5% (21/22), 84.2% (16/19), and 95.5% (21/22) were current or former smokers, and 68.2% (15/22), 73.7% (14/19), and 68.2% (15/22) had PD-L1 expression in tumor cells of ≥1%. Median PFS (95% CI) was not reached (NR) (6.3-not estimable (NE)) in A, 15.0 months (7.4 to NE) in B, and 10.4 months (5.7 to NE) in C. Median OS and TTDM were NR in any arm. ORR (95% CI) was 68.2% (45.1%-86.1%) in A, 68.4% (43.4%-87.4%) in B, and 59.1% (36.4%-79.3%) in C; all responses were partial responses. Treatment-emergent adverse events (TEAEs) occurred in all patients; in arms A, B, and C, respectively, pneumonitis occurred in 18.2% (4/22), 5.6% (1/18), and 9.1% (2/22) of patients, and interstitial lung disease occurred in 13.6% (3/22), 11.1% (2/18), and 0% of patients, of which the majority of events for each were grade 1/2. Grade ≥3 treatment-related TEAEs occurred in 68.2% (15/22), 66.7% (12/18), and 68.2% (15/22) of patients in arms A, B, and C, respectively. CONCLUSIONS: There was a trend toward improved efficacy when adding tislelizumab with or without ociperlimab to cCRT followed by tislelizumab with or without ociperlimab compared with cCRT followed by durvalumab; however, efficacy data were for descriptive purposes only. No unexpected or new safety signals were identified.",
+    "journal": "J Immunother Cancer",
+    "pubdate": "2026-08-26",
+    "pubtypes": [
+      "Journal Article",
+      "Clinical Trial, Phase III",
+      "Randomized Controlled Trial",
+      "Multicenter Study"
+    ],
+    "authors": "Ligang Xing, Terufumi Kato, Antonin Levy, et al.",
+    "keywords": [
+      "Humans",
+      "Carcinoma, Non-Small-Cell Lung",
+      "Lung Neoplasms",
+      "Chemoradiotherapy",
+      "Female",
+      "Neoplasm Staging",
+      "Male",
+      "Aged",
+      "Middle Aged",
+      "Antineoplastic Combined Chemotherapy Protocols",
+      "Antibodies, Monoclonal, Humanized",
+      "Adult",
+      "Immune Checkpoint Inhibitor",
+      "Lung Cancer"
+    ],
+    "doi": "",
+    "source": "core",
+    "journal_if": 10.3,
+    "journal_quartile": "Q1",
+    "highlight_score": 80,
+    "chinese_conclusion": "在不可切除的III期非小细胞肺癌患者中，与同步放化疗后度伐利尤单抗相比，加入替雷利珠单抗（联合或不联合欧西珀利单抗）显示出改善疗效的趋势，但仅为描述性数据，且未发现新的安全性信号。",
+    "pathology": "NSCLC",
+    "treatment_tags": [
+      "immunotherapy",
+      "radiotherapy",
+      "chemotherapy"
+    ],
+    "chinese_keywords": [
+      "不可切除III期",
+      "非小细胞肺癌",
+      "免疫治疗",
+      "同步放化疗",
+      "替雷利珠单抗"
+    ]
+  }
+]
