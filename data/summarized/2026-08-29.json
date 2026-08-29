@@ -1,0 +1,52 @@
+[
+  {
+    "pmid": "42660909",
+    "title": "Three-year adjuvant treatment of icotinib in stage II-IIIA EGFR-mutated lung adenocarcinoma (ICWIP): a randomized, double-blind, placebo-controlled phase 3 trial.",
+    "abstract": "This multi-center, double-blind, placebo-controlled, randomized phase 3 trial (ICWIP) assessed the efficacy and safety of 3-year icotinib adjuvant treatment versus placebo in patients with completely resected stage II-IIIA epidermal growth factor receptor (EGFR) mutated lung adenocarcinoma who had completed four cycles of adjuvant chemotherapy (NCT02125240). Eligible patients were randomly assigned 1:1 to receive either icotinib (125 mg, three times daily) or placebo for 3 years. The primary endpoint was independent review committee (IRC)-assessed disease-free survival (DFS). Between June 3, 2014, and November 15, 2018, 66 patients received icotinib, and 69 patients received placebo. At the data cutoff date of October 31, 2024, the median follow-up for DFS was 78.3 months (interquartile range [IQR] 71.3-95.6) for the icotinib group and 69.9 months (IQR 35.2-96.4) for the placebo group. IRC-assessed median DFS was 48.2 months (95% confidence interval [CI] 33.0-63.4) in the icotinib group and 20.0 months (95% CI 14.7-32.9) in the placebo group (hazard ratio [HR] 0.54, 95% CI 0.34-0.87; p = 0.011). The 3-year DFS rates were 58.5% (95% CI 39.9-73.1%) for the icotinib group and 36.1% (95% CI 19.9-52.6%) for the placebo group, and the 5-year DFS rates were 39.4% (95% CI 22.2-56.2%) for the icotinib group and 25.8% (95% CI 8.7-47.1%) for the placebo group. The median overall survival (OS) was not reached in either group (HR 0.84, 95% CI 0.39-1.81; p = 0.65). The estimated 5-year OS rates were 88.6% (95% CI 57.9-97.5%) for the icotinib group and 83.4% (95% CI 57.7-94.2%) for the placebo group. Treatment-related adverse events occurred in 48.5% (32/66) and 23.2% (16/69) of the patients in the icotinib group and the placebo group, respectively. Three-year adjuvant treatment with icotinib significantly improved DFS compared to placebo in patients with completely resected stage II-IIIA EGFR-mutated lung adenocarcinoma who had completed four cycles of adjuvant chemotherapy, with a manageable safety profile.",
+    "journal": "Signal Transduct Target Ther",
+    "pubdate": "2026-08-28",
+    "pubtypes": [
+      "Journal Article",
+      "Randomized Controlled Trial",
+      "Clinical Trial, Phase III",
+      "Multicenter Study"
+    ],
+    "authors": "Yu-Tao Liu, Le Tang, Xiao-Hong Han, et al.",
+    "keywords": [
+      "Humans",
+      "Crown Ethers",
+      "Quinazolines",
+      "ErbB Receptors",
+      "Adenocarcinoma of Lung",
+      "Female",
+      "Middle Aged",
+      "Male",
+      "Lung Neoplasms",
+      "Double-Blind Method",
+      "Aged",
+      "Mutation",
+      "Chemotherapy, Adjuvant",
+      "Disease-Free Survival",
+      "Neoplasm Staging"
+    ],
+    "doi": "",
+    "source": "core",
+    "journal_if": 40.8,
+    "journal_quartile": "Q1",
+    "highlight_score": 50,
+    "chinese_conclusion": "在完全切除的II-IIIA期EGFR突变肺腺癌患者中，完成4周期辅助化疗后接受3年埃克替尼辅助治疗相比安慰剂显著延长无病生存期（中位DFS 48.2个月 vs 20.0个月，HR 0.54），安全性可管理。",
+    "pathology": "NSCLC",
+    "treatment_tags": [
+      "targeted therapy",
+      "surgery",
+      "chemotherapy"
+    ],
+    "chinese_keywords": [
+      "埃克替尼",
+      "EGFR突变",
+      "肺腺癌",
+      "辅助治疗",
+      "无病生存期"
+    ]
+  }
+]
