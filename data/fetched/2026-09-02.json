@@ -1,0 +1,96 @@
+[
+  {
+    "pmid": "42252705",
+    "title": "Final Analysis of Neoadjuvant Sintilimab Plus Chemotherapy in IB-IIIA Non-Small-Cell Lung Cancer: Phase 2 neoSCORE Trial.",
+    "abstract": "The optimal number of neoadjuvant chemoimmunotherapy cycles for resectable non-small cell lung cancer (NSCLC) remains uncertain. The randomized phase 2 neoSCORE trial (NCT04459611) conducted a comprehensive final analysis, comparing the outcomes of two versus three cycles of neoadjuvant sintilimab combined with platinum-doublet chemotherapy in 60 stage IB-IIIA NSCLC patients, among whom 55 underwent surgery. After a median follow-up period of 56.9 months, no statistically significant differences in disease-free survival (DFS) or overall survival (OS) were observed between the two-cycle and three-cycle groups. Specifically, the 4-year DFS rates stood at 53.8% and 55.2% while the 4-year OS rates were 76.9% and 75.9%, respectively. Major pathological response (MPR) was strongly associated with improved DFS (HR = 0.26, 95% CI: 0.08-0.85, p = 0.026) and OS (HR = 0.15, 95% CI: 0.03-0.81, p = 0.028) on multivariable Cox analysis. Exploratory analysis revealed that maintenance immunotherapy was associated with longer DFS among patients who achieved MPR, whereas no clear DFS or OS advantage was observed among patients without MPR. In summary, no superiority of three cycles over two cycles was demonstrated in this study. MPR stands out as an independent prognostic indicator, and maintenance immunotherapy seems to be associated with long-term prognosis in patients who achieved MPR, necessitating further prospective validation. Trial Registration: ClinicalTrials.gov identifier: NCT04459611.",
+    "journal": "Cancer Sci",
+    "pubdate": "2026-09-01",
+    "pubtypes": [
+      "Journal Article",
+      "Clinical Trial, Phase II",
+      "Randomized Controlled Trial"
+    ],
+    "authors": "Miner Shao, Jie Yao, Lufeng Zhao, et al.",
+    "keywords": [
+      "Humans",
+      "Carcinoma, Non-Small-Cell Lung",
+      "Neoadjuvant Therapy",
+      "Lung Neoplasms",
+      "Antineoplastic Combined Chemotherapy Protocols",
+      "Female",
+      "Male",
+      "Antibodies, Monoclonal, Humanized",
+      "Middle Aged",
+      "Aged",
+      "Disease-Free Survival",
+      "Neoplasm Staging",
+      "Adult",
+      "Treatment Outcome",
+      "disease‐free survival"
+    ],
+    "doi": "10.1111/cas.70442",
+    "source": "core",
+    "journal_if": 4.5,
+    "journal_quartile": "Q2",
+    "highlight_score": 80
+  },
+  {
+    "pmid": "41790029",
+    "title": "Genomic Profiling of Epidermal Growth Factor Receptor Mutation-Positive Non-Small Cell Lung Cancer after Progression on First-line Osimertinib: Phase II ORCHARD Study.",
+    "abstract": "PURPOSE: Osimertinib is the standard of care for first-line treatment for epidermal growth factor receptor-mutated (EGFRm) non-small cell lung cancer (NSCLC). Understanding the tumor molecular profile of patients following progression on osimertinib could help inform optimal second-line treatment. PATIENTS AND METHODS: ORCHARD (NCT03944772), a phase II biomarker-directed study, enrolled patients with EGFRm NSCLC who progressed on first-line osimertinib to receive treatment based on their tumor molecular profile after progression. The study comprised three groups into which patients were allocated based on the molecular profile of their tumor, determined via next-generation sequencing (NGS) of a tumor biopsy. We report results from a prespecified, exploratory analysis of baseline tumor tissue and plasma samples to evaluate mechanisms of resistance to first-line osimertinib identified by tissue and plasma NGS. Agreement between tissue and plasma NGS data was also assessed. RESULTS: This study provided a comprehensive dataset exploring tissue (n = 400) and plasma (n = 191) genomics, enabling characterization of the histogenomic landscape after first-line osimertinib treatment. TP53 and MDM2/4 alterations were mutually exclusive and occurred in 86% of tumors. When combining tissue and plasma genomics, resistance alterations were detected in 87% of samples, with multiple resistance alterations in 46%. Alterations in the PI3K pathway, SOX2, and MYC were frequently detected in histologically transformed tumors. Additionally, differential patterns of co-occurring EGFR mutations in tumors with L858R versus exon 19 deletion were observed. CONCLUSIONS: This comprehensive analysis highlights potential heterogeneous resistance to first-line osimertinib treatment, providing a rationale for combining treatments with broad activity to improve patient outcomes. See related commentary by Gupta et al., p. 3718.",
+    "journal": "Clin Cancer Res",
+    "pubdate": "2026-09-01",
+    "pubtypes": [
+      "Journal Article",
+      "Clinical Trial, Phase II"
+    ],
+    "authors": "Helena A Yu, Kwan Ho Tang, Aleksandra Markovets, et al.",
+    "keywords": [
+      "Humans",
+      "Indoles",
+      "Acrylamides",
+      "Carcinoma, Non-Small-Cell Lung",
+      "Aniline Compounds",
+      "Pyrimidines",
+      "Mutation",
+      "ErbB Receptors",
+      "Lung Neoplasms",
+      "Female",
+      "Male",
+      "Aged",
+      "High-Throughput Nucleotide Sequencing",
+      "Biomarkers, Tumor",
+      "Middle Aged"
+    ],
+    "doi": "10.1158/1078-0432.CCR-25-4540",
+    "source": "core",
+    "journal_if": 11.5,
+    "journal_quartile": "Q1",
+    "highlight_score": 75
+  },
+  {
+    "pmid": "42673682",
+    "title": "Utility of artificial intelligence for identifying thoracic lymphadenopathy in lung cancer.",
+    "abstract": "PURPOSE: To evaluate the performance of an artificial intelligence (AI) system for detecting, classifying, and measuring AI-detected thoracic lymph node candidates on CT and compare AI detection with routine radiology reporting and histopathologic findings. METHODS: In this HIPAA-compliant, IRB-approved multicenter study, 169 patients with operable thoracic malignancies underwent invasive mediastinal or hilar lymph node sampling and chest CT within 6 weeks (mean, 16 days ± 10). Patients were identified using a query of the EPIC database. CT images were processed using a commercially available AI that detected lymph nodes, measured bidimensional diameters, and assigned nodal stations. An expert thoracic radiologist reviewed all AI-generated candidates, with discrepancies resolved by a second radiologist to establish the reference standard. Performance metrics were calculated using a one-vs-rest framework. Radiology reports and pathology results were reviewed for lymph node detection and classification. RESULTS: A total of 3,520 lymph nodal candidates. The AI achieved sensitivity of 96.1 %, specificity of 99.7 %, positive predictive value of 95.8 %, negative predictive value of 99.7 %, and accuracy of 99.5 % for station classification. Overall, 3,374 nodes (95.9 %) were correctly classified; 138 (3.9 %) were misclassified and 8 (0.2 %) were false-positive non-lymph-node detections. Lower performance was observed in stations 8 (sensitivity, 81.6 %) and 9 (positive predictive value, 81.5 %). After excluding non-lymph-node findings, 3,512 lymph nodes were analyzed; 3,203 (91.2 %) measured less than 10 mm. AI-radiologist agreement for size categorization was 100 %. Among 169 biopsied lymph nodes, routine radiology reports documented 36 (21.3 %), whereas AI detected 135 (79.9 %). AI detected 87.6 % of benign and 69.4 % of malignant nodes. CONCLUSION: In this radiologist-adjudicated evaluation of AI-detected thoracic lymph node candidates, AI demonstrated high performance in station classification and measurement. AI also identified a greater proportion of pathologically sampled stations than were documented in routine radiology reports, suggesting a potential future role for AI in supporting systematic lymph node assessment and reporting.",
+    "journal": "Lung Cancer",
+    "pubdate": "2026-08-28",
+    "pubtypes": [
+      "Journal Article"
+    ],
+    "authors": "Muhiddin Dervis, Anushree Burade, Michael Lanuti, et al.",
+    "keywords": [
+      "Artificial intelligence",
+      "Chest CT",
+      "IASLC",
+      "Lung cancer",
+      "Lymph node mapping",
+      "Nodal staging",
+      "Thoracic lymph nodes"
+    ],
+    "doi": "10.1016/j.lungcan.2026.109596",
+    "source": "core",
+    "journal_if": 5.3,
+    "journal_quartile": "Q2",
+    "highlight_score": 60
+  }
+]
