@@ -1,0 +1,37 @@
+[
+  {
+    "pmid": "42684015",
+    "title": "A phase II multi-institutional single arm trial evaluating TG4010 vaccine plus nivolumab in non-small cell lung cancer.",
+    "abstract": "Immune checkpoint inhibitors (ICIs) have transformed non-small cell lung cancer (NSCLC) therapy, but only 25% of patients have durable responses. TG4010, a mucin 1 (MUC1) vaccine, has demonstrated activity in NSCLC. We conducted a multi-institutional study to determine the safety and activity of nivolumab plus TG4010 in ICI naïve NSCLC patients (NCT02823990). The target accrual was 29 evaluable patients. The primary endpoint was the response rate requiring at least 10/29 responders. The study was terminated early due to slow accrual after enrolling 13 patients. The treatment was well tolerated. The most common adverse effects were fatigue (grades 1-3) and injection site reactions (grades 1-2). TG4010+ICI had limited benefit in NSCLC with 1 of 12 (8.3%) evaluable patients responding, 2 with disease control, and 9 progressing on therapy. The median overall survival was 7.23 months. One patient with a HER2 driver mutation (which prognosticates poor ICI response) achieved an ongoing durable complete response. This exceptional responder had significant baseline upregulation of GSEA pathways linked to interferon signaling, which may be critical for generating vaccine directed immune responses. In general, therapy decreased MUC1 expression in tumors and PD-1 on T cells and upregulated pathways of adaptive and innate immune responses within tumors and circulating immune cells. However, TCR sequencing demonstrated no T cell clonal expansion or epitope spreading, which may explain the lack of clinical benefit. TG4010+ICI appears to have limited benefit. Further study is needed to optimize the clinical efficacy, which may include a role in NSCLC with driver mutations or in combination with cytotoxic therapy.",
+    "journal": "Oncoimmunology",
+    "pubdate": "2026-12-31",
+    "pubtypes": [
+      "Journal Article",
+      "Multicenter Study",
+      "Clinical Trial, Phase II"
+    ],
+    "authors": "Charles X Wang, Guillaume Luxardi, Hidetoshi Mori, et al.",
+    "keywords": [
+      "Humans",
+      "Carcinoma, Non-Small-Cell Lung",
+      "Female",
+      "Lung Neoplasms",
+      "Cancer Vaccines",
+      "Nivolumab",
+      "Middle Aged",
+      "Male",
+      "Aged",
+      "Mucin-1",
+      "Adult",
+      "Treatment Outcome",
+      "Antineoplastic Combined Chemotherapy Protocols",
+      "Immune Checkpoint Inhibitors",
+      "Membrane Glycoproteins"
+    ],
+    "doi": "10.1080/2162402X.2026.2695491",
+    "source": "core",
+    "journal_if": 6.4,
+    "journal_quartile": "Q2",
+    "highlight_score": 25
+  }
+]
