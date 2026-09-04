@@ -1,0 +1,54 @@
+[
+  {
+    "pmid": "42685317",
+    "title": "Daraxonrasib for Previously Treated ",
+    "abstract": "BACKGROUND: RAS mutations, as a group, are the most common oncogenic drivers of non-small-cell lung cancer (NSCLC), and they occur in approximately 30% of patients. Whether daraxonrasib (RMC-6236) - an oral RAS(ON) multiselective, tri-complex inhibitor of guanosine triphosphate-bound mutant and wild-type RAS protein isoforms - is safe and effective in patients with RAS-mutant NSCLC is unknown. METHODS: In this phase 1-2, multicenter, dose-escalation and dose-expansion study of daraxonrasib, we enrolled patients with previously treated advanced RAS-mutant NSCLC and administered daraxonrasib in doses of 10 to 400 mg orally once daily in 21-day cycles. The primary end point was safety. Secondary end points included investigator-assessed objective response (complete or partial response) and the duration of response, with response assessed according to Response Evaluation Criteria in Solid Tumors, version 1.1. RESULTS: As of the data-cutoff date of July 21, 2025, a total of 136 patients with NSCLC who had been enrolled and treated with daraxonrasib at doses of 300 mg or less had been evaluated for safety and efficacy. Adverse events of any grade occurring with a dose of 300 mg or less, regardless of attribution, were reported in 99% of the patients, with rash, diarrhea, nausea, vomiting, and mucositis or stomatitis occurring in at least 30% of patients. Adverse events of grade 3 or higher were reported in 54% of the patients, with pneumonia (in 10%), diarrhea (in 9%), rash (in 8%), and anemia (in 5%) occurring in at least 5% of patients; four grade 5 adverse events occurred. The percentage of patients who had an objective response was 31% with daraxonrasib at a dose of 120 mg or less, 34% at doses of 160 to 220 mg, and 37% at a dose of 300 mg. CONCLUSIONS: Among patients with previously treated metastatic RAS-mutant NSCLC receiving daraxonrasib at a dose of 300 mg or less daily, 54% had adverse events of grade 3 or higher, and antitumor activity was reported in more than 30%. (Funded by Revolution Medicines; RMC-6236-001 ClinicalTrials.gov number, NCT05379985.).",
+    "journal": "N Engl J Med",
+    "pubdate": "2026-09-03",
+    "pubtypes": [
+      "Journal Article",
+      "Multicenter Study",
+      "Clinical Trial, Phase I"
+    ],
+    "authors": "Kathryn C Arbour, Salman Punekar, Jia Luo, et al.",
+    "keywords": [
+      "Adult",
+      "Aged",
+      "Aged, 80 and over",
+      "Female",
+      "Humans",
+      "Male",
+      "Middle Aged",
+      "Antineoplastic Agents",
+      "Carcinoma, Non-Small-Cell Lung",
+      "Dose-Response Relationship, Drug",
+      "Lung Neoplasms",
+      "Mutation",
+      "Piperazines",
+      "Proto-Oncogene Proteins p21(ras)",
+      "Drug Administration Schedule"
+    ],
+    "doi": "10.1056/NEJMoa2504059",
+    "source": "core",
+    "journal_if": 96.2,
+    "journal_quartile": "Q1",
+    "highlight_score": 100
+  },
+  {
+    "pmid": "42686855",
+    "title": "Triglyceride enhancs NSCLC metastasis via lipid β-oxidation by RhoA-driven cytoskeletal remodeling in ECM-constrained microenvironments.",
+    "abstract": "BACKGROUND: Elevated serum triglycerides (TG) are associated with poor prognosis in non-small cell lung cancer (NSCLC), but the mechanisms underlying this association remain unclear. Elucidating the role of TG in NSCLC metastasis may reveal novel therapeutic targets. METHODS: A retrospective analysis was performed in 77 NSCLC patients stratified by serum TG levels. Survival was assessed using Kaplan-Meier analysis, and metastasis rates were compared using chi-square tests. Hypertriglyceridemia was modelled in mice. Extracellular matrix (ECM)-constrained invasion assays were conducted in NSCLC cell lines. Lipid β-oxidation and RhoA signalling were interrogated using pharmacological inhibition and genetic silencing of CPT1A and RhoA. RESULTS: Patients with hypertriglyceridemia (TG > 2.3 mmol/L) had significantly shorter overall survival (log-rank p = 0.009) and higher rates of lymph node metastasis (84.4% vs. 37.9%) and distant metastasis (31.3% vs. 3.4%) than normotriglyceridemic patients (TG < 1.7 mmol/L). Mechanistically, TG enhanced lipid β-oxidation, activating RhoA-driven cytoskeletal remodelling that enabled tumour cells to overcome ECM confinement and acquire metastatic competence. Pharmacological inhibition or genetic silencing of CPT1A or RhoA significantly suppressed TG-induced invasion and metastasis. CONCLUSIONS: Elevated serum TG promotes NSCLC metastasis through a lipid β-oxidation-RhoA-cytoskeletal axis. Targeting lipid catabolism and cytoskeletal dynamics may represent a therapeutic strategy for hypertriglyceridemia-associated NSCLC.",
+    "journal": "Br J Cancer",
+    "pubdate": "2026-09-03",
+    "pubtypes": [
+      "Journal Article"
+    ],
+    "authors": "Yingchu Dai, Yufan Ling, Lu Hou, et al.",
+    "keywords": [],
+    "doi": "10.1038/s41416-026-03586-9",
+    "source": "core",
+    "journal_if": 6.4,
+    "journal_quartile": "Q2",
+    "highlight_score": 40
+  }
+]
