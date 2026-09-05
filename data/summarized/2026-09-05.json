@@ -1,0 +1,39 @@
+[
+  {
+    "pmid": "42691831",
+    "title": "Adjuvant immunotherapy in resectable non-small cell lung cancer with nodal downstaging.",
+    "abstract": "OBJECTIVES: To determine whether prognosis after neoadjuvant chemo-immunotherapy is better predicted by pretreatment clinical nodal stage or post-treatment pathological nodal status, and whether patients downstaged to ypN0 have outcomes comparable to those with primary N0. METHODS: We conducted a multicenter retrospective cohort study of patients with resectable NSCLC treated with neoadjuvant chemo-immunotherapy followed by curative-intent surgery between January 2020 and December 2024. Patients were categorized as Natural N0 (cN0/ypN0), Downstaged N0 (cN+/ypN0), or ypN + according to baseline clinical and postoperative pathological nodal status. RFS and OS were analyzed using Kaplan-Meier and Cox regression methods. Subgroup analyses were performed in ypN0 patients to assess the association of adjuvant immunotherapy with survival. RESULTS: A total of 413 patients were included, and 207 (67.0%) with clinical nodal metastasis achieved nodal downstaging to ypN0. The overall MPR and pCR rates were 62.5% and 35.8%, respectively. After a median follow-up of 29.2 months, 2-year RFS and OS rates were 78.0% and 93.3%. Downstaged N0 had survival comparable to Natural N0, whereas ypN + was associated with worse RFS. In multivariable analysis, ypN + independently predicted poor recurrence-free survival (HR 2.86, 95% CI 1.40-5.84). Among ypN0 patients, adjuvant immunotherapy was not associated with improved RFS or OS. CONCLUSIONS: Post-treatment nodal status is a key prognostic marker after neoadjuvant chemo-immunotherapy in resectable NSCLC. Patients with ypN0 had comparable outcomes regardless of clinical nodal stage, and selected ypN0 patients may not require adjuvant immunotherapy.",
+    "journal": "Lung Cancer",
+    "pubdate": "2026-08-31",
+    "pubtypes": [
+      "Journal Article"
+    ],
+    "authors": "Mengzhen You, Yang Pan, Cien Sun, et al.",
+    "keywords": [
+      "Neoadjuvant immunotherapy",
+      "Nodal downstaging",
+      "Non–small cell lung cancer",
+      "Pathological nodal response",
+      "Prognosis"
+    ],
+    "doi": "10.1016/j.lungcan.2026.109601",
+    "source": "core",
+    "journal_if": 5.3,
+    "journal_quartile": "Q2",
+    "highlight_score": 60,
+    "chinese_conclusion": "新辅助化疗免疫治疗后病理淋巴结状态是NSCLC患者预后的关键指标，达到ypN0的患者预后良好，部分ypN0患者可能不需要辅助免疫治疗。",
+    "pathology": "NSCLC",
+    "treatment_tags": [
+      "immunotherapy",
+      "surgery",
+      "chemotherapy"
+    ],
+    "chinese_keywords": [
+      "新辅助化疗免疫治疗",
+      "淋巴结降期",
+      "非小细胞肺癌",
+      "病理淋巴结状态",
+      "辅助免疫治疗"
+    ]
+  }
+]
