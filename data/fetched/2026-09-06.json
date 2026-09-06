@@ -1,0 +1,139 @@
+[
+  {
+    "pmid": "42061572",
+    "title": "Long-Term Impact of First-Line Amivantamab Plus Lazertinib Versus Osimertinib on Mechanisms of Acquired Resistance in MARIPOSA: A Brief Report.",
+    "abstract": "INTRODUCTION: Amivantamab plus lazertinib is approved for first-line management of EGFR-mutated advanced NSCLC. In MARIPOSA, amivantamab-lazertinib significantly improved overall survival versus osimertinib (hazard ratio [HR]: 0.75; p = 0.005). We evaluated acquired resistance mechanisms and their impact on second-line progression-free survival (PFS) in MARIPOSA. METHODS: MARIPOSA (NCT04487080) assessed amivantamab-lazertinib versus osimertinib in previously untreated EGFR-mutated advanced NSCLC. Acquired resistance was assessed by Guardant360 next-generation sequencing of circulating tumor DNA from paired baseline and end-of-treatment plasma samples. Known resistance mechanisms included EGFR- orMET-dependent (e.g., C797S, MET amplification) and EGFR- or MET-independent (e.g., PIK3CA, RASorRAF, cell cycle, TP53orRB1 loss-of-function) resistance; absence of these detectable alterations constituted \"unknown\" resistance. Second-line PFS was defined as time from initiation of first subsequent therapy to investigator-assessed second progressive disease or death. RESULTS: MET amplifications (3.4% versus 13.1%; nominal p = 0.002) and secondary EGFR mutations (1.4% versus 7.6%; nominal p = 0.01) were significantly reduced with amivantamab-lazertinib versus osimertinib, without significant increases in other known resistance pathways. Longer treatment with amivantamab was associated with fewer acquired MET and EGFR mutations. Median second-line PFS was substantially prolonged in the amivantamab-lazertinib versus osimertinib arm (8.4 versus 5.3 mo; HR: 0.72; nominal p = 0.02) among participants who started a first subsequent therapy. Participants harboring unknown resistance at end of treatment had longer median second-line PFS versus known resistance (7.4 versus 4.6 mo; HR: 0.63; nominal p = 0.01). CONCLUSIONS: Amivantamab-lazertinib reduces common resistance mechanisms (e.g., EGFRorMET) versus osimertinib, suggesting that this regimen is changing the underlying biology of EGFR-mutant disease, contributing to both first- and second-line long-term efficacy outcomes.",
+    "journal": "J Thorac Oncol",
+    "pubdate": "2026-09-01",
+    "pubtypes": [
+      "Journal Article",
+      "Randomized Controlled Trial"
+    ],
+    "authors": "Hidetoshi Hayashi, Byoung Chul Cho, David R Spigel, et al.",
+    "keywords": [
+      "Aniline Compounds",
+      "Indoles",
+      "Humans",
+      "Acrylamides",
+      "Pyrimidines",
+      "Drug Resistance, Neoplasm",
+      "Lung Neoplasms",
+      "Carcinoma, Non-Small-Cell Lung",
+      "Female",
+      "ErbB Receptors",
+      "Mutation",
+      "Male",
+      "Antineoplastic Combined Chemotherapy Protocols",
+      "Acquired resistance",
+      "Amivantamab"
+    ],
+    "doi": "10.1016/j.jtho.2026.103894",
+    "source": "core",
+    "journal_if": 20.4,
+    "journal_quartile": "Q1",
+    "highlight_score": 100
+  },
+  {
+    "pmid": "41950998",
+    "title": "SKYSCRAPER-02C: A Phase 3, Randomized, Double-Blind, Placebo-Controlled Study of Atezolizumab Plus Carboplatin and Etoposide With or Without Tiragolumab in Patients With Untreated Extensive-Stage SCLC in China.",
+    "abstract": "INTRODUCTION: Tiragolumab may synergize with other immunotherapies to enhance antitumor immune responses. We report efficacy, safety, and biomarker findings from SKYSCRAPER-02C (NCT04665856), comparing tiragolumab plus atezolizumab plus carboplatin and etoposide (CE; experimental arm) with atezolizumab plus CE (control arm) in patients with untreated extensive-stage SCLC (ES-SCLC) in China. METHODS: Patients were randomized (1:1) to tiragolumab 600 mg or placebo, plus atezolizumab 1200 mg and CE (four cycles), then maintenance tiragolumab or placebo plus atezolizumab. Primary end points were investigator-assessed progression-free survival (PFS) and overall survival (OS) in patients without history or presence of brain metastases at baseline (primary analysis set). RESULTS: The primary analysis set comprised 54 patients in the experimental arm and 56 in the control arm. Median PFS was 5.6 months (experimental) and 5.4 months (control; unstratified hazard ratio = 0.65, 95% confidence interval: 0.43‒0.97; median follow-up 26.7 months); median OS was 18.7 and 13.5 months, respectively (unstratified hazard ratio 0.89, 95% confidence interval: 0.56‒1.40). The biomarker-evaluable population comprised 69 patients with immunohistochemistry data and 66 with RNA sequencing data. RNA sequencing survival analysis found that patients with non-negative matrix factorization 3 (SCLC-inflamed-neuroendocrine) or non-negative matrix factorization 4 (SCLC-inflamed-non-neuroendocrine) molecular subtypes, and those with high T-effector and tumor-associated macrophage immune signatures, benefited from tiragolumab plus atezolizumab plus CE treatment. Tiragolumab was well tolerated, with no new safety signals. CONCLUSIONS: Although results from the global SKYSCRAPER-02 study were not statistically significant, numerical improvements in PFS and OS were observed with tiragolumab plus atezolizumab plus CE versus atezolizumab plus CE in Chinese patients with ES-SCLC. Biomarker analysis identified immune-inflamed signatures that may guide future tyrosine-based inhibitory motif domain-based strategies.",
+    "journal": "J Thorac Oncol",
+    "pubdate": "2026-09-01",
+    "pubtypes": [
+      "Journal Article",
+      "Randomized Controlled Trial",
+      "Clinical Trial, Phase III"
+    ],
+    "authors": "Shun Lu, Jian Fang, Yan Yu, et al.",
+    "keywords": [
+      "Humans",
+      "Etoposide",
+      "Carboplatin",
+      "Female",
+      "Male",
+      "Antibodies, Monoclonal, Humanized",
+      "Double-Blind Method",
+      "Antineoplastic Combined Chemotherapy Protocols",
+      "China",
+      "Small Cell Lung Carcinoma",
+      "Lung Neoplasms",
+      "Middle Aged",
+      "Aged",
+      "Adult",
+      "Atezolizumab"
+    ],
+    "doi": "10.1016/j.jtho.2026.103713",
+    "source": "core",
+    "journal_if": 20.4,
+    "journal_quartile": "Q1",
+    "highlight_score": 100
+  },
+  {
+    "pmid": "42031067",
+    "title": "Deulorlatinib (TGRX-326) in ALK Gene Fusion Positive NSCLC After Failure of Second-Generation Inhibitors: A Single-Arm, Multicenter, Phase 2 Trial.",
+    "abstract": "INTRODUCTION: Deulorlatinib (TGRX-326), a potent third-generation anaplastic lymphoma kinase (ALK) inhibitor, has reported promising activity and a favorable safety profile in ALK-positive NSCLC in a phase 1 trial. Here, we report the primary results of the pivotal phase 2 trial (NCT05955391) evaluating deulorlatinib in patients with ALK-positive NSCLC in whom second-generation ALK inhibitors had failed. METHODS: This single-arm, phase 2 trial was conducted at 36 centers in China. Eligible patients received deulorlatinib 60 mg once daily. The primary end point was objective response rate (ORR) assessed by an independent review committee (IRC). Key secondary end points included disease control rate, progression-free survival (PFS), duration of response, overall survival, intracranial efficacy, and safety. Exploratory biomarker analyses were performed using cell-free DNA. RESULTS: The efficacy and safety analysis sets comprised 158 and 163 patients, respectively. The primary end point was met with an IRC-assessed ORR of 43.7% (95% confidence interval [CI], 35.8-51.8). The IRC-assessed median PFS was 11.1 months (95% CI, 8.3-13.7). Among patients with measurable central nervous system (CNS) metastases (n = 43), the intracranial ORR was 55.8% (95% CI, 39.9-70.9). In patients harboring the G1202R mutation (n = 8), robust activity was observed (ORR: 62.5%; disease control rate: 100%; median PFS: 11.0 months). The investigator-assessed results were consistent with the IRC-assessed findings. Treatment-related adverse events occurred in 96.3% of patients (47.2% grade ≥3). Nevertheless, dose modifications were infrequent (interruption, 13.5%; reduction, 11.0%; permanent discontinuation, 0.6%). The incidence of CNS-related treatment-related adverse events was 12.9%, with no patients interrupting or discontinuing treatment owing to CNS toxicity. CONCLUSIONS: Deulorlatinib indicated encouraging antitumor activity in patients with advanced ALK-positive NSCLC after failure of second-generation ALK inhibitors, including those with the G1202R mutation. Given its favorable safety profile, deulorlatinib represents a promising new option for this population.",
+    "journal": "J Thorac Oncol",
+    "pubdate": "2026-09-01",
+    "pubtypes": [
+      "Journal Article",
+      "Multicenter Study",
+      "Clinical Trial, Phase II"
+    ],
+    "authors": "Jie Huang, Gang Chen, Zhehai Wang, et al.",
+    "keywords": [
+      "Humans",
+      "Female",
+      "Carcinoma, Non-Small-Cell Lung",
+      "Male",
+      "Lung Neoplasms",
+      "Anaplastic Lymphoma Kinase",
+      "Middle Aged",
+      "Aged",
+      "Adult",
+      "Protein Kinase Inhibitors",
+      "ALK-positive NSCLC",
+      "Deulorlatinib",
+      "G1202R mutation",
+      "Intracranial efficacy",
+      "Tyrosine kinase inhibitors"
+    ],
+    "doi": "10.1016/j.jtho.2026.103737",
+    "source": "core",
+    "journal_if": 20.4,
+    "journal_quartile": "Q1",
+    "highlight_score": 75
+  },
+  {
+    "pmid": "42055160",
+    "title": "Endobronchial Ultrasound-Guided Biopsy-Derived Lung Cancer Models: A Platform for Precision Therapy.",
+    "abstract": "BACKGROUND: Endobronchial ultrasound-guided transbronchial needle aspiration is used for clinical diagnosis and staging in patients with lung cancer. Nevertheless, establishing patient-derived preclinical models using needle biopsy samples remains challenging. This study describes the establishment and utility of patient-derived organoid (PDO) from endobronchial ultrasound-guided (EBUS) specimens and EBUS patient-derived xenograft (PDX). METHODS: A total of 175 EBUS specimens were used to establish PDO and PDX. \"Stable establishment\" organoids with passage numbers of 10 or greater were used for genomic, transcriptome, and pathologic assessment. Drug sensitivity of EBUS organoids and PDX tumors were compared with those of the matched patient. Drug screening was performed using stably established organoid models. RESULTS: We successfully established a total of 20 EBUS organoids: six EBUS-PDOs and 14 EBUS-xenograft derived organoids. These stable cancer organoid models were validated for cancer cell enrichment and pathologic assessment. Pathologic findings, exome, and transcriptome analysis found a high correlation between EBUS organoids and parental samples. EBUS organoids and PDX indicated consistent drug response patterns with their corresponding patients. A drug screening conducted on an EBUS organoid led to the discovery of potent activity of trametinib to a rare MAP2K1 K57N mutation. CONCLUSIONS: EBUS-PDO and -xenograft‒derived organoids are good options to generate stable organoids in patients with advanced stage lung cancer. The models were consistent with the genetic and pathologic features of patient tumors, and the patient's responses to treatment, supporting their utility for novel therapeutic research.",
+    "journal": "J Thorac Oncol",
+    "pubdate": "2026-09-01",
+    "pubtypes": [
+      "Journal Article"
+    ],
+    "authors": "Takamasa Koga, Hiroyuki Ogawa, Nikolina Radulovich, et al.",
+    "keywords": [
+      "Humans",
+      "Lung Neoplasms",
+      "Animals",
+      "Mice",
+      "Precision Medicine",
+      "Female",
+      "Organoids",
+      "Male",
+      "Xenograft Model Antitumor Assays",
+      "EBUS",
+      "Lung cancer",
+      "Patient-derived organoid",
+      "Patient-derived xenograft",
+      "Precision medicine",
+      "Xenograft-derived organoid"
+    ],
+    "doi": "10.1016/j.jtho.2026.103893",
+    "source": "core",
+    "journal_if": 20.4,
+    "journal_quartile": "Q1",
+    "highlight_score": 60
+  }
+]
