@@ -1,0 +1,150 @@
+[
+  {
+    "pmid": "42574006",
+    "title": "Osimertinib With or Without Chemotherapy in Advanced Non-Small Cell Lung Cancer With EGFR and Concurrent TP53 Mutations: A Randomized Clinical Trial.",
+    "abstract": "IMPORTANCE: Combination therapy has emerged as a promising therapeutic approach for patients with epidermal growth factor receptor (EGFR)-mutated non-small cell lung cancer (NSCLC). However, its clinical benefit-risk profile remains a focus of ongoing debate. Identifying patients most likely to derive benefit from such regimens remains an unmet clinical need. OBJECTIVE: To prospectively compare the efficacy and safety of first-line osimertinib plus chemotherapy with osimertinib monotherapy for patients with EGFR-mutated advanced NSCLC harboring concurrent TP53 mutations. DESIGN, SETTING, AND PARTICIPANTS: A multicenter, randomized, open-label, phase 3 study conducted at 17 sites in China. Between March 25, 2021, and July 11, 2024, a total of 294 eligible patients with treatment-naive, stage IV or recurrent nonsquamous NSCLC harboring concurrent TP53 and EGFR-sensitizing mutations were enrolled. INTERVENTIONS: Patients were randomized (1:1) to receive osimertinib plus chemotherapy (pemetrexed and carboplatin every 3 weeks for 4 cycles, followed by maintenance therapy of osimertinib plus pemetrexed; n = 146) or osimertinib monotherapy (n = 148). MAIN OUTCOMES AND MEASURES: The primary end point was investigator-assessed progression-free survival. Secondary end points included overall survival, response, safety, and quality of life. RESULTS: Among 294 enrolled patients, the median age was 57 years (range, 26-79 years), and 159 (54.1%) were female. The data cutoff date was November 11, 2025. At a median follow-up of 25.1 months for the osimertinib-chemotherapy group and 26.1 months for the osimertinib monotherapy group, median progression-free survival was significantly longer with osimertinib plus chemotherapy than with osimertinib monotherapy (34.0 vs 15.6 months; difference, 18.4 months [95% CI, 9.9-22.3]; hazard ratio, 0.44 [95% CI, 0.32-0.60]; P < .001). This benefit was consistent across prespecified subgroups, including those with brain metastases and L858R mutations. The overall survival data remained immature (30.6% maturity); however, a trend toward overall survival benefit with combination therapy was observed. The incidence of grade 3 or higher treatment-related adverse events was higher in the combination group, with no new safety signal identified. CONCLUSIONS AND RELEVANCE: In this randomized clinical trial, osimertinib plus chemotherapy significantly increased progression-free survival among patients with EGFR-mutated advanced NSCLC harboring concurrent TP53 mutations. These findings provided a clinical rationale for individualized combination strategies in the management of patients with EGFR-mutated NSCLC. TRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT04695925.",
+    "journal": "JAMA",
+    "pubdate": "2026-09-08",
+    "pubtypes": [
+      "Journal Article",
+      "Randomized Controlled Trial",
+      "Clinical Trial, Phase III",
+      "Multicenter Study",
+      "Comparative Study",
+      "Comment"
+    ],
+    "authors": "Ting Zhou, Huaqiang Zhou, Fangfang Gao, et al.",
+    "keywords": [
+      "Humans",
+      "Indoles",
+      "Carcinoma, Non-Small-Cell Lung",
+      "Female",
+      "Acrylamides",
+      "Pyrimidines",
+      "ErbB Receptors",
+      "Lung Neoplasms",
+      "Aniline Compounds",
+      "Mutation",
+      "Antineoplastic Combined Chemotherapy Protocols",
+      "Middle Aged",
+      "Pemetrexed",
+      "Aged",
+      "Male"
+    ],
+    "doi": "",
+    "source": "core",
+    "journal_if": 63.1,
+    "journal_quartile": "Q1",
+    "highlight_score": 140,
+    "chinese_conclusion": "奥希替尼联合化疗较单药奥希替尼显著延长EGFR突变伴TP53共突变的晚期NSCLC患者的中位无进展生存期（34.0 vs 15.6个月，HR 0.44），且安全性可耐受。",
+    "pathology": "NSCLC",
+    "treatment_tags": [
+      "targeted therapy",
+      "chemotherapy"
+    ],
+    "chinese_keywords": [
+      "EGFR突变",
+      "TP53共突变",
+      "奥希替尼",
+      "联合化疗",
+      "无进展生存期"
+    ]
+  },
+  {
+    "pmid": "42492306",
+    "title": "Assessing time to symptomatic progression, a patient-relevant efficacy endpoint, in the MARIPOSA study in non-small cell lung cancer.",
+    "abstract": "INTRODUCTION: In the phase 3 randomized MARIPOSA study, amivantamab and lazertinib combination therapy demonstrated improved progression-free survival (PFS) and overall survival (OS) versus osimertinib in participants with previously untreated, epidermal growth factor receptor-mutated advanced non-small cell lung cancer. Time to symptomatic progression (TTSP) was introduced to assess clinical worsening and complement endpoints that investigate radiographic disease progression and patient-reported outcomes. TTSP provides an easily interpretable measure of disease-specific symptom worsening to further support patient experience. METHODS: In MARIPOSA, TTSP was quantitatively assessed as a secondary efficacy endpoint and defined as the time from randomization until participants experience disease-specific symptom worsening requiring a clinical intervention or treatment change, or death. To evaluate the impact of amivantamab and lazertinib on TTSP considering its established OS benefit against osimertinib, an exploratory analysis censoring death events was performed. RESULTS: At the final protocol-specified OS analysis (median follow up: 37.8 months), median TTSP was 43.6 months with amivantamab and lazertinib versus 29.3 months with osimertinib (hazard ratio [HR]: 0.69; 95% confidence interval [CI]: 0.57-0.83; p < 0.0001). Amivantamab and lazertinib reduced deaths following a TTSP event compared to osimertinib. A strong correlation between TTSP and PFS or OS was observed. CONCLUSIONS: Amivantamab and lazertinib significantly delayed TTSP versus osimertinib. TTSP offers a clinician-validated measurement of disease-specific symptom worsening, capturing symptoms perceived by patients that prompt clinical action. TTSP is highly correlated with PFS and OS, providing complementary insights alongside traditional endpoints. TTSP enhances understanding of treatment benefit and supports informed clinical decision-making by integrating patient experience.",
+    "journal": "Eur J Cancer",
+    "pubdate": "2026-09-09",
+    "pubtypes": [
+      "Journal Article",
+      "Randomized Controlled Trial",
+      "Clinical Trial, Phase III",
+      "Multicenter Study"
+    ],
+    "authors": "Danny Nguyen, Se-Hoon Lee, Shun Lu, et al.",
+    "keywords": [
+      "Humans",
+      "Carcinoma, Non-Small-Cell Lung",
+      "Lung Neoplasms",
+      "Indoles",
+      "Disease Progression",
+      "Pyrimidines",
+      "Antineoplastic Combined Chemotherapy Protocols",
+      "Aniline Compounds",
+      "Female",
+      "Acrylamides",
+      "Quinolines",
+      "Time Factors",
+      "Male",
+      "Middle Aged",
+      "Progression-Free Survival"
+    ],
+    "doi": "10.1016/j.ejca.2026.116938",
+    "source": "core",
+    "journal_if": 8.4,
+    "journal_quartile": "Q2",
+    "highlight_score": 80,
+    "chinese_conclusion": "在MARIPOSA研究中，amivantamab联合lazertinib显著延迟症状进展时间（TTSP）达43.6个月，优于奥希替尼的29.3个月，TTSP与PFS和OS高度相关，可作为临床相关的疗效终点。",
+    "pathology": "NSCLC",
+    "treatment_tags": [
+      "targeted therapy",
+      "immunotherapy"
+    ],
+    "chinese_keywords": [
+      "EGFR突变NSCLC",
+      "症状进展时间",
+      "amivantamab",
+      "lazertinib",
+      "生活质量"
+    ]
+  },
+  {
+    "pmid": "42520592",
+    "title": "Validation of the lung immune prognostic index in extensive-stage small cell lung cancer: Post hoc analysis of the caspian and IMpower133 phase 3 trials.",
+    "abstract": "BACKGROUND: The Lung Immune Prognostic Index (LIPI) is an inflammation-based biomarker associated with outcomes to immunotherapy across several tumor types. Its prognostic value in extensive-stage small-cell lung cancer (ES-SCLC), however, remains insufficiently validated. We aimed to validate the prognostic impact of LIPI in ES-SCLC using data from two phase III trials. METHODS: Patients enrolled in the CASPIAN (NCT03043872) and IMpower133 (NCT02763579) trials were included. LIPI groups were defined as good (dNLR<3 and LDH<ULN), intermediate (dNLR≥3 or LDH≥ULN) and poor (dNLR≥3 and LDH≥ULN). Overall survival (OS) and progression-free survival (PFS) were assessed across LIPI categories and treatment arms. RESULTS: LIPI was available for 1140 patients (Good: 34%, Intermediate: 49%, Poor: 17%), including 708 treated with chemotherapy-immunotherapy and 432 with chemotherapy alone. Poor LIPI was associated with unfavorable characteristics, including lower albumin levels and higher rate of liver metastases. Median OS was 14.6 months (95%CI: 12.4-15.9) for LIPI Good, 10.9 (10.1-11.5) for Intermediate, and 8.4 (7.1-9.3) for Poor (p < 0.0001). In multivariate models adjusted on gender, age, ECOG, treatment arm and metastatic sites, LIPI remained an independent prognostic factor for OS (HR Poor vs. Good: 1.76, 95%CI: 1.45-2.15, p < 0.001) and PFS (HR: 1.59, 95%CI: 1.33-1.90, p < 0.001). Although patients with poor LIPI derived limited benefit from immunotherapy, no significant treatment-LIPI interaction was observed. CONCLUSION: This large post hoc analysis confirms LIPI as a robust and clinically applicable prognostic biomarker in ES-SCLC. Patients with poor LIPI have substantially worse outcomes and limited benefit from immunotherapy, highlighting the need for novel therapeutic strategies in this subgroup.",
+    "journal": "Eur J Cancer",
+    "pubdate": "2026-09-09",
+    "pubtypes": [
+      "Journal Article",
+      "Validation Study",
+      "Clinical Trial, Phase III"
+    ],
+    "authors": "Edouard Auclin, Matthieu Roulleaux Dugage, Teresa Gorría, et al.",
+    "keywords": [
+      "Humans",
+      "Lung Neoplasms",
+      "Small Cell Lung Carcinoma",
+      "Female",
+      "Prognosis",
+      "Male",
+      "Aged",
+      "Middle Aged",
+      "Immunotherapy",
+      "Biomarkers, Tumor",
+      "Neoplasm Staging",
+      "Progression-Free Survival",
+      "Clinical Trials, Phase III as Topic",
+      "Antineoplastic Combined Chemotherapy Protocols",
+      "Biomarker"
+    ],
+    "doi": "10.1016/j.ejca.2026.116955",
+    "source": "core",
+    "journal_if": 8.4,
+    "journal_quartile": "Q2",
+    "highlight_score": 70,
+    "chinese_conclusion": "肺免疫预后指数（LIPI）在广泛期小细胞肺癌中具有独立预后价值，LIPI差的患者总生存期仅8.4个月，且免疫治疗获益有限。",
+    "pathology": "SCLC",
+    "treatment_tags": [
+      "immunotherapy",
+      "chemotherapy"
+    ],
+    "chinese_keywords": [
+      "广泛期小细胞肺癌",
+      "肺免疫预后指数",
+      "预后生物标志物",
+      "免疫治疗",
+      "总生存期"
+    ]
+  }
+]
