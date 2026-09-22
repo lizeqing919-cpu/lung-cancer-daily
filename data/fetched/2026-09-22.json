@@ -1,0 +1,33 @@
+[
+  {
+    "pmid": "42764281",
+    "title": "Induction and concurrent aumolertinib with radiotherapy for EGFR-mutated stage III NSCLC: results of phase III ADVANCE trial and real-world validation.",
+    "abstract": "The phase III ADVANCE study prospectively assessed a chemotherapy-free strategy combining aumolertinib with definitive radiotherapy (RT) in patients with unresectable stage III non-small cell lung cancer (NSCLC) harboring epidermal growth factor receptor (EGFR) mutations (ChiCTR.org: ChiCTR2000040590). Participants were assigned in a 1:1 ratio to either the experimental arm (110 mg daily aulomertinib plus RT) or the control arm (cisplatin/pemetrexed with RT). The primary endpoint was progression-free survival (PFS). Planned enrollment was 98 patients to detect a hazard ratio (HR) of 0.5. A protocol-prespecified real-world cohort (n = 125) was used for validation. 43 eligible patients were randomized (24 experimental, 19 control). The trial was terminated early following the prespecified interim analysis because of loss of equipoise in an open-label setting, slow accrual, and a large observed PFS difference. At a median follow-up of 25.5 months, the experimental arm had significantly longer PFS (median 34.0 vs. 7.4 months; HR 0.15; P < 0.001). Median overall survival (OS) was not reached vs. 30.5 months (HR = 0.32; P = 0.09). Neutropenia and nausea were more frequent in the control arm; quality of life favored the experimental arm. These findings were supported by real-world validation (n = 125, median follow-up 32.7 months), in which EGFR tyrosine kinase inhibitors (TKIs) + RT and TKIs+cCRT showed similar outcomes, both superior to cCRT (P < 0.001) (ClinicalTrials.gov: NCT04304638). The ADVANCE trial establishes a novel chemo-free strategy incorporating TKI and RT, which prolongs PFS and demonstrates promising OS in unresectable stage III EGFR-mutant NSCLC versus cCRT.",
+    "journal": "Signal Transduct Target Ther",
+    "pubdate": "2026-09-21",
+    "pubtypes": [
+      "Journal Article",
+      "Clinical Trial, Phase III",
+      "Randomized Controlled Trial"
+    ],
+    "authors": "Nan Bi, Jianyang Wang, Wei Jiang, et al.",
+    "keywords": [
+      "Humans",
+      "Carcinoma, Non-Small-Cell Lung",
+      "ErbB Receptors",
+      "Lung Neoplasms",
+      "Mutation",
+      "Female",
+      "Male",
+      "Middle Aged",
+      "Aged",
+      "Neoplasm Staging",
+      "Adult"
+    ],
+    "doi": "",
+    "source": "core",
+    "journal_if": 40.8,
+    "journal_quartile": "Q1",
+    "highlight_score": 50
+  }
+]
