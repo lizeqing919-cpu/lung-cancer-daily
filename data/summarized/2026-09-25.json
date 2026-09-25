@@ -1,0 +1,38 @@
+[
+  {
+    "pmid": "42777509",
+    "title": "Robotic-assisted bronchoscopic biopsy and EBUS-TBNA in lung cancer: An outcome comparison between clinical and pathological staging.",
+    "abstract": "Accurate mediastinal staging of suspected lung cancer is critical for guiding treatment and determining prognosis. While computed tomography (CT) and positron emission tomography (PET) are integral to initial staging, both modalities have limitations for detecting nodal metastases. Endobronchial ultrasound-guided transbronchial needle aspiration (EBUS-TBNA) provides a minimally invasive option for obtaining tissue confirmation. This study evaluates the impact of adding EBUS-TBNA at the time of lung tumor biopsy on mediastinal staging accuracy. We conducted a retrospective study of patients who underwent shape-sensing robotic-assisted bronchoscopy (ssRAB) with concurrent EBUS-TBNA between June 2020 and December 2025. Preprocedural CT and PET findings were compared with EBUS-TBNA cytopathology to assess their diagnostic performance and to evaluate stage migration in patients with primary pulmonary malignancies. A total of 1,234 patients underwent ssRAB with EBUS-TBNA, of whom 123 (10.0 %) had malignant lymph nodes on cytopathology. Among these, 23 patients (18.7 %) had no suspicious lymphadenopathy on preprocedural CT and/or PET imaging. The sensitivity of CT and PET for detecting malignancy at specific lymph node stations was 44.5 % and 68.5 %, respectively. In the clinical-to-EBUS staging analysis, 66 (74.2 %) demonstrated no major stage change, while 23 (25.9 %) experienced stage migration. Concurrent EBUS-TBNA identified occult nodal involvement and resulted in stage migration. These findings underscore the critical role of EBUS-TBNA in identifying clinically occult nodal disease and optimizing lung cancer treatment.",
+    "journal": "Lung Cancer",
+    "pubdate": "2026-09-21",
+    "pubtypes": [
+      "Journal Article"
+    ],
+    "authors": "Sebastian Fernandez-Bussy, Regina M Murillo-Torres, Tatiana A Rojas-Zapata, et al.",
+    "keywords": [
+      "CT scan",
+      "Endobronchial ultrasound",
+      "Lung cancer",
+      "PET-CT scan",
+      "Shape-sensing robotic-assisted bronchoscopy",
+      "Staging"
+    ],
+    "doi": "10.1016/j.lungcan.2026.109630",
+    "source": "core",
+    "journal_if": 5.3,
+    "journal_quartile": "Q2",
+    "highlight_score": 60,
+    "chinese_conclusion": "同时进行EBUS-TBNA可发现CT/PET漏诊的隐匿性淋巴结转移，导致约25.9%的患者临床分期改变，从而提高肺癌纵隔分期的准确性。",
+    "pathology": "Lymph Node",
+    "treatment_tags": [
+      "surgery"
+    ],
+    "chinese_keywords": [
+      "支气管内超声引导针吸活检",
+      "纵隔淋巴结分期",
+      "隐匿性淋巴结转移",
+      "形状感知机器人支气管镜",
+      "肺癌"
+    ]
+  }
+]
