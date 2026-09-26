@@ -1,0 +1,50 @@
+[
+  {
+    "pmid": "42785919",
+    "title": "AdvanTIG-105: a phase I/Ib dose-expansion study of ociperlimab plus tislelizumab with or without chemotherapy in metastatic non-small cell lung cancer and extensive-stage small cell lung cancer.",
+    "abstract": "BACKGROUND: Patients with metastatic non-small cell lung cancer (NSCLC) or extensive-stage small cell lung cancer (ES-SCLC) have poor prognosis and survival with current standard of care. Several checkpoint inhibitor combinations have been evaluated clinically. We report outcomes from the dose-expansion cohorts of patients with NSCLC or ES-SCLC from the AdvanTIG-105 clinical trial. METHODS: AdvanTIG-105 was a phase I/Ib, open-label, multicenter clinical trial of ociperlimab plus tislelizumab with or without chemotherapy in patients with unresectable locally advanced or metastatic solid tumors, including NSCLC and ES-SCLC (NCT04047862). The dose-expansion cohorts received ociperlimab (anti-T-cell immunoglobulin and immunoreceptor tyrosine-based inhibitor motif domain) 900 mg intravenously and tislelizumab (anti-programmed cell death-protein 1) 200 mg intravenously every 3 weeks (Q3W) ± chemotherapy for four cycles, followed by ociperlimab 900 mg intravenously and tislelizumab 200 mg intravenously Q3W. The primary endpoint was the objective response rate. Other key endpoints included duration of response and safety. RESULTS: As of August 7, 2024, patients with untreated squamous NSCLC (sqNSCLC; n=41), untreated non-sqNSCLC (n=43), untreated programmed cell death-ligand 1+ NSCLC (tumor cell ≥1%; n=45), checkpoint inhibitor-experienced NSCLC (n=26), and untreated ES-SCLC (n=43) were treated in the dose-expansion phase; of these, 40, 42, 45, 26, and 41 patients, respectively, were efficacy evaluable. ORR (95% CI) was 55.0% (38.5% to 70.7%), 54.8% (38.7% to 70.2%), 40.0% (25.7% to 55.7%), 7.7% (0.9% to 25.1%), and 65.9% (49.4% to 79.9%), respectively. Median (95% CI) DOR was 16.9 (5.6 to not estimable (NE)), 13.9 (8.2 to NE), 14.0 (2.9 to NE), 15.9 (12.6 to NE), and 4.1 (3.4 to 5.6) months, respectively. Median (95% CI) progression-free survival was 8.2 (6.0 to 18.1), 11.3 (8.0 to 20.7), 5.5 (4.2 to 8.2), 2.9 (1.4 to 5.3), and 4.9 (4.2 to 5.5) months, respectively. Treatment-related treatment-emergent adverse events (TR-TEAEs) were experienced by 39 (95.1%), 41 (95.3%), 38 (84.4%), 19 (73.1), and 39 (90.7%) patients, respectively, with 24 (58.5%), 26 (60.5%), 9 (20.0%), 6 (23.1%), and 23 (53.5%) experiencing Grade 3-4 TR-TEAEs. CONCLUSIONS: Ociperlimab and tislelizumab±chemotherapy demonstrated a manageable safety profile and preliminary antitumor activity in patients with NSCLC or ES-SCLC. Findings from this small phase I study should be interpreted with caution.",
+    "journal": "J Immunother Cancer",
+    "pubdate": "2026-09-24",
+    "pubtypes": [
+      "Journal Article",
+      "Clinical Trial, Phase I",
+      "Multicenter Study"
+    ],
+    "authors": "Shun Lu, Yan Yu, Jun Zhang, et al.",
+    "keywords": [
+      "Humans",
+      "Carcinoma, Non-Small-Cell Lung",
+      "Female",
+      "Lung Neoplasms",
+      "Male",
+      "Aged",
+      "Middle Aged",
+      "Small Cell Lung Carcinoma",
+      "Antineoplastic Combined Chemotherapy Protocols",
+      "Antibodies, Monoclonal, Humanized",
+      "Neoplasm Staging",
+      "Adult",
+      "Biomarker",
+      "Immune Checkpoint Inhibitor",
+      "Lung Cancer"
+    ],
+    "doi": "",
+    "source": "core",
+    "journal_if": 10.3,
+    "journal_quartile": "Q1",
+    "highlight_score": 40,
+    "chinese_conclusion": "ociperlimab联合替雷利珠单抗±化疗在转移性NSCLC和广泛期SCLC中显示出可控安全性和初步抗肿瘤活性，尤其鳞状NSCLC和未治疗ES-SCLC的客观缓解率较高。",
+    "pathology": "NSCLC",
+    "treatment_tags": [
+      "immunotherapy",
+      "chemotherapy"
+    ],
+    "chinese_keywords": [
+      "非小细胞肺癌",
+      "小细胞肺癌",
+      "免疫检查点抑制剂",
+      "替雷利珠单抗",
+      "ociperlimab"
+    ]
+  }
+]
