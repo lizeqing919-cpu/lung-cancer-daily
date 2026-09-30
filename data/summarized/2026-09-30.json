@@ -1,0 +1,49 @@
+[
+  {
+    "pmid": "42805763",
+    "title": "Prolonged survival after systemic immune reactivation by aglatimagene besadenovec plus valacyclovir in immune checkpoint inhibitor-refractory non-small cell lung cancer.",
+    "abstract": "BACKGROUND: Patients with advanced non-small cell lung cancer who progress on immune checkpoint inhibitors (ICIs) face limited options and poor survival. Aglatimagene besadenovec (CAN-2409), a replication-defective adenoviral vector encoding herpes simplex virus-thymidine kinase, plus valacyclovir, has been shown to induce immunogenic cell death and systemic immune activation. METHODS: In this open-label, phase 2a clinical trial, 76 patients were enrolled (intention-to-treat population) and 73 received at least one dose of aglatimagene besadenovec (safety population); 46 patients who received two intratumoral aglatimagene besadenovec injections, completed protocol-defined valacyclovir exposure, and underwent a 12-week imaging comprised the evaluable (per-protocol) population. Endpoints included clinical and immunological outcomes. RESULTS: In the 73 patients included in the safety analysis (including patients who did not receive a second injection due to apparent pseudoprogression), median OS was 14.3 months. In the evaluable (per-protocol) population of 46 patients who completed protocol-defined treatment and week-12 imaging, median OS was 24.5 months (95% CI 16.0 to 33.8). Among the 41 evaluable patients in cohort 2, 15 (37%) were alive at ≥24 months and 5 (12%) at ≥40 months. In the 46-patient evaluable population, the objective response rate was 10.9% (5/46; 95% CI 4.7% to 23.0%) and the disease control rate was 71.7% (33/46; 95% CI 57.5% to 82.7%). In the 73 patients included in the safety analysis (including patients who did not receive a second injection due to apparent pseudoprogression) median overall survival was 14.3 months. Exploratory biomarkers demonstrated systemic immune reactivation, including cytotoxic T-cell expansion and regression of uninjected lesions, with stronger signals in non-squamous histology. No grade 4 treatment-related adverse events or treatment-related deaths were reported. Most treatment-related adverse events were grade 1-2; 10/73 patients (13.7%) experienced grade 3 treatment-related adverse events. Six patients discontinued because of adverse events, including two with events considered possibly related to treatment (including ongoing ICI). CONCLUSIONS: In this single-arm phase 2a study, aglatimagene besadenovec plus valacyclovir with ongoing ICI was associated with systemic immune remodeling and encouraging survival. Because comparisons with historical controls are descriptive and vulnerable to selection and other biases, efficacy requires confirmation in a randomized controlled clinical trial, which has been initiated. TRIAL REGISTRATION NUMBER: NCT04495153.",
+    "journal": "J Immunother Cancer",
+    "pubdate": "2026-09-28",
+    "pubtypes": [
+      "Journal Article",
+      "Clinical Trial, Phase II"
+    ],
+    "authors": "Charu Aggarwal, Daniel Sterman, Jessica Dwyer, et al.",
+    "keywords": [
+      "Humans",
+      "Female",
+      "Lung Neoplasms",
+      "Valacyclovir",
+      "Carcinoma, Non-Small-Cell Lung",
+      "Male",
+      "Immune Checkpoint Inhibitors",
+      "Aged",
+      "Middle Aged",
+      "Adenoviridae",
+      "Aged, 80 and over",
+      "Adult",
+      "Immunotherapy",
+      "Lung Cancer",
+      "Oncolytic virus"
+    ],
+    "doi": "",
+    "source": "core",
+    "journal_if": 10.3,
+    "journal_quartile": "Q1",
+    "highlight_score": 55,
+    "chinese_conclusion": "在免疫检查点抑制剂耐药的晚期NSCLC患者中，瘤内注射aglatimagene besadenovec联合伐昔洛韦可诱导全身免疫重塑，中位总生存期达24.5个月，且安全性良好。",
+    "pathology": "NSCLC",
+    "treatment_tags": [
+      "immunotherapy",
+      "targeted therapy"
+    ],
+    "chinese_keywords": [
+      "非小细胞肺癌",
+      "免疫检查点抑制剂耐药",
+      "腺病毒载体",
+      "全身免疫激活",
+      "总生存期"
+    ]
+  }
+]
