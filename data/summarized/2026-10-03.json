@@ -1,0 +1,96 @@
+[
+  {
+    "pmid": "42702214",
+    "title": "Induction and consolidation atezolizumab with stereotactic body radiation therapy versus radiation alone in high-risk, early-stage non-small-cell lung cancer (SWOG/NRG S1914): a multicentre, open-label, superiority, phase 3, randomised controlled trial.",
+    "abstract": "BACKGROUND: Stereotactic body radiation therapy (SBRT) is the standard of care for early-stage, medically inoperable non-small-cell lung cancer (NSCLC). We aimed to test the addition of neoadjuvant, concurrent, and adjuvant atezolizumab with SBRT for early-stage NSCLC. METHODS: In this multicentre, open-label, phase 3, randomised controlled trial, eligible patients from 146 institutions across the USA who had T1-T3N0M0 NSCLC ≤7 cm, and were medically inoperable or declined surgery, and had at least one risk factor suggestive of increased risk of recurrence, were included in the study. Patients underwent open-label equal and stratified randomisation to SBRT over three to eight fractions with or without up to eight cycles of neoadjuvant, concurrent, and adjuvant atezolizumab 1200 mg intravenously every 21 days for up to eight cycles, with SBRT initiated with cycle three. The primary objective was to compare overall survival between the two groups. The group sequential design included four interim analyses. Target accrual was 480 patients (432 eligible). The trial is registered with ClinicalTrials.gov (NCT04214262) and is closed to new participants. FINDINGS: Between March 25, 2020, and Sept 9, 2024, 417 patients were enrolled and randomly assigned to atezolizumab plus SBRT (n=210) or SBRT alone (n=207). 402 were eligible and made up the modified intention-to-treat population (201 per group). The median age was 72·8 years (IQR 67·4-78·4), 218 (54%) of 402 participants were female, and 184 (46%) were male. Accrual closed at the first interim analysis of all randomly assigned participants for futility with 76 progression-free survival (PFS) events and 41 deaths among 400 eligible participants (200 per group). An updated analysis was performed with 140 PFS events, 92 deaths, and a median of 24·8 months (range 0·1-64·9; IQR 18·6-36·0) of follow-up among living patients. The overall survival hazard ratio was 1·04 (95% CI 0·69-1·58; one-sided p=0·58). Estimated 2-year overall survival was 82% in both groups (95% CI 75-87). Grade 3 or higher adverse event rates were 12% with atezolizumab plus SBRT and 3% with SBRT. Two grade 5 respiratory events occurred in the atezolizumab plus SBRT group. INTERPRETATION: In the first fully reported phase 3 cooperative group trial to assess immunotherapy in inoperable early-stage NSCLC, we observed no improvement in overall survival with atezolizumab plus SBRT, and more grade 3 or higher adverse events were reported with atezolizumab combined with SBRT. FUNDING: US National Institutes of Health, US National Cancer Institute, and Genentech.",
+    "journal": "Lancet",
+    "pubdate": "2026-10-03",
+    "pubtypes": [
+      "Journal Article",
+      "Multicenter Study",
+      "Randomized Controlled Trial",
+      "Clinical Trial, Phase III",
+      "Equivalence Trial"
+    ],
+    "authors": "Megan E Daly, Charles B Simone, Mary W Redman, et al.",
+    "keywords": [
+      "Aged",
+      "Female",
+      "Humans",
+      "Male",
+      "Middle Aged",
+      "Antibodies, Monoclonal, Humanized",
+      "Antineoplastic Agents",
+      "Carcinoma, Non-Small-Cell Lung",
+      "Combined Modality Therapy",
+      "Lung Neoplasms",
+      "Neoplasm Staging",
+      "Radiosurgery"
+    ],
+    "doi": "10.1016/S0140-6736(26)01655-7",
+    "source": "core",
+    "journal_if": 98.4,
+    "journal_quartile": "Q1",
+    "highlight_score": 140,
+    "chinese_conclusion": "对于不适合手术的早期NSCLC患者，SBRT联合阿替利珠单抗与单纯SBRT相比未能改善总生存，且3级及以上不良事件发生率更高。",
+    "pathology": "NSCLC",
+    "treatment_tags": [
+      "immunotherapy",
+      "radiotherapy"
+    ],
+    "chinese_keywords": [
+      "非小细胞肺癌",
+      "立体定向放疗",
+      "阿替利珠单抗",
+      "免疫治疗",
+      "早期肺癌"
+    ]
+  },
+  {
+    "pmid": "42823088",
+    "title": "Toripalimab consolidation after chemoradiotherapy in limited-stage small cell lung cancer: a phase II, randomized controlled study (GASTO-1052A).",
+    "abstract": "BACKGROUND: Immune-checkpoint inhibitors (ICIs) plus chemotherapy have demonstrated survival benefits in extensive-stage small cell lung cancer (SCLC). The integration of immunotherapy with concurrent chemoradiotherapy (CCRT) may improve survival outcomes in limited-stage SCLC (LS-SCLC). This phase II randomized controlled study was designed to evaluate the efficacy and safety of toripalimab consolidation versus observation in patients with LS-SCLC after CCRT. METHODS: We conducted this phase II, randomized controlled trial in patients with LS-SCLC who had completed CCRT. Eligible patients were randomized 1:1 to either toripalimab consolidation (240 mg every 3 weeks for up to 6 months) or observation. Randomization was stratified according to disease stage (I or II vs III) and the receipt of prophylactic cranial irradiation (PCI) (yes vs no). The primary endpoint was progression-free survival (PFS). The secondary endpoints included overall survival (OS), objective response rate and toxicities. RESULTS: Between June 30, 2020, and May 31, 2024, a total of 98 patients were randomized to receive either toripalimab consolidation (n=49) or observation (n=49) after CCRT. The trial was prematurely terminated on May 31, 2024. Objective responses were observed in 14 of 23 patients (60.9%) in the toripalimab group and in 9 of 24 patients (37.5%) in the observation group. The median PFS was not reached in the toripalimab group, compared with 14.1 months (95% CI 2.8 to 25.4) in the observation group (HR, 0.55; 95% CI 0.31 to 0.96). The median OS was not reached with toripalimab, compared with 30.3 months (95% CI 20.4 to 40.2) with observation (HR, 0.39; 95% CI 0.19 to 0.80). Treatment-related toxicities were generally mild. Adverse events led to discontinuation of study drug in 6 of 48 patients (12.5%) in the toripalimab group. Grade 3 pneumonitis or radiation pneumonitis occurred in two patient (4.2%) in the toripalimab group and one patient (2.0%) in the observation group. No grade 4 or 5 adverse events occurred in either group. Subgroup analyses of PFS and OS favored toripalimab over observation across all predefined subgroups, including age, sex, Eastern Cooperative Oncology Group performance status, smoking status, disease stage, response to CCRT and the receipt of PCI. CONCLUSION: Consolidative toripalimab showed promising signals of improved PFS and OS with a manageable safety profile in patients with LS-SCLC. These findings warrant confirmation in larger, adequately powered randomized trials.",
+    "journal": "J Immunother Cancer",
+    "pubdate": "2026-10-01",
+    "pubtypes": [
+      "Journal Article",
+      "Clinical Trial, Phase II",
+      "Randomized Controlled Trial"
+    ],
+    "authors": "Pengxin Zhang, DaQuan Wang, Wenzhuo He, et al.",
+    "keywords": [
+      "Humans",
+      "Lung Neoplasms",
+      "Female",
+      "Small Cell Lung Carcinoma",
+      "Chemoradiotherapy",
+      "Male",
+      "Aged",
+      "Middle Aged",
+      "Consolidation Chemotherapy",
+      "Neoplasm Staging",
+      "Antibodies, Monoclonal, Humanized",
+      "Immune Checkpoint Inhibitor",
+      "Lung Cancer"
+    ],
+    "doi": "",
+    "source": "core",
+    "journal_if": 10.3,
+    "journal_quartile": "Q1",
+    "highlight_score": 80,
+    "chinese_conclusion": "局限期小细胞肺癌患者放化疗后接受特瑞普利单抗巩固治疗，可改善无进展生存和总生存，且安全性可控。",
+    "pathology": "SCLC",
+    "treatment_tags": [
+      "immunotherapy",
+      "chemotherapy",
+      "radiotherapy"
+    ],
+    "chinese_keywords": [
+      "小细胞肺癌",
+      "放化疗",
+      "特瑞普利单抗",
+      "巩固治疗",
+      "免疫治疗"
+    ]
+  }
+]
