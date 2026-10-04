@@ -1,0 +1,51 @@
+[
+  {
+    "pmid": "42119729",
+    "title": "Segmentectomy Versus Lobectomy in NSCLC With Pathologically Invasive Features: A Post Hoc Supplementary Analysis of Multicenter, Phase 3 Trial JCOG0802/WJOG4607L.",
+    "abstract": "INTRODUCTION: Segmentectomy has become a standard treatment for small-sized peripheral NSCLC. However, its advantages compared with lobectomy in NSCLC harboring pathologically invasive features remain unclear. METHODS: We conducted a post hoc supplementary analysis of randomized controlled phase 3 trial JCOG0802/WJOG4607L in patients with clinical stage IA NSCLC (≤2 cm) harboring one or more of the following pathologically invasive features: lymphatic, vascular, or pleural invasion and lymph node metastasis. The primary outcome was overall survival (OS), and secondary outcomes were relapse-free survival, cumulative incidence of locoregional relapse, lung cancer-specific death, and death from other causes. RESULTS: Of the 1106 participants randomly assigned to the lobectomy or segmentectomy arm, 298 (27%) were included in this analysis: 164 patients were in the lobectomy arm and 134 in the segmentectomy arm. At a median follow-up of 7.1 (interquartile range: 5.9-8.4) years, segmentectomy demonstrated a trend toward better OS than lobectomy, with hazard ratio (HR) of 0.657 (95% confidence interval [CI]: 0.401-1.077; p = 0.0936). The cumulative incidence of death from other causes was significantly reduced in the segmentectomy arm compared with the lobectomy arm (HR = 0.359 [95% CI: 0.143-0.900]). Relapse-free survival and cumulative incidence of lung cancer-specific death were not significantly different between the two arms, whereas the cumulative incidence of locoregional relapse was significantly higher in the segmentectomy than in the lobectomy arm (HR = 2.234 [95% CI: 1.334-3.741]). CONCLUSIONS: Segmentectomy demonstrated better OS compared with lobectomy even for NSCLC harboring pathologically invasive features. However, the risk of locoregional relapse after segmentectomy should be considered.",
+    "journal": "J Thorac Oncol",
+    "pubdate": "2026-10-01",
+    "pubtypes": [
+      "Journal Article",
+      "Multicenter Study",
+      "Clinical Trial, Phase III",
+      "Randomized Controlled Trial",
+      "Comparative Study"
+    ],
+    "authors": "Shinya Katsumata, Atsushi Kamigaichi, Takaki Akamine, et al.",
+    "keywords": [
+      "Humans",
+      "Carcinoma, Non-Small-Cell Lung",
+      "Lung Neoplasms",
+      "Female",
+      "Pneumonectomy",
+      "Male",
+      "Middle Aged",
+      "Aged",
+      "Neoplasm Invasiveness",
+      "Survival Rate",
+      "Neoplasm Recurrence, Local",
+      "Mastectomy, Segmental",
+      "Invasive",
+      "Lobectomy",
+      "Non–small cell lung cancer"
+    ],
+    "doi": "10.1016/j.jtho.2026.103916",
+    "source": "core",
+    "journal_if": 20.4,
+    "journal_quartile": "Q1",
+    "highlight_score": 100,
+    "chinese_conclusion": "对于具有病理侵袭性特征的非小细胞肺癌患者，肺段切除术与肺叶切除术相比显示出更好的总生存期趋势，但局部复发风险更高，提示肺段切除术可能仍适用于此类患者，但需警惕局部复发。",
+    "pathology": "NSCLC",
+    "treatment_tags": [
+      "surgery"
+    ],
+    "chinese_keywords": [
+      "肺段切除术",
+      "肺叶切除术",
+      "病理侵袭性特征",
+      "局部复发",
+      "总生存期"
+    ]
+  }
+]
