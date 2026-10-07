@@ -1,0 +1,37 @@
+[
+  {
+    "pmid": "42336205",
+    "title": "ctDNA-Based MRD Detection in Stage III NSCLC Treated With Chemoradiotherapy and Durvalumab.",
+    "abstract": "INTRODUCTION: The benefit of durvalumab after chemoradiotherapy (CRT) varies widely in unresectable stage III NSCLC. Circulating tumor DNA (ctDNA)-based minimal residual disease (MRD) detection may help identify patients at high risk of early treatment failure during and after durvalumab. METHODS: In this prospective multicenter study, patients with unresectable stage III NSCLC received CRT followed by durvalumab. Plasma samples were collected at screening, after CRT, at predefined time points during durvalumab, and during post-treatment follow-up. A tumor-agnostic, hybrid-capture ctDNA MRD assay personalized to each patient classified samples as ctDNA detected (MRD positive) or not detected (MRD negative). RESULTS: A total of 659 plasma samples from 84 patients were analyzed. Detectable ctDNA before the seventh cycle of durvalumab (after 6 mo of treatment) and 3 months after treatment completion was strongly associated with inferior progression-free survival (PFS) (hazard ratio [HR]: 2.45, 95% confidence interval [CI]: 1.18-5.11, p = 0.013 and HR: 5.37, 95% CI: 1.93-14.93, p < 0.001, respectively). Detection of ctDNA after CRT but before durvalumab initiation was not prognostic (HR: 1.38, 95% CI: 0.78-2.41, p = 0.269). In a multivariable time-dependent Cox model incorporating all post-CRT samples, detectable ctDNA was associated with a nearly threefold higher risk of progression (HR: 2.95, 95% CI: 1.69-5.15, p < 0.001). CONCLUSIONS: Detectable ctDNA during and after durvalumab was associated with markedly shorter PFS in unresectable stage III NSCLC. Serial ctDNA-based MRD assessment may help identify patients at high risk of relapse who could benefit from alternative or intensified treatment strategies, ideally within prospective clinical trials. GOV IDENTIFIER: NCT04392505.",
+    "journal": "J Thorac Oncol",
+    "pubdate": "2026-10-01",
+    "pubtypes": [
+      "Clinical Trial, Phase II",
+      "Journal Article",
+      "Multicenter Study"
+    ],
+    "authors": "Henrik Horndalsveen, Vilde Drageset Haakensen, Tesfaye Madebo, et al.",
+    "keywords": [
+      "Aged",
+      "Female",
+      "Humans",
+      "Male",
+      "Middle Aged",
+      "Antibodies, Monoclonal",
+      "Carcinoma, Non-Small-Cell Lung",
+      "Chemoradiotherapy",
+      "Circulating Tumor DNA",
+      "Lung Neoplasms",
+      "Neoplasm Staging",
+      "Neoplasm, Residual",
+      "Prospective Studies",
+      "Chemoradiotherapy",
+      "Circulating tumor DNA"
+    ],
+    "doi": "10.1016/j.jtho.2026.103992",
+    "source": "core",
+    "journal_if": 20.4,
+    "journal_quartile": "Q1",
+    "highlight_score": 75
+  }
+]
