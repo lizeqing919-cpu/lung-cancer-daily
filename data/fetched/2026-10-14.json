@@ -1,0 +1,38 @@
+[
+  {
+    "pmid": "42864853",
+    "title": "The Association Between CD40 rs1883832 Polymorphism and Cancer Susceptibility: A Systematic Review and Meta-Analysis.",
+    "abstract": "The CD40 gene, a key immune regulatory molecule, has been implicated in tumorigenesis, and its functional polymorphism rs1883832 located in the Kozak sequence, may modulate cancer susceptibility by influencing CD40 expression. To clarify inconsistent epidemiological findings, a comprehensive meta-analysis was conducted to evaluate the association between the CD40 rs1883832 polymorphism and overall cancer risk. Eligible case-control studies were systematically identified from PubMed, Web of Science and Cochrane Library up to August 15, 2025, and pooled odds ratios (OR) with 95% confidence intervals (CI) were calculated under five genetic models. Eight studies encompassing 3858 cancer cases and 4699 controls met the inclusion criteria. The results revealed a significant association between the rs1883832 T allele and elevated cancer risk in 4 multiple models, including the allele (T vs. C: OR = 1.26, 95% CI: 1.09-1.47, p < 0.01), homozygous (TT vs. CC: OR = 1.58, 95% CI: 1.16-2.16, p < 0.01), recessive (TT vs. TC + CC: OR = 1.43, 95% CI: 1.18-1.82, p < 0.01), and dominant (TT + TC vs. CC: OR = 1.29, 95% CI: 1.03-1.62, p = 0.03) models. Subgroup analyses revealed suggestive patterns of associations in lung cancer and Asian populations. Sensitivity analyses confirmed the robustness of these findings, and no substantial publication bias was detected. In conclusion, this meta-analysis provides compelling evidence that the CD40 rs1883832 T allele may confer increased susceptibility to cancer, thereby underscoring the potential influence of immune gene polymorphisms in carcinogenesis and their relevance for genetic risk assessment in oncology. Trial Registration: PROSPERO number: CRD420251130223.",
+    "journal": "Cancer Med",
+    "pubdate": "2026-10-01",
+    "pubtypes": [
+      "Journal Article",
+      "Meta-Analysis",
+      "Systematic Review",
+      "Review"
+    ],
+    "authors": "Bingxiang Wang, Min Gao, Shuhao Fan, et al.",
+    "keywords": [
+      "Humans",
+      "Genetic Predisposition to Disease",
+      "CD40 Antigens",
+      "Neoplasms",
+      "Polymorphism, Single Nucleotide",
+      "Odds Ratio",
+      "Alleles",
+      "Case-Control Studies",
+      "Genetic Association Studies",
+      "Genotype",
+      "Risk Factors",
+      "CD40",
+      "cancer susceptibility",
+      "gene polymorphism",
+      "meta‐analysis"
+    ],
+    "doi": "10.1002/cam4.72243",
+    "source": "fallback",
+    "journal_if": 4.6,
+    "journal_quartile": "Q2",
+    "highlight_score": 80
+  }
+]
