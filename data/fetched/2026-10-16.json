@@ -1,0 +1,104 @@
+[
+  {
+    "pmid": "42574065",
+    "title": "Rilvegostomig for Metastatic Non-Small Cell Lung Cancer: A First-In-Human Phase I/II Clinical Study.",
+    "abstract": "PURPOSE: Rilvegostomig, an anti-PD-1/T cell immunoreceptor with Ig and immunoreceptor tyrosine-based inhibitory motif domain bispecific antibody, was evaluated in this first-in-human, multicenter, phase I/II, open-label study (NCT04995523) in checkpoint inhibitor (CPI)-experienced patients with programmed cell death ligand-1 (PD-L1)-positive advanced or metastatic non-small cell lung cancer (NSCLC). PATIENTS AND METHODS: In part A, patients (n = 51) received intravenous rilvegostomig at escalating doses of 70, 210, 750, and 1,500 mg, once every 3 weeks. Dose expansion in part B (n = 32) was initiated once the recommended phase II dose (RP2D) was declared in part A. Safety, tolerability, pharmacodynamics, pharmacokinetics, and preliminary antitumor activity were evaluated. RESULTS: In part A, no dose-limiting toxicities were observed, the maximum tolerated dose was not reached, and the rilvegostomig RP2D for dose expansion in part B was 750 mg once every 3 weeks. At data cutoff (April 21, 2025), 90.4% of patients had treatment-emergent adverse events (AE) of any grade, 18.1% of patients had investigator-assessed immune-mediated AEs, and 54.2% had treatment-related AEs (TRAE), including 8.4% with grade 3 TRAEs, with few treatment-related discontinuations (2.4%). At the RP2D, the objective response rate was 5.6%, the 6-month disease control rate was 31.5%, the median progression-free survival (PFS) was 3.8 months, and the 12-month PFS was 11.9%. CONCLUSIONS: The evidence of clinical efficacy in a pretreated population, favorable tolerability, and low rate of treatment discontinuation observed in parts A and B support further evaluation of rilvegostomig in parts C to E of the study, which assess safety and efficacy in CPI-naïve patients with nonsquamous and/or squamous NSCLC with a PD-L1 tumor proportion score of ≥1% or ≥50%.",
+    "journal": "Clin Cancer Res",
+    "pubdate": "2026-10-15",
+    "pubtypes": [
+      "Journal Article",
+      "Clinical Trial, Phase I",
+      "Multicenter Study",
+      "Clinical Trial, Phase II"
+    ],
+    "authors": "Kristoffer S Rohrberg, Mariana Brandão, Eduardo Castañón Álvarez, et al.",
+    "keywords": [
+      "Humans",
+      "Carcinoma, Non-Small-Cell Lung",
+      "Female",
+      "Male",
+      "Lung Neoplasms",
+      "Middle Aged",
+      "Aged",
+      "Adult",
+      "Antibodies, Bispecific",
+      "Aged, 80 and over",
+      "Maximum Tolerated Dose",
+      "B7-H1 Antigen",
+      "Immune Checkpoint Inhibitors"
+    ],
+    "doi": "10.1158/1078-0432.CCR-26-0333",
+    "source": "core",
+    "journal_if": 11.5,
+    "journal_quartile": "Q1",
+    "highlight_score": 75
+  },
+  {
+    "pmid": "42507540",
+    "title": "Efficacy and Safety of Necitumumab and Pembrolizumab Combination Therapy in Advanced Non-Small Cell Lung Cancer with ≥50% PD-L1 Expression: A Nonrandomized Phase II Trial.",
+    "abstract": "PURPOSE: This study investigated the efficacy and safety of pembrolizumab and necitumumab as first-line therapy for patients with advanced non-small cell lung cancer (NSCLC) who had ≥50% programmed death-ligand 1 (PD-L1) expression. PATIENTS AND METHODS: This nonrandomized, multicenter, open-label, single-arm phase II trial included patients with previously untreated advanced NSCLC who had a PD-L1 tumor proportion score of ≥50%. Patients received pembrolizumab and necitumumab every 3 weeks for up to 35 cycles. The primary endpoint was the investigator-assessed objective response rate (ORR). The secondary endpoints included progression-free survival (PFS), overall survival (OS), and safety. RESULTS: The sample comprised 50 patients (38 men, 12 women; median age, 72 years; range, 51-90 years). The ORR was 76% (95% confidence interval, 61.9-86.9; P < 0.0001), with complete and partial response rates of 2% and 74%, respectively. Moreover, 10% and 8% of the patients had stable and progressive disease, respectively, whereas 6% could not be evaluated. The median PFS was 15.7 months, whereas the median OS was not reached at the time of analysis. The most common treatment-related adverse events were rash (64%) and hypomagnesemia (60%). Grade 3 interstitial lung disease occurred in five patients (10%), and grade 5 cardiac arrest occurred in one patient (2%). CONCLUSIONS: The pembrolizumab and necitumumab combination exhibited a promising ORR of 76% with a manageable safety profile in patients with NSCLC who had high PD-L1 expression. These findings highlight the need for further research on this regimen for patients with advanced NSCLC who have high PD-L1 expression.",
+    "journal": "Clin Cancer Res",
+    "pubdate": "2026-10-15",
+    "pubtypes": [
+      "Journal Article",
+      "Clinical Trial, Phase II",
+      "Multicenter Study"
+    ],
+    "authors": "Atsushi Horiike, Hiroshi Wakui, Shunichi Sugawara, et al.",
+    "keywords": [
+      "Humans",
+      "Female",
+      "Carcinoma, Non-Small-Cell Lung",
+      "Aged",
+      "Antibodies, Monoclonal, Humanized",
+      "Male",
+      "Middle Aged",
+      "B7-H1 Antigen",
+      "Aged, 80 and over",
+      "Lung Neoplasms",
+      "Antineoplastic Combined Chemotherapy Protocols",
+      "Antibodies, Monoclonal",
+      "Treatment Outcome",
+      "Neoplasm Staging"
+    ],
+    "doi": "10.1158/1078-0432.CCR-25-2751",
+    "source": "core",
+    "journal_if": 11.5,
+    "journal_quartile": "Q1",
+    "highlight_score": 75
+  },
+  {
+    "pmid": "42869886",
+    "title": "Camrelizumab plus chemotherapy as induction therapy followed by concurrent chemoradiotherapy and camrelizumab consolidation in limited-stage small cell lung cancer: a randomized phase II trial.",
+    "abstract": "Definitive chemoradiotherapy followed by immunotherapy consolidation is the current standard of care for limited-stage small cell lung cancer (LS-SCLC). We conducted a randomized phase II trial (ChiCTR2000032275) to evaluate a camrelizumab-based induction-consolidation strategy in previously untreated patients with LS-SCLC. Patients were randomly assigned (1:1) to receive induction camrelizumab plus etoposide-platinum followed by concurrent chemoradiotherapy (CRT) and camrelizumab consolidation (camrelizumab group), or induction chemotherapy followed by concurrent CRT alone (cCRT group). The primary endpoint was the 1‑year progression‑free survival (PFS) rate. Secondary endpoints included objective response rate (ORR), PFS, overall survival (OS), and safety. Between November 2020 and April 2024, 41 patients were enrolled. At a median follow‑up of 32.1 months (interquartile range [IQR]: 26.4-38.7), ORR was 100% in the camrelizumab group and 83.3% in the cCRT group. The 1‑year PFS rates were 65.5% with camrelizumab versus 47.4% with cCRT (P = 0.029). Median PFS was 24.0 months versus 11.8 months, and median OS was not reached versus 23.9 months (P = 0.042). Exploratory biomarker analyses indicated that patients with lower baseline systemic inflammatory indices, including neutrophil-to-lymphocyte ratio <2.8 and platelet-to-lymphocyte ratio <207.0, and those with a decline in lactate dehydrogenase at week 12 after CRT, derived greater benefit from camrelizumab. The OS benefit was also more evident in patients with Ki-67 ≤80%. Toxicities in the camrelizumab group were manageable, with a low incidence of severe immune-related adverse events (4.8%), and radiation pneumonitis rates were comparable between groups. Taken together, induction camrelizumab combined with chemotherapy, followed by CRT and camrelizumab consolidation, significantly improved survival outcomes in LS-SCLC, with a manageable safety profile, warranting further validation for this aggressive malignancy.",
+    "journal": "Signal Transduct Target Ther",
+    "pubdate": "2026-10-14",
+    "pubtypes": [
+      "Journal Article",
+      "Randomized Controlled Trial",
+      "Clinical Trial, Phase II"
+    ],
+    "authors": "Di Liu, Letong Yang, Min Hu, et al.",
+    "keywords": [
+      "Humans",
+      "Female",
+      "Male",
+      "Lung Neoplasms",
+      "Chemoradiotherapy",
+      "Middle Aged",
+      "Antibodies, Monoclonal, Humanized",
+      "Small Cell Lung Carcinoma",
+      "Aged",
+      "Antineoplastic Combined Chemotherapy Protocols",
+      "Induction Chemotherapy",
+      "Etoposide",
+      "Neoplasm Staging",
+      "Adult"
+    ],
+    "doi": "",
+    "source": "core",
+    "journal_if": 40.8,
+    "journal_quartile": "Q1",
+    "highlight_score": 50
+  }
+]
