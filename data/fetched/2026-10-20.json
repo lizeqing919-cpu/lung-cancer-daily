@@ -1,0 +1,35 @@
+[
+  {
+    "pmid": "42385125",
+    "title": "Efficacy and Tolerability of Zenocutuzumab in Advanced ",
+    "abstract": "PURPOSE: Presently, to our knowledge, there are no approved targeted therapies for neuregulin 1 gene fusion-positive (NRG1+) cholangiocarcinoma. Zenocutuzumab, a HER2 × HER3 bispecific antibody, is approved for previously treated, advanced/metastatic NRG1+ non-small cell lung cancer and pancreatic adenocarcinoma. Here, we report results for 22 patients with NRG1+ cholangiocarcinoma in the eNRGy trial. METHODS: eNRGy is a single-arm, phase II study of zenocutuzumab in advanced NRG1+ solid tumors. Patients were age 18 years and older and previously treated with or unsuitable for standard therapy. Zenocutuzumab 750 mg was administered intravenously once every 2 weeks. The primary end point was investigator-assessed overall response rate (ORR; RECIST v1.1). Secondary end points included duration of response (DOR), clinical benefit rate (CBR), progression-free survival (PFS), and safety. RESULTS: As of July 31, 2025, 22 patients (median age 57.5 years) with advanced NRG1+ cholangiocarcinoma were enrolled and had received a median of 1.0 (range, 0-6) prior therapies. In the 18 patients with tumor subtype data available, all had intrahepatic cholangiocarcinoma. Three patients did not meet the protocol-defined criteria for inclusion in the efficacy analysis. Seven of 19 patients achieved a response, resulting in an ORR of 36.8% (95% CI, 16.3 to 61.6). The median DOR was 7.4 months and the median time to response was 1.9 months. The CBR was 57.9% (95% CI, 33.5 to 79.7). Median PFS was 9.2 months (95% CI, 3.9 to 11.1). Most treatment-related adverse events (TRAEs) were grade 1 and 2, and the most common were diarrhea (27.3%), fatigue (18.2%), and nausea (13.6%). One patient had a grade 3 TRAE of anemia. No patients discontinued treatment due to an AE. CONCLUSION: Zenocutuzumab demonstrated clinically meaningful and durable antitumor activity with a favorable safety profile in patients with advanced NRG1+ cholangiocarcinoma.",
+    "journal": "J Clin Oncol",
+    "pubdate": "2026-10-20",
+    "pubtypes": [
+      "Journal Article",
+      "Clinical Trial, Phase II",
+      "Multicenter Study"
+    ],
+    "authors": "James M Cleary, Christoph Springfeld, Dirk Arnold, et al.",
+    "keywords": [
+      "Humans",
+      "Cholangiocarcinoma",
+      "Female",
+      "Middle Aged",
+      "Neuregulin-1",
+      "Aged",
+      "Male",
+      "Bile Duct Neoplasms",
+      "Adult",
+      "Oncogene Proteins, Fusion",
+      "Antineoplastic Agents, Immunological",
+      "Aged, 80 and over",
+      "Progression-Free Survival"
+    ],
+    "doi": "10.1200/JCO-25-03128",
+    "source": "core",
+    "journal_if": 42.1,
+    "journal_quartile": "Q1",
+    "highlight_score": 95
+  }
+]
