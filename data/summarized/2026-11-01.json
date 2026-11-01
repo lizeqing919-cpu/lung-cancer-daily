@@ -1,0 +1,368 @@
+[
+  {
+    "pmid": "42815252",
+    "title": "Systemic and intracranial activity of antibody-drug conjugates in patients with non-small cell lung cancer and brain metastases: A systematic review and meta-analysis.",
+    "abstract": "INTRODUCTION: Brain metastases (BM) remain a major clinical challenge in patients with non-small cell lung cancer (NSCLC). Although antibody-drug conjugates (ADCs) have emerged as important treatment options for advanced NSCLC, their efficacy in patients with BM remains uncertain because of concerns regarding blood-brain barrier penetration and the underrepresentation of patients with BM in clinical trials. METHODS: A systematic literature search was conducted to identify studies evaluating ADCs in patients with NSCLC and BM. PubMed, Embase, the Cochrane Library, Web of Science, and major conference proceedings were searched. Outcomes included systemic and intracranial (IC) objective response rates (ORR), disease control rate (DCR), and grade ≥3 adverse events (AEs). RESULTS: A total of 13 studies comprising 3,191 patients were included, of whom 905 had BM. The pooled systemic ORR was 40% (95% confidence interval [CI]: 30-52%), with a systemic DCR of 77%. ADCs achieved an IC-ORR of 33% (95% CI: 25-43%) and an IC-DCR of 78%. HER2-targeted ADCs showed substantial activity (systemic ORR: 54%; IC-ORR: 44%), while TROP-2- and HER3-targeted ADCs also showed promising activity. No significant difference in systemic ORR was observed between patients with and without BM (pooled odds ratio, 1.00; 95% CI, 0.67-1.49; p = 1.00). CONCLUSIONS: ADCs demonstrated clinically meaningful systemic and intracranial activity in patients with NSCLC and BM, with no significant difference in systemic ORR by BM status. These findings support ADCs as a promising therapeutic option for this underserved population.",
+    "journal": "Lung Cancer",
+    "pubdate": "2026-11-01",
+    "pubtypes": [
+      "Systematic Review",
+      "Journal Article",
+      "Meta-Analysis"
+    ],
+    "authors": "Susu Zhou, Jiayi Tan, Vishw Patel, et al.",
+    "keywords": [
+      "Humans",
+      "Carcinoma, Non-Small-Cell Lung",
+      "Immunoconjugates",
+      "Brain Neoplasms",
+      "Lung Neoplasms",
+      "Treatment Outcome",
+      "Antibody–drug conjugate",
+      "Brain metastases",
+      "Intracranial activity",
+      "Non-small cell lung cancer"
+    ],
+    "doi": "10.1016/j.lungcan.2026.109638",
+    "source": "core",
+    "journal_if": 5.3,
+    "journal_quartile": "Q2",
+    "highlight_score": 100,
+    "chinese_conclusion": "抗体药物偶联物在非小细胞肺癌脑转移患者中显示出有临床意义的全身和颅内活性，全身客观缓解率在有和无脑转移患者间无显著差异，支持其作为这类患者的治疗选择。",
+    "pathology": "NSCLC",
+    "treatment_tags": [
+      "targeted therapy"
+    ],
+    "chinese_keywords": [
+      "抗体药物偶联物",
+      "脑转移",
+      "非小细胞肺癌",
+      "颅内活性",
+      "系统评价"
+    ]
+  },
+  {
+    "pmid": "42800149",
+    "title": "Pathological complete necrosis after pulmonary thermal ablation: a systematic review and meta-analysis of ablate-and-resect studies.",
+    "abstract": "BACKGROUND: Thermal ablation is increasingly used for pulmonary tumors, but treatment success is generally assessed by imaging rather than direct histopathology. Ablation-followed-by-resection studies provide direct evidence of residual viable tumor after ablation. RESEARCH QUESTION: What is the rate of pathologically confirmed complete tumor necrosis after pulmonary thermal ablation, and which methodological or biological factors influence this outcome? STUDY DESIGN AND METHODS: A systematic search of PubMed, Embase, and Web of Science (2005-2025) yielded 8 ablate-and-resect studies with 95 evaluable lesions. The primary analysis used a generalized linear mixed model (GLMM). The subgroups were sorted according to pathological assessment stringency, resection time, tumor type and ablation procedure. RESULTS: The pooled complete necrosis rate was 71.4 % (95 % CI 40.1 %-90.3 %), with significant between-study heterogeneity (likelihood-ratio p < 0.0001) and a wide 95 % prediction interval (4.0 %-99.3 %). A Freeman-Tukey sensitivity analysis yielded a similar estimate of 69.0 %. Complete-necrosis rates varied numerically by pathological assessment (55.6 % vs 81.7 %), resection timing (61.1 % vs 79.7 %), tumor type (44.3 % vs 81.1 %), and ablation modality, but none of the subgroup differences was statistically significant. INTERPRETATION: Pathologic complete necrosis after pulmonary thermal ablation varies substantially across ablate-and-resect studies and is influenced by both treatment context and pathological assessment. The pooled estimate should therefore be interpreted as a descriptive summary of a heterogeneous evidence base rather than as a benchmark for contemporary definitive ablation.",
+    "journal": "Lung Cancer",
+    "pubdate": "2026-11-01",
+    "pubtypes": [
+      "Journal Article",
+      "Systematic Review",
+      "Meta-Analysis"
+    ],
+    "authors": "Kaixin Zhao, Qiuxi Zhou, Xinming Nie, et al.",
+    "keywords": [
+      "Humans",
+      "Necrosis",
+      "Lung Neoplasms",
+      "Treatment Outcome",
+      "Catheter Ablation",
+      "Lung",
+      "Ablation Techniques",
+      "Ablate-and-resect",
+      "Lung neoplasms",
+      "Meta-analysis",
+      "Pathologic complete necrosis",
+      "Pulmonary thermal ablation",
+      "Viability assessment"
+    ],
+    "doi": "10.1016/j.lungcan.2026.109631",
+    "source": "core",
+    "journal_if": 5.3,
+    "journal_quartile": "Q2",
+    "highlight_score": 100,
+    "chinese_conclusion": "肺热消融后病理完全坏死率在不同研究中差异较大，汇总估计值应作为异质性证据的描述性总结，而非当代根治性消融的基准。",
+    "pathology": "Other",
+    "treatment_tags": [
+      "surgery"
+    ],
+    "chinese_keywords": [
+      "热消融",
+      "肺肿瘤",
+      "病理完全坏死",
+      "系统评价",
+      "Meta分析"
+    ]
+  },
+  {
+    "pmid": "42691846",
+    "title": "Subtyping limited stage small cell lung cancer (LS SCLC) reveals inflammatory subtypes with improved chemoradiotherapy outcomes.",
+    "abstract": "BACKGROUND: Concurrent chemoradiotherapy (CRT) remains the primary treatment for limited stage (LS) small cell lung cancer (SCLC). Although most patients respond, the majority relapse and die from the disease, and treatment-related toxicity is common. Molecular subtyping has been extensively investigated in SCLC, but its clinical relevance remains uncertain, and most studies have focused on systemic treatment of extensive-stage SCLC. We analysed baseline tumor samples from a subset of participants (n = 77) in a randomized trial (n = 170) comparing high-dose (60 Gy/40 fractions) with standard-dose (45 Gy/30 fractions) twice-daily thoracic radiotherapy given concurrently with platinum-etoposide chemotherapy for LS SCLC, aiming to characterize molecular subtypes of LS SCLC and evaluate their association with time to progression (TTP) and overall survival (OS). METHODS: Molecular subtypes were defined in 81 samples using non-negative matrix factorization on gene expression data, supported by differential expression and known SCLC markers. RESULTS: Inflamed subtypes were associated with better treatment outcomes. Univariable analysis indicate that SCLC-I-NE (inflamed neuroendocrine) was associated with longer TTP (HR 0.10, 95 % CI 0.01-0.80, p = 0.03), and SCLC-I-nNE (inflamed non-neuroendocrine) was associated with improved OS (HR 0.16, 95 % CI 0.03-0.77, p = 0.02). By contrast, SCLC-N (NEUROD1-driven) was consistently associated with both shorter TTP (HR 6.90, 95 % CI 1.49-31.92, p = 0.01) and OS (HR 4.89, 95 % CI 1.24-19.21, p = 0.02). CONCLUSIONS: For LS SCLC patients receiving CRT, tumors of inflamed subtypes were associated with improved outcomes, whereas SCLC-N tumors were linked to unfavorable TTP and OS.",
+    "journal": "Lung Cancer",
+    "pubdate": "2026-11-01",
+    "pubtypes": [
+      "Journal Article",
+      "Randomized Controlled Trial"
+    ],
+    "authors": "Rafael Oliveira, Tarje Halvorsen, Kristin Killingberg, et al.",
+    "keywords": [
+      "Humans",
+      "Small Cell Lung Carcinoma",
+      "Lung Neoplasms",
+      "Chemoradiotherapy",
+      "Female",
+      "Male",
+      "Treatment Outcome",
+      "Neoplasm Staging",
+      "Aged",
+      "Etoposide",
+      "Middle Aged",
+      "Antineoplastic Combined Chemotherapy Protocols",
+      "Prognosis",
+      "Inflammation",
+      "Biomarkers"
+    ],
+    "doi": "10.1016/j.lungcan.2026.109606",
+    "source": "core",
+    "journal_if": 5.3,
+    "journal_quartile": "Q2",
+    "highlight_score": 100,
+    "chinese_conclusion": "局限期小细胞肺癌接受同步放化疗的患者中，炎症亚型肿瘤与更好的治疗结局相关，而SCLC-N亚型与较差的至进展时间和总生存期相关。",
+    "pathology": "SCLC",
+    "treatment_tags": [
+      "chemotherapy",
+      "radiotherapy"
+    ],
+    "chinese_keywords": [
+      "局限期小细胞肺癌",
+      "分子亚型",
+      "同步放化疗",
+      "炎症亚型",
+      "神经内分泌"
+    ]
+  },
+  {
+    "pmid": "42140502",
+    "title": "A Meta-Analysis-Based Risk Score for Predicting Radiation Pneumonitis After Thoracic Radiation Therapy for Lung Cancer.",
+    "abstract": "PURPOSE: To develop and validate a risk score for predicting radiation pneumonitis (RP) in lung cancer patients following thoracic radiation therapy. METHODS AND MATERIALS: The linear predictor was first derived from a meta-analysis. Risk factors with consistent definitions and statistical significance were identified, and their pooled odds ratios were converted to β-coefficients and then linearly transformed to construct the initial scoring items. An independent Asian calibration cohort (cohort 1, n = 218) was used to estimate the model's intercept and to determine the optimal risk stratification cut-off via receiver operating characteristic analysis. The discrimination capability and clinical applicability of the model were subsequently evaluated in 2 independent Asian external validation cohorts (cohort 2, n = 69; cohort 3, n = 81). The primary endpoint was grade ≥2 RP (National Cancer Institute Common Terminology Criteria for Adverse Events version 5.0). RESULTS: The final score for predicting RP included 7 variables: smoking, chemotherapy, tumor location, pulmonary comorbidities, use of renin-angiotensin system inhibitors, percentage of lung volume receiving ≥5 Gy (V5), and percentage of lung volume receiving ≥20 Gy (V20), with a total possible score of 107. It demonstrated an area under the curve of 0.831 (95% CI, 0.768-0.894) in the calibration cohort, establishing 53.5 points as the optimal cut-off value for risk stratification. Discriminative performance remained robust in external validation, with areas under the curve of 0.881 (95% CI, 0.799-0.962) and 0.845 (95% CI, 0.749-0.942), respectively. At this threshold, positive likelihood ratios (LR+) across the 3 cohorts were 3.097, 2.934, and 3.492, and negative likelihood ratios (LR-) were 0.224, 0.159, and 0.212. The high-risk group showed significantly elevated relative risks for RP (7.270, 5.143, and 5.884; all P < .001). To facilitate clinical use, this scoring system has been made available as a web-based calculator. CONCLUSIONS: We developed a meta-analysis-based risk score for RP and independently validated it in Asian cohorts. This tool provides reliable risk stratification that may aid in personalized management and optimization of resource allocation for this population.",
+    "journal": "Int J Radiat Oncol Biol Phys",
+    "pubdate": "2026-11-01",
+    "pubtypes": [
+      "Journal Article",
+      "Meta-Analysis",
+      "Validation Study"
+    ],
+    "authors": "Jiming Yang, Ting Zhu, Jianliang Zhou, et al.",
+    "keywords": [
+      "Humans",
+      "Radiation Pneumonitis",
+      "Lung Neoplasms",
+      "Risk Assessment",
+      "Risk Factors",
+      "Smoking",
+      "ROC Curve",
+      "Lung",
+      "Radiotherapy Dosage",
+      "Female",
+      "Aged",
+      "Male",
+      "Middle Aged"
+    ],
+    "doi": "10.1016/j.ijrobp.2026.05.001",
+    "source": "core",
+    "journal_if": 6.4,
+    "journal_quartile": "Q1",
+    "highlight_score": 100,
+    "chinese_conclusion": "基于Meta分析构建的放射性肺炎风险评分纳入7个变量，在亚洲队列中具有良好的区分度和临床适用性，可用于胸部放疗后放射性肺炎的个体化风险分层。",
+    "pathology": "NSCLC",
+    "treatment_tags": [
+      "radiotherapy"
+    ],
+    "chinese_keywords": [
+      "放射性肺炎",
+      "肺肿瘤",
+      "风险评分",
+      "胸部放疗",
+      "剂量体积参数"
+    ]
+  },
+  {
+    "pmid": "42086125",
+    "title": "Mature Outcomes of 61.2 Gy Concomitant Boost Thoracic Radiation Therapy in Limited-Stage Small Cell Lung Cancer: CALGB 30610 (Alliance)/RTOG 0538.",
+    "abstract": "PURPOSE: We report mature outcomes of patients with limited-stage small cell lung cancer randomly assigned to the 61.2 Gy concomitant boost (CB) thoracic radiation therapy (TRT) arm of Cancer and Leukemia Group B (CALGB) 30610/Radiation Therapy Oncology Group (RTOG) 0538. The CB arm was discontinued after planned interim analysis; however, the study provides the largest prospective data set using 61.2 Gy CB TRT. METHODS AND MATERIALS: Eligible patients had limited-stage small cell lung cancer with regional lymph node involvement and Eastern Cooperative Oncology Group performance status 0 to 2. TRT began with either the first or second (of 4 total) cycle of cisplatin-based chemotherapy. Three-dimensional conformal radiation therapy or intensity modulated radiation therapy planning was required. In the initial phase of the trial, patients were randomly assigned with a 1:1:1 allocation to 45 Gy twice daily, 70 Gy once daily, and 61.2 Gy CB TRT. RESULTS: Ninety-three patients were assigned to receive 61.2 Gy CB TRT. After a median follow-up of 115 months for surviving patients, median overall survival and progression-free survival were 32.3 months (95% CI, 20.4-44.8 months) and 15.4 months (95% CI, 10.0-24.0 months), respectively. Five-year overall survival was 28.5% (95% CI, 20.6-39.6). Rates of grade 3 and 4 nonhematologic adverse events were 40.9% and 25%, including 16% dysphagia and 7% severe pulmonary toxicity. CONCLUSIONS: CB TRT outcomes appear similar to contemporaneous trials using 45 Gy twice-daily or high-dose once-daily TRT and compare favorably with prior phase 2 data. Improved outcomes highlight the impact of advances in staging and radiation therapy techniques, although additional factors may have contributed.",
+    "journal": "Int J Radiat Oncol Biol Phys",
+    "pubdate": "2026-11-01",
+    "pubtypes": [
+      "Journal Article",
+      "Randomized Controlled Trial"
+    ],
+    "authors": "Jeffrey A Bogart, Xiaofei Wang, Gregory Masters, et al.",
+    "keywords": [
+      "Humans",
+      "Lung Neoplasms",
+      "Small Cell Lung Carcinoma",
+      "Cisplatin",
+      "Female",
+      "Aged",
+      "Male",
+      "Middle Aged",
+      "Radiotherapy, Intensity-Modulated",
+      "Radiotherapy Dosage",
+      "Radiotherapy, Conformal",
+      "Re-Irradiation",
+      "Antineoplastic Combined Chemotherapy Protocols",
+      "Treatment Outcome",
+      "Prospective Studies"
+    ],
+    "doi": "10.1016/j.ijrobp.2026.04.086",
+    "source": "core",
+    "journal_if": 6.4,
+    "journal_quartile": "Q1",
+    "highlight_score": 100,
+    "chinese_conclusion": "61.2 Gy同步加量胸部放疗用于局限期小细胞肺癌的成熟结果显示，其生存结局与同期采用45 Gy每日两次或高剂量每日一次的试验相似，且毒性可接受。",
+    "pathology": "SCLC",
+    "treatment_tags": [
+      "radiotherapy",
+      "chemotherapy"
+    ],
+    "chinese_keywords": [
+      "局限期小细胞肺癌",
+      "同步加量放疗",
+      "胸部放疗",
+      "总生存期",
+      "毒性"
+    ]
+  },
+  {
+    "pmid": "42843316",
+    "title": "Trial-specific absolute disease-free survival effects of postoperative PD-1/PD-L1 blockade after complete resection of NSCLC: A systematic review.",
+    "abstract": "INTRODUCTION: Postoperative PD-1/PD-L1 blockade after complete resection of non-small-cell lung cancer (NSCLC) is mainly reported using relative disease-free survival (DFS) effects. We estimated absolute effects for distinct completed trial policies. METHODS: We systematically reviewed randomized phase III trials of postoperative single-agent PD-1/PD-L1 blockade. Published Kaplan-Meier curves were reconstructed to estimate trial-specific 36-month restricted mean DFS time (RMST) and DFS probability differences. Primary intervals used 2,000 arm-stratified bootstrap replicates. Sensitivity analyses examined reconstruction methods and time horizons; overall survival (OS) reconstruction was exploratory. Harms were described by trial, without pooling. REGISTRATION: PROSPERO CRD420261469971. RESULTS: Four trial families included 4,336 participants. Thirty-six-month RMST differences ranged from 1.34 to 1.97 months; DFS probability differences corresponded to 2.3-6.1 additional participants without a trial-defined DFS event per 100 randomized. Confidence intervals included zero for two RMST and three DFS probability estimates. The KEYNOTE-091 DFS probability interval crossed zero under alternative reconstruction; RMST interval interpretations were unchanged. The four-trial hazard-ratio synthesis was descriptive and model sensitive. Exploratory 36-month OS reconstructions in three trials yielded intervals allowing benefit and harm. In three trials with available between-arm safety data, severe and serious adverse events were more frequent with checkpoint blockade. CONCLUSIONS: Reconstructed trial-specific estimates suggest average absolute DFS gains through 36 months, with substantial uncertainty. They complement the original trial results when discussing postoperative treatment; they do not establish a class-wide effect, treatment ranking, or individual benefit.",
+    "journal": "Lung Cancer",
+    "pubdate": "2026-11-01",
+    "pubtypes": [
+      "Systematic Review",
+      "Journal Article"
+    ],
+    "authors": "Zhiheng Yao, Xinyuan Wang, Hanliang Zhang, et al.",
+    "keywords": [
+      "Humans",
+      "Carcinoma, Non-Small-Cell Lung",
+      "Lung Neoplasms",
+      "Immune Checkpoint Inhibitors",
+      "Disease-Free Survival",
+      "Programmed Cell Death 1 Receptor",
+      "Randomized Controlled Trials as Topic",
+      "B7-H1 Antigen",
+      "Clinical Trials, Phase III as Topic",
+      "Carcinoma, non-small-cell lung",
+      "Disease-free survival",
+      "Immune checkpoint inhibitors",
+      "Kaplan-meier estimate",
+      "Survival analysis"
+    ],
+    "doi": "10.1016/j.lungcan.2026.109642",
+    "source": "core",
+    "journal_if": 5.3,
+    "journal_quartile": "Q2",
+    "highlight_score": 90,
+    "chinese_conclusion": "对完全切除的非小细胞肺癌患者术后使用PD-1/PD-L1阻断剂，重建的试验特异性估计提示36个月内平均无病生存绝对获益，但存在较大不确定性，不能确立类效应或个体获益。",
+    "pathology": "NSCLC",
+    "treatment_tags": [
+      "immunotherapy",
+      "surgery"
+    ],
+    "chinese_keywords": [
+      "非小细胞肺癌",
+      "PD-1/PD-L1抑制剂",
+      "术后辅助治疗",
+      "无病生存",
+      "系统评价"
+    ]
+  },
+  {
+    "pmid": "42767923",
+    "title": "First-line camrelizumab plus chemotherapy followed by camrelizumab-apatinib maintenance for ES-SCLC: a single-arm phase II study.",
+    "abstract": "BACKGROUND: Immune-antiangiogenic combinations have shown promising signals of activity in ES-SCLC, but the optimal timing of anti-angiogenic therapy and biomarkers associated with benefit remain undefined. This study evaluated the efficacy and safety of combining apatinib with camrelizumab during maintenance and explored immune-molecular biomarkers of benefit. METHODS: In this single-arm phase II trial, apatinib plus camrelizumab as maintenance therapy following induction therapy with camrelizumab plus platinum-etoposide chemotherapy was administered to treatment-naïve ES-SCLC patients (ACES). The primary endpoint was 6-month progression-free survival (PFS) rate; secondary endpoints included objective response rate (ORR), disease control rate (DCR), overall survival (OS), PFS, and safety. Multiplex immunofluorescence (mIF) and RNA sequencing were performed as exploratory immune-molecular analyses. RESULTS: Between March 2021 and July 2024, 41 patients were enrolled. At a median follow-up of 31.0 months, the 6-month PFS rate was 71.1% (95% CI: 53.9-82.9), with median PFS and OS of 8.7 months (95% CI: 6.9-10.6) and 17.2 months (95% CI: 14.5-19.9), respectively. ORR was 82.9% and DCR was 92.7%. Grade ≥ 3 treatment-related adverse events occurred in 22.0% of patients, with no treatment-related deaths. MIF revealed that durable clinical benefit was associated with a \"high-CD8+/low-M2\" immune phenotype. Transcriptomic profiling suggested an exploratory 9-gene expression pattern associated with progression-free survival. CONCLUSIONS: Camrelizumab plus chemotherapy followed by camrelizumab-apatinib maintenance showed preliminary antitumor activity with manageable safety in patients with ES-SCLC. Exploratory immune-molecular profiling suggested a putative \"high-CD8+/low-M2\" immune phenotype and a 9-gene expression pattern associated with clinical benefit.",
+    "journal": "Lung Cancer",
+    "pubdate": "2026-11-01",
+    "pubtypes": [
+      "Journal Article",
+      "Clinical Trial, Phase II"
+    ],
+    "authors": "Minghui Zhang, Mingyuan Guo, Lijun Li, et al.",
+    "keywords": [
+      "Humans",
+      "Antineoplastic Combined Chemotherapy Protocols",
+      "Female",
+      "Pyridines",
+      "Male",
+      "Antibodies, Monoclonal, Humanized",
+      "Lung Neoplasms",
+      "Middle Aged",
+      "Adult",
+      "Apatinib",
+      "Camrelizumab",
+      "Maintenance therapy",
+      "Phase II trial",
+      "Small-cell lung cancer"
+    ],
+    "doi": "10.1016/j.lungcan.2026.109623",
+    "source": "core",
+    "journal_if": 5.3,
+    "journal_quartile": "Q2",
+    "highlight_score": 75,
+    "chinese_conclusion": "卡瑞利珠单抗联合化疗后卡瑞利珠单抗-阿帕替尼维持治疗广泛期小细胞肺癌显示出初步抗肿瘤活性和可控的安全性，且高CD8+/低M2免疫表型可能与持久临床获益相关。",
+    "pathology": "SCLC",
+    "treatment_tags": [
+      "immunotherapy",
+      "targeted therapy",
+      "chemotherapy"
+    ],
+    "chinese_keywords": [
+      "广泛期小细胞肺癌",
+      "卡瑞利珠单抗",
+      "阿帕替尼",
+      "维持治疗",
+      "免疫表型"
+    ]
+  },
+  {
+    "pmid": "42748526",
+    "title": "Reassessing surgical resection in small cell lung cancer in the multimodal treatment era.",
+    "abstract": "BACKGROUND: Small cell lung cancer (SCLC) accounts for approximately 15% of all lung cancer cases. Although up to 30% of patients present with locoregional disease, only a highly selected minority are considered candidates for multimodality treatment including surgical resection. METHODS: In this single-center retrospective study, patients with SCLC who underwent surgical resection as part of a multimodality treatment approach between 2000 and 2023 were analyzed. Clinical, pathological, treatment-related variables, and follow-up data were collected. A control cohort of 115 patients treated with definitive chemoradiotherapy (CRT) during the same period was included. Propensity score matching (1:1) was performed based on age, sex, and UICC stage. RESULTS: A total of 115 patients (70 men, 45 women; median age 62.6 years) underwent surgical resection. Anatomical lung resection with systematic lymph node dissection was performed in 108 patients (93.9%), while 7 patients (6.1%) underwent wedge resection with lymphadenectomy. Platinum-based chemotherapy was administered in 92.2% of patients, and 31.1% received mediastinal radiotherapy. Median overall survival (OS) was significantly longer in the surgical cohort compared with the CRT cohort (57.3 vs. 21.7 months; p < 0.0001). In stage I-II disease, median OS was 88.5 months in the surgical group versus 26.1 months in the CRT group (p < 0.0001). On multivariable analysis, age, sex, tumor stage, and treatment modality were independently associated with OS. CONCLUSION: In this retrospective cohort, surgical resection as part of a multimodality treatment strategy was associated with favorable survival outcomes in highly selected patients with early-stage SCLC. Owing to the retrospective study design and the potential for residual selection bias, these findings should be considered hypothesis-generating and warrant prospective validation.",
+    "journal": "Lung Cancer",
+    "pubdate": "2026-11-01",
+    "pubtypes": [
+      "Journal Article"
+    ],
+    "authors": "Romina Maria Roesch, Michaela Utz, Florian Eichhorn, et al.",
+    "keywords": [
+      "Humans",
+      "Female",
+      "Lung Neoplasms",
+      "Retrospective Studies",
+      "Male",
+      "Combined Modality Therapy",
+      "Small Cell Lung Carcinoma",
+      "Middle Aged",
+      "Neoplasm Staging",
+      "Aged",
+      "Chemoradiotherapy",
+      "Treatment Outcome",
+      "Pneumonectomy",
+      "Early stage",
+      "Limited disease"
+    ],
+    "doi": "10.1016/j.lungcan.2026.109600",
+    "source": "core",
+    "journal_if": 5.3,
+    "journal_quartile": "Q2",
+    "highlight_score": 60,
+    "chinese_conclusion": "回顾性队列显示，在高度选择的早期小细胞肺癌患者中，作为多模式治疗一部分的手术切除相比根治性放化疗与更长的总生存期相关，但需前瞻性验证。",
+    "pathology": "SCLC",
+    "treatment_tags": [
+      "surgery",
+      "radiotherapy",
+      "chemotherapy"
+    ],
+    "chinese_keywords": [
+      "手术切除",
+      "小细胞肺癌",
+      "多模式治疗",
+      "生存期",
+      "回顾性研究"
+    ]
+  }
+]
