@@ -1,0 +1,60 @@
+[
+  {
+    "pmid": "42966162",
+    "title": "Association of the IASLC histologic grading system with aggressive pathologic features in invasive non-mucinous lung adenocarcinoma.",
+    "abstract": "BACKGROUND: The IASLC three-tiered histologic grading system for invasive non-mucinous lung adenocarcinoma, which combines the predominant subtype with a ≥ 20% high-grade pattern threshold, remains insufficiently validated in screening-era populations dominated by small nodules. We examined its association with lymph node metastasis and visceral pleural invasion in a large single-center surgical cohort. METHODS: We retrospectively enrolled 7,806 patients who underwent resection of invasive non-mucinous lung adenocarcinoma between 2011 and 2025 without neoadjuvant therapy and could be graded per IASLC criteria (grade 1, 3,435; grade 2, 3,875; grade 3, 496). Multivariable logistic regression adjusted for tumor diameter, age, sex, and year of surgery, with trend tests, a grade-by-size interaction test, and prespecified subgroup analyses. RESULTS: Across grades 1-3, lymph node metastasis rates were 0.7%, 4.9%, and 31.0%, and visceral pleural invasion rates were 2.0%, 9.6%, and 33.6% (all P < 0.001); versus grade 1, adjusted ORs for grade 3 were 37.48 (95% CI 22.06-63.70) and 14.10 (95% CI 9.81-20.27). In the ≤ 2 cm subgroup, lymph node metastasis rates were 0.3%, 2.8%, and 19.9%, with a grade 3 adjusted OR of 48.66 (95% CI 21.88-108.25); the discriminatory performance of grade for lymph node metastasis was stronger in tumors ≤ 2 cm (P for interaction = 0.006). A micropapillary component of any proportion remained independently associated with lymph node metastasis after adjustment for grade (OR 1.84, 95% CI 1.33-2.56; ≤2 cm subgroup: OR 1.78, 95% CI 1.06-3.00). CONCLUSIONS: Higher IASLC grade was directly associated with lymph node metastasis and visceral pleural invasion in invasive non-mucinous lung adenocarcinoma, including among ≤ 2 cm nodules; grade 3 identifies a very-high-risk subgroup. Histologic grading may inform surgical strategy and lymph node dissection in small-nodule lung cancer.",
+    "journal": "Lung Cancer",
+    "pubdate": "2026-10-29",
+    "pubtypes": [
+      "Journal Article"
+    ],
+    "authors": "Herui Han, Zirui Zhu, Jie Gao, et al.",
+    "keywords": [
+      "IASLC grading",
+      "Lung adenocarcinoma",
+      "Lymph node metastasis",
+      "Non-mucinous adenocarcinoma",
+      "Visceral pleural invasion"
+    ],
+    "doi": "10.1016/j.lungcan.2026.109673",
+    "source": "core",
+    "journal_if": 5.3,
+    "journal_quartile": "Q2",
+    "highlight_score": 60
+  },
+  {
+    "pmid": "42965526",
+    "title": "Local ablative treatment for oligoprogression during immunotherapy in metastatic non-small-cell lung cancer: a systematic review and meta-analysis.",
+    "abstract": "Some patients with metastatic non-small-cell lung cancer (NSCLC) receiving anti-PD-1 or anti-PD-L1 immune checkpoint inhibitors (ICIs) progress at a few sites while disease elsewhere stays controlled, a pattern consistent with focal, oligo-acquired immune escape rather than systemic treatment failure. Ablating the escaping focus may eliminate the resistant clone and preserve an otherwise effective immunotherapy line. We performed a PRISMA 2020-compliant, PROSPERO-registered systematic review and meta-analysis of local ablative treatment (LAT) for oligoprogressive or oligo-resistant metastatic NSCLC during active ICI therapy, with continuation of the same immunotherapy line after LAT. MEDLINE, PubMed, Web of Science, Scopus, and the Cochrane Library were searched from inception to March 8, 2026. From 1270 records, 22 studies were included in the qualitative synthesis. Four studies, one randomized subgroup, and three retrospective cohorts contributed to each primary analysis. LAT-oriented management was associated with improved progression-free survival (PFS; pooled hazard ratio [HR] 0.45, 95% CI 0.33-0.62; 95% prediction interval [PI] 0.28-0.74; I2 = 0%) and overall survival (OS; pooled HR 0.41, 95% CI 0.27-0.63; 95% PI 0.24-0.69; I2 = 0%). PFS and OS estimates were consistent across sensitivity analyses, including the exclusion of the one PFS estimate measured to a second progression. The evidence is predominantly observational and of low certainty, reflecting the current absence of NSCLC-specific randomized trials. On this evidence, LAT, delivered predominantly as stereotactic body radiotherapy, may be considered a continuation-enabling option for carefully selected patients with focal progression on otherwise effective immunotherapy, pending ongoing randomized trials.",
+    "journal": "Oncoimmunology",
+    "pubdate": "2026-12-31",
+    "pubtypes": [
+      "Systematic Review",
+      "Journal Article",
+      "Meta-Analysis",
+      "Review"
+    ],
+    "authors": "Ismaell Massalha, Adham Hijab, Reem Zabit, et al.",
+    "keywords": [
+      "Humans",
+      "Carcinoma, Non-Small-Cell Lung",
+      "Lung Neoplasms",
+      "Immunotherapy",
+      "Immune Checkpoint Inhibitors",
+      "Disease Progression",
+      "Neoplasm Metastasis",
+      "Non-small-cell lung cancer",
+      "immune checkpoint inhibitor",
+      "local ablative treatment",
+      "meta-analysis",
+      "oligo-acquired resistance",
+      "oligoprogression",
+      "stereotactic body radiotherapy"
+    ],
+    "doi": "10.1080/2162402X.2026.2756061",
+    "source": "core",
+    "journal_if": 6.4,
+    "journal_quartile": "Q2",
+    "highlight_score": 50
+  }
+]
