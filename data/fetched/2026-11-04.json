@@ -1,0 +1,32 @@
+[
+  {
+    "pmid": "42975305",
+    "title": "Predicting Lymph Node Metastasis in Part-Solid Lung Adenocarcinomas with a Maximum Solid Portion Diameter of 30.0 mm.",
+    "abstract": "Background The incidence of lymph node (LN) metastasis in patients with part-solid nodules (PSNs) is known to be low, which makes the intraoperative evaluation of LNs a controversial issue. Purpose To investigate the incidence of LN metastasis and explore clinical-radiologic predicting factors for LN metastasis in PSN lung adenocarcinomas with a solid portion diameter of 30.0 mm or less in a large surgical study sample. Materials and Methods This retrospective study included patients with part-solid lung adenocarcinomas with solid portion diameters of 30.0 mm or less on preoperative CT images from July 2023 to December 2024. For each PSN, overall tumor size, solid portion diameter, consolidation-to-tumor ratio (CTR), location, margin, shape, spiculation, lobulation, pleural retraction, bubble-like lucency, and air bronchogram were independently evaluated by two chest radiologists blinded to clinical information and pathology results. Univariable and multivariable logistic regression analyses were performed. Diagnostic performance was evaluated using receiver operating characteristic curve, calibration, and decision curve analysis. Results This study included 1444 patients (median age, 59 years; IQR, 51-67 years; 931 women). The frequency of LN metastasis was 4.7% (68 of 1444 patients). None of the 115 patients with a CTR of 0.25 or less had LN metastasis (N1: 0 of 115; N2: 0 of 115). Rarely (0.2%, one of 552), LN metastasis was found in patients with a solid portion diameter of 6.0 mm or less. Solid portion diameter was the only independent predictor of LN metastasis (odds ratio, 1.25; 95% CI: 1.20, 1.31) in multivariable analysis and showed a superior diagnostic performance compared with CTR (area under the receiver operating characteristic curve, 0.86 [95% CI: 0.82, 0.90] vs 0.75 [95% CI: 0.68, 0.80]; P < .001), along with better calibration (Brier score, 0.039 vs 0.044) and greater net benefit. The clinical actionable cutoff for solid portion diameter was 7.3 mm (sensitivity, 95.6%; specificity, 49.6%). Conclusion Solid portion diameter had a superior diagnostic performance compared with CTR in predicting LN metastasis in patients with part-solid lung adenocarcinomas of solid portion diameter of 30.0 mm or less at CT. © RSNA, 2026 Supplemental material is available for this article.",
+    "journal": "Radiology",
+    "pubdate": "2026-11-01",
+    "pubtypes": [
+      "Journal Article"
+    ],
+    "authors": "Xinchun Li, Jinyang Ma, Weicong Chen, et al.",
+    "keywords": [
+      "Humans",
+      "Female",
+      "Lymphatic Metastasis",
+      "Retrospective Studies",
+      "Lung Neoplasms",
+      "Adenocarcinoma of Lung",
+      "Tomography, X-Ray Computed",
+      "Male",
+      "Middle Aged",
+      "Aged",
+      "Predictive Value of Tests",
+      "Lymph Nodes"
+    ],
+    "doi": "10.1148/radiol.261341",
+    "source": "core",
+    "journal_if": 19.7,
+    "journal_quartile": "Q1",
+    "highlight_score": 40
+  }
+]
