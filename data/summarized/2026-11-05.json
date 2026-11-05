@@ -1,0 +1,102 @@
+[
+  {
+    "pmid": "42628840",
+    "title": "Five-year outcomes of perioperative pembrolizumab for early-stage non-small-cell lung cancer from the randomized KEYNOTE-671 study.",
+    "abstract": "BACKGROUND: Adding perioperative pembrolizumab to neoadjuvant chemotherapy significantly improved event-free survival (EFS; P < 0.001) and overall survival (OS; P = 0.0052) compared with neoadjuvant chemotherapy and surgery alone in participants with early-stage non-small-cell lung cancer (NSCLC) in the phase III, randomized KEYNOTE-671 study. We report results from KEYNOTE-671 after 5 years of follow-up. PATIENTS AND METHODS: Eligible participants with previously untreated, resectable stage II, IIIA, or IIIB (N2) NSCLC were randomly assigned 1 : 1 to 4 cycles of pembrolizumab 200 mg or placebo every 3 weeks, plus platinum-doublet chemotherapy, followed by surgery, then adjuvant pembrolizumab or placebo every 3 weeks for up to 13 cycles. Dual primary endpoints were EFS per RECIST version 1.1 by investigator assessment and OS. RESULTS: Seven hundred ninety-seven participants were randomly assigned to receive pembrolizumab (n = 397) or placebo (n = 400). Median time from randomization to data cut-off (3 July 2025) was 60.4 (range 42.6-85.8) months. Five-year EFS was 49.9% [95% confidence interval (CI) 44.6-55.0] in the pembrolizumab arm and 26.5% (95% CI 21.7-31.5) in the placebo arm [hazard ratio (HR) 0.58, 95% CI 0.48-0.69]; 5-year OS was 64.6% (95% CI 59.5-69.2) and 53.6% (95% CI 48.3-58.6), respectively (HR 0.74, 95% CI 0.59-0.92). No detriment to health-related quality of life was identified in the pembrolizumab versus placebo arm with longer follow-up. Safety was consistent with the known profiles of each treatment. CONCLUSIONS: After 5 years of follow-up, EFS was nearly double with perioperative pembrolizumab plus neoadjuvant chemotherapy, along with continued improvement in OS compared with neoadjuvant chemotherapy and surgery alone. The durable and clinically meaningful benefits observed support use of this treatment as a standard of care for patients with resectable, early-stage NSCLC (ClinicalTrials.gov, NCT03425643).",
+    "journal": "Ann Oncol",
+    "pubdate": "2026-11-01",
+    "pubtypes": [
+      "Journal Article",
+      "Randomized Controlled Trial",
+      "Clinical Trial, Phase III",
+      "Multicenter Study"
+    ],
+    "authors": "H Wakelee, J D Spicer, S Gao, et al.",
+    "keywords": [
+      "Humans",
+      "Antibodies, Monoclonal, Humanized",
+      "Carcinoma, Non-Small-Cell Lung",
+      "Female",
+      "Lung Neoplasms",
+      "Male",
+      "Middle Aged",
+      "Aged",
+      "Neoplasm Staging",
+      "Antineoplastic Combined Chemotherapy Protocols",
+      "Neoadjuvant Therapy",
+      "Adult",
+      "Chemotherapy, Adjuvant",
+      "Perioperative Care",
+      "Antineoplastic Agents, Immunological"
+    ],
+    "doi": "10.1016/j.annonc.2026.08.005",
+    "source": "core",
+    "journal_if": 56.7,
+    "journal_quartile": "Q1",
+    "highlight_score": 120,
+    "chinese_conclusion": "围手术期帕博利珠单抗联合新辅助化疗可显著改善早期非小细胞肺癌患者的无事件生存期和总生存期，5年随访显示获益持久，支持其作为可切除早期NSCLC的标准治疗。",
+    "pathology": "NSCLC",
+    "treatment_tags": [
+      "immunotherapy",
+      "chemotherapy",
+      "surgery"
+    ],
+    "chinese_keywords": [
+      "帕博利珠单抗",
+      "围手术期",
+      "无事件生存期",
+      "总生存期",
+      "非小细胞肺癌"
+    ]
+  },
+  {
+    "pmid": "42562209",
+    "title": "SKYSCRAPER-03: a phase III study of tiragolumab plus atezolizumab versus durvalumab in locally advanced, unresectable, stage III NSCLC after platinum-based concurrent chemoradiation.",
+    "abstract": "BACKGROUND: SKYSCRAPER-03 (NCT04513925) was a phase III, open-label, randomized study that evaluated consolidation therapy with tiragolumab plus atezolizumab versus durvalumab in patients with locally advanced, unresectable, stage III, non-small-cell lung cancer (NSCLC) after platinum-based concurrent chemoradiation. PATIENTS AND METHODS: Eligible patients were randomly assigned (1 : 1) to receive either atezolizumab [1680 mg every 4 weeks (Q4W)] plus tiragolumab (840 mg Q4W) on day 1 of each cycle or durvalumab (10 mg/kg every 2 weeks or 1500 mg Q4W for those ≥30 kg body weight) on days 1 and 15 of each cycle for 13 × 28-day cycles. The primary endpoint was Independent Review Facility (IRF)-assessed progression-free survival (PFS) in patients with programmed death-ligand 1 (PD-L1)-positive (tumor cells ≥1%) NSCLC. Key secondary endpoints were overall survival (OS) and safety. RESULTS: The PD-L1 all-comers population included 413 patients randomly assigned to tiragolumab plus atezolizumab and 416 to durvalumab; the PD-L1-positive population included 209 and 210 patients in each arm, respectively. After a median follow-up of 33.0 months, median IRF-assessed PFS in PD-L1-positive patients was 19.4 months with tiragolumab plus atezolizumab compared with 16.6 months with durvalumab [stratified hazard ratio (HR) 0.96, 95% confidence interval (CI) 0.75-1.23, P = 0.76]; median PFS in PD-L1 all-comers was 14.2 compared with 13.8 months, respectively (stratified HR 1.00, 95% CI 0.84-1.19). The median OS in PD-L1-positive patients was not estimable with tiragolumab plus atezolizumab compared with 54.8 months with durvalumab (stratified HR 0.99, 95% CI 0.73-1.34); in PD-L1 all-comers, the median OS was 45.6 compared with 45.8 months, respectively (stratified HR 0.98, 95% CI 0.80-1.20). The safety profile of the combination was consistent with prior observations and there were no new or unexpected findings. CONCLUSIONS: The primary endpoint of the SKYSCRAPER-03 study was not met. Tiragolumab plus atezolizumab was tolerated but did not offer additional benefit over durvalumab.",
+    "journal": "Ann Oncol",
+    "pubdate": "2026-11-01",
+    "pubtypes": [
+      "Journal Article",
+      "Clinical Trial, Phase III",
+      "Randomized Controlled Trial",
+      "Multicenter Study"
+    ],
+    "authors": "H A Wakelee, M-J Ahn, J Bradley, et al.",
+    "keywords": [
+      "Humans",
+      "Carcinoma, Non-Small-Cell Lung",
+      "Antibodies, Monoclonal, Humanized",
+      "Antibodies, Monoclonal",
+      "Lung Neoplasms",
+      "Female",
+      "Antineoplastic Combined Chemotherapy Protocols",
+      "Middle Aged",
+      "Aged",
+      "Male",
+      "Chemoradiotherapy",
+      "Neoplasm Staging",
+      "Adult",
+      "Progression-Free Survival",
+      "atezolizumab"
+    ],
+    "doi": "10.1016/j.annonc.2026.07.414",
+    "source": "core",
+    "journal_if": 56.7,
+    "journal_quartile": "Q1",
+    "highlight_score": 120,
+    "chinese_conclusion": "在局部晚期不可切除III期NSCLC患者中，替瑞利尤单抗联合阿替利珠单抗巩固治疗相比度伐利尤单抗未能延长PFS或OS，未达到主要终点。",
+    "pathology": "NSCLC",
+    "treatment_tags": [
+      "immunotherapy",
+      "chemotherapy",
+      "radiotherapy"
+    ],
+    "chinese_keywords": [
+      "替瑞利尤单抗",
+      "阿替利珠单抗",
+      "度伐利尤单抗",
+      "III期非小细胞肺癌",
+      "巩固治疗"
+    ]
+  }
+]
