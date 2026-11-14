@@ -1,0 +1,44 @@
+[
+  {
+    "pmid": "43007081",
+    "title": "Low-Dose CT Lung-RADS 2022 for the Management of Screening- and Non-Screening-detected Lung Cancer Associated with Cystic Airspaces.",
+    "abstract": "Background Lung cancer associated with cystic airspaces (CA) can be misinterpreted as a benign lesion, leading to missed or delayed diagnosis; however, the effect of the Lung Imaging Reporting and Data System (Lung-RADS) 2022 criteria remains unverified. Purpose To retrospectively determine the frequency and outcomes of lung cancer associated with CA during screening and explore the potential effect of Lung-RADS 2022 on earlier diagnosis. Materials and Methods This secondary analysis included participants with lung cancers from three trials: the National Lung Screening Trial (2002-2007); Italian Lung Cancer Screening Trial, or ITALUNG (2004-2010); and German Lung Cancer Screening Intervention trial, or LUSI (2007-2016). Two radiologists jointly reviewed low-dose CT images to identify and morphologically characterize lung cancer associated with CA. Associations with histologic features, stage, and other variables were assessed. Lung cancer-specific survival was analyzed using Fine-Gray regression accounting for the competing risk of non-lung cancer death. Multivariable models were adjusted for age, sex, stage, detection status, and trial. Lung-RADS 2022 criteria for atypical pulmonary cysts were applied. Results Seventy-three cancers associated with CA were identified in 1258 participants (median age, 64 years [IQR, 61-69 years]; 43 male), including 44 of 716 (6.1%) screening-detected and 29 of 542 (5.4%) non-screening-detected cancers. Multilocular morphologic type was associated with a more advanced stage than unilocular morphologic type (12 of 24 vs 15 of 49; P = .02). The 5-year lung cancer-specific survival was 51.4% (95% CI: 39.3, 62.3) for cancers associated with CA and 53.2% (95% CI: 50.1, 56.2) for 1054 participants with noncystic non-small cell lung cancer. No evidence of a difference in survival was observed (subdistribution hazard ratio, 1.15 [95% CI: 0.81, 1.63]; P = .44), and results remained consistent in multivariable models. Lung-RADS 2022 might have enabled earlier diagnosis in 55 of 73 cancers associated with CA (75%). Conclusion Lung cancer associated with CA accounted for 6.1% of screening-detected and 5.4% of non-screening-detected lung cancers. Outcomes were similar to those of noncystic non-small cell lung cancer, and Lung-RADS 2022 may facilitate earlier diagnosis. Clinical trial registration nos. NCT00047385, NCT02777996, and ISRCTN N30604390 © RSNA, 2026 Supplemental material is available for this article. See also the editorial by Byrne and Hammer in this issue.",
+    "journal": "Radiology",
+    "pubdate": "2026-11-01",
+    "pubtypes": [
+      "Clinical Trial, Phase III",
+      "Journal Article",
+      "Randomized Controlled Trial"
+    ],
+    "authors": "Mario Mascalchi, Edoardo Cavigli, Donella Puliti, et al.",
+    "keywords": [
+      "Aged",
+      "Female",
+      "Humans",
+      "Male",
+      "Middle Aged",
+      "Cysts",
+      "Early Detection of Cancer",
+      "Lung",
+      "Lung Neoplasms",
+      "Radiation Dosage",
+      "Retrospective Studies",
+      "Tomography, X-Ray Computed"
+    ],
+    "doi": "10.1148/radiol.253678",
+    "source": "fallback",
+    "journal_if": 19.7,
+    "journal_quartile": "Q1",
+    "highlight_score": 80,
+    "chinese_conclusion": "与囊性空腔相关的肺癌约占筛查检出和非筛查检出肺癌的6.1%和5.4%，其预后与非囊性非小细胞肺癌相似，而Lung-RADS 2022标准可能有助于更早诊断这类病变。",
+    "pathology": "NSCLC",
+    "treatment_tags": [],
+    "chinese_keywords": [
+      "低剂量CT",
+      "肺囊性空腔",
+      "Lung-RADS 2022",
+      "肺癌筛查",
+      "早期诊断"
+    ]
+  }
+]
