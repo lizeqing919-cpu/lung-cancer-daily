@@ -1,0 +1,54 @@
+[
+  {
+    "pmid": "42173326",
+    "title": "Long-Term Outcomes After Proton Therapy Versus Intensity Modulated Photon Radiation Therapy With Concurrent Chemotherapy for Locally Advanced Non-Small Cell Lung Cancer: Post Hoc Analysis of a Prospective Randomized Trial.",
+    "abstract": "PURPOSE: To report long-term toxicity and disease outcomes from a randomized trial comparing passive scattering proton therapy (PSPT) and intensity modulated photon radiation therapy (IMRT), both with concurrent chemotherapy, for non-small cell lung cancer. METHODS AND MATERIALS: One hundred forty-nine patients with locally advanced non-small cell lung cancer were randomly assigned to IMRT or PSPT; 147 completed the assigned treatment. Local failure, radiation pneumonitis (RP), major adverse cardiac events (MACEs), long-term esophageal toxicity, and survival were estimated and compared between IMRT and PSPT. Risk factors for each endpoint were analyzed using Cox proportional hazards regression or competing-risks regression. RESULTS: The median follow-up time was 28.5 months (29.7 months IMRT, 26.2 months PSPT); 7 patients were lost to follow-up. Grade ≥3 RP was experienced by 10 patients in the IMRT group (10.9%) and 6 in the PSPT group (10.5%; P = .98); 2 patients treated with IMRT and no patients treated with PSPT had grade 5 RP. Pre-existing pulmonary disease and mean lung dose were found to be associated with grade ≥3 RP. Esophageal toxicity rates did not differ between groups and consisted of 7 grade 3 strictures and 1 secondary cancer. Of the 10 definitely/possibly radiation-related MACEs, 1 was in PSPT, and 9 were in IMRT; doses to coronary arteries may have been associated with MACE. No differences were found in local failure or progression-free survival. Tumor volume and radiation dose influenced survival outcomes. CONCLUSIONS: When both IMRT and PSPT plans met dose-volume constraints for the lung, no differences were found in lung toxicity or local failure after IMRT versus PSPT, consistent with our original findings. PSPT led to fewer cases of radiation-related MACE, presumably from reduced radiation dose to the coronary arteries. Survival outcomes were comparable to those of Radiation Therapy Oncology Group 0617, a phase 3 trial that included only patients with stage IIB to IIIA disease and good performance status.",
+    "journal": "Int J Radiat Oncol Biol Phys",
+    "pubdate": "2026-11-15",
+    "pubtypes": [
+      "Journal Article",
+      "Randomized Controlled Trial",
+      "Comparative Study"
+    ],
+    "authors": "Tingshi Su, Ting Xu, Mei Chen, et al.",
+    "keywords": [
+      "Aged",
+      "Female",
+      "Humans",
+      "Male",
+      "Middle Aged",
+      "Carcinoma, Non-Small-Cell Lung",
+      "Chemoradiotherapy",
+      "Esophagus",
+      "Follow-Up Studies",
+      "Heart",
+      "Lung Neoplasms",
+      "Photons",
+      "Proportional Hazards Models",
+      "Prospective Studies",
+      "Proton Therapy"
+    ],
+    "doi": "10.1016/j.ijrobp.2026.05.012",
+    "source": "core",
+    "journal_if": 6.4,
+    "journal_quartile": "Q1",
+    "highlight_score": 100
+  },
+  {
+    "pmid": "43031358",
+    "title": "Clinical Utility of Next Generation Sequencing in Concurrent EBUS-TBNA and Liquid Biopsies in NSCLC.",
+    "abstract": "",
+    "journal": "Am J Respir Crit Care Med",
+    "pubdate": "2026-11-14",
+    "pubtypes": [
+      "Journal Article"
+    ],
+    "authors": "Sarah Yeo, Tracy L Leong, Daniel P Steinfort",
+    "keywords": [],
+    "doi": "",
+    "source": "core",
+    "journal_if": 19.3,
+    "journal_quartile": "Q1",
+    "highlight_score": 10
+  }
+]
