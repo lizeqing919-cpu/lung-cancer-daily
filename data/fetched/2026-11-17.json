@@ -1,0 +1,136 @@
+[
+  {
+    "pmid": "42714874",
+    "title": "Ceralasertib plus Durvalumab in Ras Mutant and Ras Wild-Type Advanced Non-Small Cell Lung Cancer: Two Cohorts of the Phase II Platform National Lung Matrix Trial.",
+    "abstract": "PURPOSE: Preclinical data suggest that ceralasertib, a potent ATR inhibitor, might reverse resistance to anti-PD-(L)1 in KRAS-mutant lung adenocarcinoma (LUAD). Activity of ceralasertib/durvalumab was, therefore, assessed in 2 prospective, parallel immune checkpoint blockade-resistant cohorts, 1 harboring KRAS mutations (J1) and the other without (NAJ), within the National Lung Matrix Trial. PATIENTS AND METHODS: Oral ceralasertib was administered (240 mg twice daily on days 15-28) with durvalumab (1,500 mg i.v., on day 1 of every 28-day cycle) until disease progression. Coprimary outcomes were objective response (OR) and 24-week durable clinical benefit (DCB). Biological impacts of ceralasertib were assessed in a human BJ-hTERT KRASV12ER-TAM model. Immunologic impact of KRAS mutation was assessed using gene-level processed LUAD The Cancer Genome Atlas PanCancer data. RESULTS: Between July 2, 2020, and October 31, 2021, 43 patients were registered, 19 and 18 of whom were evaluable for outcome analysis in cohorts J1 and NAJ, respectively. Cohort target recruitment (30 participants each) was not reached due to trial closure at the preplanned end of funding. Bayesian estimates of DCB rates (95% credible intervals) were 37.7% (19.1-59.2) for J1 and 29.3% (12.6-51.2) for NAJ. Two participants demonstrated OR, both KRAS mutant, 1 of whom had KEAP1/STK11 co-mutation. KRAS mutation significantly increased the proportion of cells harboring ceralasertib-induced micronuclei. Ceralasertib blunted KRAS-mediated STAT1 downregulation. CONCLUSIONS: Although outcome measures on ceralasertib/durvalumab in anti-PD-(L)1-resistant patients with LUAD are modestly higher in KRAS-mutant participants, these differences are not significant, a result likely related to the modest impact of KRAS mutation alone on the immunobiology of LUAD.",
+    "journal": "Clin Cancer Res",
+    "pubdate": "2026-11-16",
+    "pubtypes": [
+      "Journal Article",
+      "Clinical Trial, Phase II"
+    ],
+    "authors": "Gary Middleton, Richard Buchanan, Joshua Savage, et al.",
+    "keywords": [
+      "Humans",
+      "Mutation",
+      "Female",
+      "Lung Neoplasms",
+      "Male",
+      "Aged",
+      "Middle Aged",
+      "Antineoplastic Combined Chemotherapy Protocols",
+      "Antibodies, Monoclonal",
+      "Carcinoma, Non-Small-Cell Lung",
+      "Proto-Oncogene Proteins p21(ras)",
+      "Adult",
+      "Drug Resistance, Neoplasm",
+      "Pyrazoles",
+      "Treatment Outcome"
+    ],
+    "doi": "10.1158/1078-0432.CCR-26-1365",
+    "source": "core",
+    "journal_if": 11.5,
+    "journal_quartile": "Q1",
+    "highlight_score": 75
+  },
+  {
+    "pmid": "42440361",
+    "title": "Divergent Tumor Immune Microenvironment and Response to Neoadjuvant Chemoimmunotherapy in Resectable Non-Small Cell Lung Cancer: A Single-Arm Phase II Trial.",
+    "abstract": "PURPOSE: Neoadjuvant chemoimmunotherapy improves outcomes in resectable non-small cell lung cancer (NSCLC), yet the spatial immune features associated with treatment response remain unclear. PATIENTS AND METHODS: In this single-arm phase II trial (NCT05383716), patients with resectable NSCLC received neoadjuvant pembrolizumab plus platinum-based chemotherapy, followed by surgery and adjuvant immunotherapy. The primary endpoint was major pathologic response (MPR). Digital spatial profiling was performed on resected tumors and paired draining lymph nodes from 22 patients, with additional tumor samples collected for validation. RESULTS: Among 80 enrolled patients, 55 underwent surgery, achieving an MPR rate of 37.5% and a pathologic complete response rate of 26.3%. Grade 3 to 4 treatment-related adverse events occurred in 26.3% of patients. Spatial transcriptomics showed that MPR tumors were enriched for T- and B-cell activation pathways and infiltration of CD8+ T cells, B cells, plasma cells, and T follicular helper cells, whereas non-MPR tumors exhibited stress adaptation and immune suppression signatures. Two immune phenotypes were identified within MPR samples: myeloid-enriched (ME) and lymphoid-enriched (LE) subtypes. The LE subtype was associated with improved response and survival in validation cohorts, whereas higher ME scores showed a trend toward poorer survival. An 18-gene LE signature was developed as a potential biomarker for adjuvant immunotherapy benefit. CONCLUSIONS: Neoadjuvant pembrolizumab plus chemotherapy demonstrated encouraging efficacy and manageable safety in resectable NSCLC. Spatial profiling identified distinct immune phenotypes associated with response and may inform patient stratification for adjuvant therapy. See related commentary by Wang et al., p. 5009.",
+    "journal": "Clin Cancer Res",
+    "pubdate": "2026-11-16",
+    "pubtypes": [
+      "Journal Article",
+      "Clinical Trial, Phase II"
+    ],
+    "authors": "Minjiang Chen, Rongzhen Li, Zuolin Cheng, et al.",
+    "keywords": [
+      "Humans",
+      "Carcinoma, Non-Small-Cell Lung",
+      "Tumor Microenvironment",
+      "Neoadjuvant Therapy",
+      "Female",
+      "Lung Neoplasms",
+      "Middle Aged",
+      "Male",
+      "Aged",
+      "Antineoplastic Combined Chemotherapy Protocols",
+      "Antibodies, Monoclonal, Humanized",
+      "Immunotherapy",
+      "Adult",
+      "Biomarkers, Tumor",
+      "Pathologic Complete Response"
+    ],
+    "doi": "10.1158/1078-0432.CCR-25-4222",
+    "source": "core",
+    "journal_if": 11.5,
+    "journal_quartile": "Q1",
+    "highlight_score": 75
+  },
+  {
+    "pmid": "42714875",
+    "title": "Associations of Baseline Neutrophil-to-Lymphocyte Ratio with Efficacy and Toxicity of the B7H3 ADC YL201, Linked to Interleukin 6: Analysis of the Phase I/Ib Trial.",
+    "abstract": "PURPOSE: To evaluate the association between inflammation-related indicators and efficacy and toxicity of YL201, a B7H3-targeting antibody-drug conjugate (ADC). EXPERIMENTAL DESIGN: Data in this study were derived from a large-scale, global, multicenter, phase I/Ib trial of YL201 (NCT05434234 and NCT06057922). Inflammation-related indicators, including systemic immune-inflammation index (SII), neutrophil-to-lymphocyte ratio (NLR), platelet-to-lymphocyte ratio (PLR), and lymphocyte-to-monocyte ratio (LMR), were calculated from peripheral blood counts at baseline and before each cycle of YL201. Cox and logistic regression analyses assessed their associations with progression-free survival (PFS), treatment response, and treatment-related adverse events (TRAE). Plasma Olink proteomics on 72 samples (54 baseline and 18 paired at efficacy evaluation) from 54 patients was used to explore proteomic changes induced by these inflammation-related indicators. RESULTS: In patients receiving YL201, a high baseline NLR was associated with inferior treatment response and PFS, particularly in those with non-small cell lung cancer (NSCLC). Beyond its prognostic association, a high baseline NLR was associated with an increased risk of any-grade thrombocytopenia and a reduced risk of any-grade asthenia, nausea, and constipation. A high baseline NLR was also associated with an increased risk of grade ≥3 TRAEs. Plasma Olink proteomic analyses suggested that the interleukin (IL) 6 level might be correlated with NLR status and further influence the probability of clinical benefit. CONCLUSIONS: In YL201-treated patients, a high baseline NLR was associated with inferior efficacy and a distinct toxicity profile, supporting its clinical utility for patient stratification. For high-NLR patients, combination with IL6-targeted therapy might improve the efficacy and reduce the toxicity of YL201.",
+    "journal": "Clin Cancer Res",
+    "pubdate": "2026-11-16",
+    "pubtypes": [
+      "Journal Article",
+      "Clinical Trial, Phase I",
+      "Multicenter Study"
+    ],
+    "authors": "Junjie Hu, Xingyi Zhong, Yuxiang Ma, et al.",
+    "keywords": [
+      "Humans",
+      "Neutrophils",
+      "Female",
+      "Lymphocytes",
+      "Male",
+      "Interleukin-6",
+      "Immunoconjugates",
+      "Middle Aged",
+      "Aged",
+      "Carcinoma, Non-Small-Cell Lung",
+      "Lung Neoplasms"
+    ],
+    "doi": "10.1158/1078-0432.CCR-26-1896",
+    "source": "core",
+    "journal_if": 11.5,
+    "journal_quartile": "Q1",
+    "highlight_score": 60
+  },
+  {
+    "pmid": "42887461",
+    "title": "Lazertinib plus pemetrexed and carboplatin in patients with EGFR-mutant advanced non-small cell lung cancer after progression on lazertinib.",
+    "abstract": "BACKGROUND: Therapeutic strategies after progression on third-generation EGFR tyrosine kinase inhibitors (EGFR-TKIs) remain suboptimal in EGFR-mutant non-small cell lung cancer (NSCLC). We investigated whether continuing EGFR inhibition with lazertinib combined with platinum-pemetrexed chemotherapy could extend clinical benefit after progression on prior lazertinib. METHODS: In the multicenter, single-arm, phase II LUCAS study (NCT05786430), patients with advanced EGFR-mutant NSCLC who had progressed on lazertinib received lazertinib 240 mg daily plus pemetrexed-carboplatin for four cycles, followed by maintenance lazertinib and pemetrexed. The primary endpoint was progression-free survival (PFS); secondary endpoints included overall survival (OS), objective response rate (ORR), intracranial PFS, safety, and exploratory ctDNA analyses. RESULTS: Of 86 patients, 46.5% had a history of brain metastases. Among 81 response-evaluable patients, median PFS was 9.5 months (95% CI: 6.3-9.6; one-sided p = 0.017 against a null median of 6.0 months). In the safety population, median OS was 15.9 months (95% CI: 12.4-20.0) and ORR was 36.0% (95% CI: 26.0-47.1). Outcomes were similar irrespective of prior lazertinib line or EGFR subtype. Baseline ctDNA-detected EGFR amplification was associated with inferior survival. Among 36 patients with radiologically evident baseline brain metastases, median intracranial PFS was 9.9 months (95% CI: 7.8-16.4) with infrequent isolated intracranial progression. Grade ≥ 3 adverse events occurred in 69.8%, predominantly hematologic, without new safety signals. CONCLUSIONS: Continuation of lazertinib with platinum-pemetrexed chemotherapy after progression on prior lazertinib was associated with meaningful systemic and intracranial activity and manageable toxicity. Randomized evaluation is required to establish the incremental benefit of lazertinib continuation.",
+    "journal": "Eur J Cancer",
+    "pubdate": "2026-11-17",
+    "pubtypes": [
+      "Journal Article",
+      "Clinical Trial, Phase II",
+      "Multicenter Study"
+    ],
+    "authors": "Min Hee Hong, Byoung Yong Shim, Chang Gon Kim, et al.",
+    "keywords": [
+      "Adult",
+      "Aged",
+      "Aged, 80 and over",
+      "Female",
+      "Humans",
+      "Male",
+      "Middle Aged",
+      "Antineoplastic Combined Chemotherapy Protocols",
+      "Carboplatin",
+      "Carcinoma, Non-Small-Cell Lung",
+      "Disease Progression",
+      "ErbB Receptors",
+      "Lung Neoplasms",
+      "Mutation",
+      "Pemetrexed"
+    ],
+    "doi": "10.1016/j.ejca.2026.117774",
+    "source": "core",
+    "journal_if": 8.4,
+    "journal_quartile": "Q2",
+    "highlight_score": 55
+  }
+]
