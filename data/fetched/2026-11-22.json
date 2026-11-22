@@ -1,0 +1,25 @@
+[
+  {
+    "pmid": "43064237",
+    "title": "IASLC Multidisciplinary Recommendations for Assessment and Reporting of Lymph Node Treatment Response in Lung Cancer Resection Specimens After Neoadjuvant Therapy.",
+    "abstract": "INTRODUCTION: Pathologic response (PR) after neoadjuvant therapy is an established surrogate endpoint in lung cancer clinical trials. Although IASLC recommendations standardizing PR assessment in primary tumors are widely adopted, guidance for evaluating treatment response in regional lymph nodes (LNs) has been lacking. The IASLC has developed multidisciplinary consensus recommendations for LN assessment in resected lung cancer specimens following neoadjuvant therapy. METHODS: A core group of IASLC pathologists drafted statements addressing key aspects of gross and microscopic LN evaluation. These were refined through a two-round Delphi process involving 48 international experts in thoracic oncology, surgery, radiology, and pathology. Consensus was predefined as ≥85% agreement. Experts reviewed, commented upon, and voted on 13 final recommendations. RESULTS: All 13 recommendations reached consensus (86-100%). Key statements include: defining pathologic complete response (pCR) as the absence of residual viable tumor (RVT) in both lung and LNs; introducing MPR(N+) for cases with ≤10% RVT at the primary site but residual nodal disease; requiring estimation of RVT, stroma, and necrosis across LN stations; accepting unweighted (\"eyeball\") microscopic assessment; encouraging reporting of metastasis size; and advising complete LN submission with selective use of deeper levels and/or immunohistochemistry. The recommendations further clarify interpretation of direct tumor extension into LN, interpretation of psammoma bodies or acellular mucin, and interactions with ypTNM staging principles. CONCLUSION: These IASLC multidisciplinary recommendations provide the first standardized framework for assessing treatment response in LNs after neoadjuvant therapy in lung cancer and are intended to improve diagnostic reproducibility, support trial harmonization, and to outline research opportunities.",
+    "journal": "J Thorac Oncol",
+    "pubdate": "2026-11-20",
+    "pubtypes": [
+      "Journal Article"
+    ],
+    "authors": "Sabina Berezowska, Sanja Dacic, Annikka Weissferdt, et al.",
+    "keywords": [
+      "MPR",
+      "lung cancer",
+      "lymph node metastasis",
+      "neoadjuvant therapy",
+      "regression grading"
+    ],
+    "doi": "10.1016/j.jtho.2026.106265",
+    "source": "core",
+    "journal_if": 20.4,
+    "journal_quartile": "Q1",
+    "highlight_score": 60
+  }
+]
