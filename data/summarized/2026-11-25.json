@@ -1,0 +1,51 @@
+[
+  {
+    "pmid": "42832220",
+    "title": "Smoking Cessation Among Underserved Patients Referred for Lung Cancer Screening: A Randomized Clinical Trial.",
+    "abstract": "IMPORTANCE: The Centers for Medicare & Medicaid Services requires that health systems offer smoking cessation services to patients undergoing lung cancer screening. However, the most effective methods to achieve smoking cessation among medically underserved patients undergoing lung cancer screening are unknown. OBJECTIVE: To compare the effectiveness of 4 strategies for promoting smoking cessation among medically underserved persons referred for lung cancer screening. DESIGN, SETTING, AND PARTICIPANTS: This randomized clinical trial included currently smoking individuals referred for lung cancer screening at 4 US health systems (5 centers) who identified as Black, Hispanic, living in a rural area, or being of low socioeconomic status. The first participant was enrolled on May 17, 2021, and the date of last follow-up was April 29, 2025. INTERVENTION: Patients were randomized to 1 of 4 groups. Participants received either an ask-advise-refer strategy to smoking cessation services (usual care); usual care plus free pharmacotherapy (ie, nicotine replacement and reimbursement for varenicline or bupropion); usual care, free pharmacotherapy, and financial incentives up to $600 contingent on biochemically confirmed smoking cessation; or usual care, free pharmacotherapy, and financial incentives plus a mobile health tool motivating patients to think about their future health. MAIN OUTCOMES AND MEASURES: The primary end point was biochemically confirmed, sustained tobacco abstinence through 6 months, measured with cotinine, anabasine, or carboxyhemoglobin. RESULTS: Of the 9963 patients assessed for eligibility, 3259 patients were randomized and 3220 were included in the primary analysis. The median (IQR) age was 61.1 (56.6-66.0) years, 1948 (60.3%) were female, 823 (25.5%) were Black, 287 (8.9%) were Hispanic, 1251 (38.8%) lived in rural areas, 1519 (74.9%) had low socioeconomic status, and 1792 (55.5%) reported smoking more than 10 cigarettes per day at enrollment. Sustained tobacco abstinence rates through 6 months were 4.3% with usual care, 5.1% with the addition of pharmacotherapy, 8.8% with the addition of financial incentives, and 7.2% with the addition of mobile health tool. Adding financial incentives increased the adjusted rate of sustained tobacco abstinence compared with usual care (difference, 4.6% [95% CI, 2.1%-7.0%]; P < .001) and usual care plus free pharmacotherapy (difference, 4.1% [95% CI, 1.7%-6.4%]; P < .001). Adding free pharmacotherapy to ask-advise-refer was not superior to ask-advise-refer alone (difference, 0.5% [95% CI, -1.7% to 2.6%]; P = .66). CONCLUSIONS AND RELEVANCE: Among medically underserved adults who currently smoked cigarettes and were referred for lung cancer screening, rates of sustained tobacco abstinence were higher through 6 months with addition of financial incentives compared with ask-advise-refer alone or with addition of free pharmacotherapy. TRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT04798664.",
+    "journal": "JAMA",
+    "pubdate": "2026-11-24",
+    "pubtypes": [
+      "Journal Article",
+      "Randomized Controlled Trial",
+      "Multicenter Study",
+      "Comparative Study",
+      "Comment"
+    ],
+    "authors": "Joanna L Hart, Anil Vachani, Christine M Neslund-Dudas, et al.",
+    "keywords": [
+      "Humans",
+      "Smoking Cessation",
+      "Female",
+      "Lung Neoplasms",
+      "Male",
+      "Middle Aged",
+      "Aged",
+      "Nicotine Replacement Therapy",
+      "Referral and Consultation",
+      "Early Detection of Cancer",
+      "Medically Underserved Area",
+      "Motivation",
+      "Bupropion",
+      "Smoking Cessation Agents",
+      "Varenicline"
+    ],
+    "doi": "",
+    "source": "core",
+    "journal_if": 63.1,
+    "journal_quartile": "Q1",
+    "highlight_score": 140,
+    "chinese_conclusion": "在接受肺癌筛查的医疗服务不足的吸烟者中，在常规戒烟建议基础上增加经济激励可显著提高6个月持续戒烟率。",
+    "pathology": "NSCLC",
+    "treatment_tags": [
+      "supportive care"
+    ],
+    "chinese_keywords": [
+      "戒烟",
+      "经济激励",
+      "肺癌筛查",
+      "医疗服务不足人群",
+      "尼古丁替代疗法"
+    ]
+  }
+]
