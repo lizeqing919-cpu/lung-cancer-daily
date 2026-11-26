@@ -1,0 +1,36 @@
+[
+  {
+    "pmid": "42929694",
+    "title": "Sacituzumab Tirumotecan plus Pembrolizumab in PD-L1-Negative Advanced NSCLC.",
+    "abstract": "BACKGROUND: Pembrolizumab plus chemotherapy with a platinum-based agent and pemetrexed is a widely used standard first-line treatment option for patients with programmed death ligand 1 (PD-L1)-negative advanced nonsquamous non-small-cell lung cancer (NSCLC) without targetable genomic alterations, but outcomes remain suboptimal. METHODS: In this phase 3, open-label, randomized trial, we evaluated sacituzumab tirumotecan plus pembrolizumab in patients with previously untreated locally advanced or metastatic nonsquamous NSCLC without targetable genomic alterations and a PD-L1 tumor proportion score of less than 1%. Patients were randomly assigned in a 1:1 ratio to receive sacituzumab tirumotecan plus pembrolizumab or chemotherapy plus pembrolizumab. The primary end point was progression-free survival as assessed by blinded independent central review. Overall survival was a secondary end point. This report presents the results of the prespecified interim analysis. RESULTS: A total of 455 patients were randomly assigned to receive sacituzumab tirumotecan plus pembrolizumab (229 patients) or chemotherapy plus pembrolizumab (226 patients). After a median follow-up of 9.7 months, the median progression-free survival was significantly longer with sacituzumab tirumotecan plus pembrolizumab than with chemotherapy plus pembrolizumab (15.0 months vs. 5.7 months; hazard ratio for disease progression or death, 0.49; 95% confidence interval [CI], 0.36 to 0.65; P<0.001). An objective response occurred in 50.2% and 47.3% of the patients, respectively, and the median duration of response was 13.6 months and 6.8 months. Overall survival data were immature; the hazard ratio for death was 0.58 (95% CI, 0.38 to 0.88). Adverse events of grade 3 or higher that occurred after the start of treatment were reported in 47.6% of the patients assigned to receive sacituzumab tirumotecan plus pembrolizumab and in 60.6% of those assigned to receive chemotherapy plus pembrolizumab. Stomatitis was common with sacituzumab tirumotecan plus pembrolizumab, but the events were predominantly grade 1 or 2. CONCLUSIONS: Among patients with PD-L1-negative advanced nonsquamous NSCLC without targetable genomic alterations, first-line treatment with sacituzumab tirumotecan plus pembrolizumab led to significantly longer progression-free survival than chemotherapy plus pembrolizumab. (Funded by Sichuan Kelun-Biotech Biopharmaceutical; OptiTROP-Lung06 ClinicalTrials.gov number, NCT06711900.).",
+    "journal": "N Engl J Med",
+    "pubdate": "2026-11-26",
+    "pubtypes": [
+      "Journal Article",
+      "Randomized Controlled Trial",
+      "Multicenter Study",
+      "Clinical Trial, Phase III"
+    ],
+    "authors": "Fei Zhou, Xiangjiao Meng, Qingqing Ding, et al.",
+    "keywords": [
+      "Humans",
+      "Antibodies, Monoclonal, Humanized",
+      "Carcinoma, Non-Small-Cell Lung",
+      "Antineoplastic Combined Chemotherapy Protocols",
+      "Lung Neoplasms",
+      "Female",
+      "Aged",
+      "Middle Aged",
+      "Male",
+      "B7-H1 Antigen",
+      "Progression-Free Survival",
+      "Adult",
+      "Aged, 80 and over"
+    ],
+    "doi": "10.1056/NEJMoa2611280",
+    "source": "core",
+    "journal_if": 96.2,
+    "journal_quartile": "Q1",
+    "highlight_score": 140
+  }
+]
